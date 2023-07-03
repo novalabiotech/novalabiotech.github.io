@@ -7,7 +7,7 @@ defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "G-57TNE44HM2"
 
 # number of words of summarized post content (default 70)
 summaryLength = 70
@@ -249,7 +249,7 @@ pluralizelisttitles = false
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io endpoint url
-    formspree_action = "https://formspree.io/sample/of/endpoint"
+    formspree_action = "https://formspree.io/f/xknlware"
     contact_form_ajax = false
 
     # Formspree form supports Google reCAPTCHA Key (type v2).

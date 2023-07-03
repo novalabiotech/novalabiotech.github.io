@@ -2,7 +2,7 @@
 title = "Signs of Early Pregnancy: Understanding Their Significance and Hormonal Changes"
 tags = ["pregnancy"]
 categories = ["Ob gyn"]
-banner = "img/banners/banner-5.jpg"
+banner = "img/banners/banner-3.jpg"
 twitter_author = "jekyllrb"
 +++
 
