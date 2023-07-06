@@ -8,6 +8,9 @@ tags = ["products", "pregnancy"]
 # Novasure One-Step Urine HCG Pregnancy Test Kit
 The Novasure One-Step Urine HCG Pregnancy Test Kit from Novala Biotech is a rapid and reliable in vitro diagnostic tool designed for the early detection of pregnancy. It utilizes a colloidal gold reagent and monoclonal antibodies to accurately detect human chorionic gonadotropin (hCG) in urine samples.
 
+![novasure label](/img/products/novasure.png)
+
+![novasure back](/img/products/novasure-back.png)
 ## Key Features:
 * Early Detection: Detects hCG as early as 7 to 10 days after conception, aiding in early pregnancy detection.
 * High Sensitivity: Detects hCG at a sensitivity level of 25mIU/mL, ensuring accurate results.

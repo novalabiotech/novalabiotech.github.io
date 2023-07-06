@@ -5,8 +5,12 @@ keywords = ["HIV","rapid kit"]
 tags = ["products", "rapidkit", "hiv"]
 +++
 
+
 ## INTRODUCTION:
 Novala HIV-1 and HIV-2 Test Kit is a rapid, 3rd generation, qualitative, sandwich immunoassay designed for the simultaneous and differential detection of total antibodies (IgG, IgM, IgA, etc.) to HIV-1 and HIV-2 viruses in human serum/plasma.
+
+![rapid kit](/img/products/rapidkit.png)
+
 ## SUMMARY:
 AIDS is caused by at least two retroviruses, HIV-1 and HIV-2, collectively referred to as HIV-1/2. Individuals with AIDS, ARC, or at high risk of contracting AIDS often have antibodies to HIV-1 core protein p24, transmembrane protein (gp41), and/or antibodies to HIV-2 transmembrane protein (gp36) in their sera. Detection of these antibodies indicates exposure to the HIV-1/2 virus.
 ## PRINCIPLE:

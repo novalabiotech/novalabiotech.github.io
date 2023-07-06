@@ -4,16 +4,16 @@ banner = "img/banners/banner-5.jpg"
 +++
 
 # Dr Sunita Ghimire
-## Chairperson and Chief Technical Officer
+### Chairperson and Chief Technical Officer
 
-![Dr Sunita Ghimire](/img/team/sunita-ghimire.jpg)
+![Dr Sunita Ghimire](/img/team/sunita-ghimire.webp)
 
 Sunita Ghimire Gautam is a highly skilled molecular biologist with a strong background in gene editing and Adeno Associated Virus production. She holds a Doctor of Philosophy (Ph.D.) degree in Molecular Biotechnology from Saitama University, Japan.
 
 Currently, Sunita serves as the Research and Development Manager at Shikhar Biotech Pvt. Ltd and Chief technical officer at Novala Biotech. In this role, she is responsible for overseeing research and development activities at the company, demonstrating her leadership abilities and expertise in the field. Sunita also served as a Research Scientist at Centre for Brain Science, RIKEN, Japan. She took on the challenge of generating conditional knock-out mouse, using the CRISPR/Cas9 technology that was cutting edge at the time. Before that, she worked as a Researcher at Saitama University, where she focused on the development of drug seeds against Alzheimer’s disease.
 
 # Dr Ravindra Sapkota
-## Director of Scientific research and technology
+### Director of Scientific research and technology
 
 ![Dr Ravindra Sapkota](/img/team/ravindra-sapkota.webp)
 
@@ -28,7 +28,7 @@ Aside from his scientific achievements, Dr. Sapkota is well-versed in the busine
 Dr. Ravindra Mohan Sapkota’s multidisciplinary expertise, encompassing biochemistry, immunology, and business, has positioned him as a distinguished figure in the biotechnology sector. His contributions to scientific research, product development, and company establishment have made a significant impact in the field.
  
 # Kabin Maleku
-## Director of Operations
+### Director of Operations
 
 ![Kabin Maleku](/img/team/kabin-maleku.webp)
 Kabin, a highly skilled pharmacist, obtained his Master's degree in Pharmaceutics from BITS Pilani, a prestigious university in India. His contributions to Nepal's pharmaceutical and healthcare sectors have been remarkable. With extensive experience in clinical research, regulatory affairs, and healthcare institution development, Kabin has played a pivotal role in planning and executing healthcare projects, developing products, and conducting market research.
@@ -40,9 +40,9 @@ Kabin's diverse experience includes leading Raskot Community Hospital developmen
 He has been consulting various organizations and media companies and also working as a visiting lecturer. His dedication, leadership skills, and commitment to advancing healthcare services make him an invaluable asset in the industry.
  
 # Dr Prabhat Adhikari
-## Internal Medicine, Infectious Diseases & Critical Care (US Board Certified), Advisor, Medical and Diagnostics
-![Dr Prabhat Adhikari](/img/team/prabhat-adhikari.webp)
+### Internal Medicine, Infectious Diseases & Critical Care (US Board Certified), Advisor, Medical and Diagnostics
 
+![Dr Prabhat Adhikari](/img/team/prabhat-adhikari.webp)
 
 Dr. Prabhat Adhikari is a physician, entrepreneur, and social activist passionate about medical IT and research. During his specialization in Infectious Diseases & Critical Care in the USA, he recognized the need to revolutionize healthcare in Third World countries with innovative technologies. He co-founded "Danphe Care," a multinational company developing international standard medical software with integrated HMS, Telemedicine, and EMR. This marked a career turning point, leading him to return home to pursue his dream.
 
