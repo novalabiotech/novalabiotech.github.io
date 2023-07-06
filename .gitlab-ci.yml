@@ -1,0 +1,21 @@
+image: registry.gitlab.com/pages/hugo/hugo_extended:latest
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+job1:
+  variables:
+    SECURE_FILES_DOWNLOAD_PATH: '~/bin'
+  script:
+  - apk add curl bash  
+  - hugo --gc --minify
+  - mkdir  ~/bin
+  - wget -O - https://downloads.rclone.org/rclone-current-linux-amd64.zip | unzip -j -d ~/bin -
+  - chmod 755 ~/bin/rclone
+  - curl --silent "https://gitlab.com/gitlab-org/incubation-engineering/mobile-devops/download-secure-files/-/raw/main/installer" | ash
+  - ls ~/bin
+  - cat ~/bin/rclone.conf
+  - rclone -P sync public/ novala-webdav:
+  - rm ~/bin/rclone.conf
+  rules:
+  - if: $CI_COMMIT_BRANCH == 'main'
