@@ -11,7 +11,7 @@ job1:
   - hugo --gc --minify
   - curl --silent "https://gitlab.com/gitlab-org/incubation-engineering/mobile-devops/download-secure-files/-/raw/main/installer" | bash
   - mkdir -p ~/.config/rclone
-  - ln -s /builds/sapradhan/novala.com.np/rclone.conf ~/.config/rclone/rclone.conf
+  - ln -s /builds/sapradhan/novala.com.np/.secure_files/rclone.conf ~/.config/rclone/rclone.conf
   - ls -l ~/.config/rclone/
   - ls 
   - 'rclone -P sync public/ novala-webdav:'
