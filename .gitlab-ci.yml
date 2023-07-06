@@ -4,18 +4,16 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 job1:
-  variables:
-    SECURE_FILES_DOWNLOAD_PATH: '~/bin'
+  # variables:
+    # SECURE_FILES_DOWNLOAD_PATH: '~/bin'
   script:
-  - apk add curl bash  
+  - apk add curl bash rclone 
   - hugo --gc --minify
-  - mkdir  ~/bin
-  - wget -O - https://downloads.rclone.org/rclone-current-linux-amd64.zip | unzip -j -d ~/bin -
-  - chmod 755 ~/bin/rclone
-  - curl --silent "https://gitlab.com/gitlab-org/incubation-engineering/mobile-devops/download-secure-files/-/raw/main/installer" | ash
-  - ls ~/bin
-  - cat ~/bin/rclone.conf
+  - curl --silent "https://gitlab.com/gitlab-org/incubation-engineering/mobile-devops/download-secure-files/-/raw/main/installer" | bash
+  - mkdir -p ~/.config/rclone
+  - ln -s /builds/sapradhan/novala.com.np/rclone.conf ~/.config/rclone/rclone.conf
+  - ls -l ~/.config/rclone/
+  - ls 
   - 'rclone -P sync public/ novala-webdav:'
-  - rm ~/bin/rclone.conf
   rules:
   - if: $CI_COMMIT_BRANCH == 'main'
