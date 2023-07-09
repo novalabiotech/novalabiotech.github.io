@@ -1,4 +1,4 @@
 #!/bin/sh
 
-hugo
+hugo --gc --minify
 rclone -P sync public/ novala-webdav:
