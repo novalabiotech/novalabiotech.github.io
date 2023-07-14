@@ -3,7 +3,11 @@ image: registry.gitlab.com/pages/hugo/hugo_extended:latest
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
+stages:
+  - build_deploy
+
 job1:
+  stage: build_deploy
   script:
   - apk add curl bash rclone 
   - hugo --gc --minify
@@ -11,5 +15,7 @@ job1:
   - mkdir -p ~/.config/rclone
   - ln -s /builds/sapradhan/novala.com.np/.secure_files/rclone.conf ~/.config/rclone/rclone.conf
   - 'rclone sync public/ novala-webdav:'
-  rules:
-  - if: $CI_COMMIT_BRANCH == 'main'
+  only:
+    - manual
+  # rules:
+  # - if: $CI_COMMIT_BRANCH == 'main'    
