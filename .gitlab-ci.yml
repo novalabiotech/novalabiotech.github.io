@@ -16,6 +16,6 @@ job1:
   - ln -s /builds/sapradhan/novala.com.np/.secure_files/rclone.conf ~/.config/rclone/rclone.conf
   - 'rclone sync public/ novala-webdav:'
   only:
-    - manual
+    - triggers
   # rules:
   # - if: $CI_COMMIT_BRANCH == 'main'    
