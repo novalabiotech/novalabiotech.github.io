@@ -119,7 +119,7 @@ pluralizelisttitles = false
     parent     = "section.testkits"    
 
 [[menu.main]]
-    name       = "H. pylori Antibody Rapid Kit"
+    name       = "H. pylori Antigen Rapid Kit"
     url        = "/products/h-pylori/"
     weight     = 6
     parent     = "section.testkits"
