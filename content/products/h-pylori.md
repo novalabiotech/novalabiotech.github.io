@@ -1,6 +1,6 @@
 +++
-title = "H. pylori Antibody Rapid Test Kit"
-description = "H. pylori Antibody Rapid Test Kit"
+title = "H. pylori Antigen Rapid Test Kit"
+description = "H. pylori Antigen Rapid Test Kit"
 keywords = ["h-pylori", "rapidkit"]
 tags = ["products", "rapidkit"]
 +++
