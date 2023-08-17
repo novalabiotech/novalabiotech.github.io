@@ -69,7 +69,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Partners"
-    url        = "#"
+    url        = "/about/partners"
     weight     = 4
     parent     = "menu.about"
     post       = 2
@@ -284,7 +284,7 @@ pluralizelisttitles = false
     logo_small = "img/novala-logo-small.svg"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Novala Biotech P Ltd</strong>
-        <br>Khumaltar height,
+        <br>North Khumaltar height,
         <br>Lalitpur
         <br>Bagmati
         <strong>Nepal</strong>
