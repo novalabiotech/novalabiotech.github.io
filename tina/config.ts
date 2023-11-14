@@ -12,11 +12,13 @@ export default defineConfig({
   build: {
     outputFolder: "admin",
     publicFolder: "static",
+    basePath: "novala.com.np"
   },
   media: {
     tina: {
       mediaRoot: "",
       publicFolder: "static",
+
     },
   },
   schema: {
