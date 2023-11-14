@@ -1,7 +1,7 @@
-+++
-title = "Our Vision"
-banner = "img/banners/banner-5.jpg"
-+++
+---
+banner: img/banners/banner-5.jpg
+title: Our Vision
+---
 
 At Novala Biotech, our vision is to lead the way in healthcare development through research, innovation, and self-reliance. As a team led by a highly experienced Molecular Biologist, Biotechnologist and Pharmacist we firmly believe that research is the gateway to advancing healthcare practices.
 

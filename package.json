@@ -1,0 +1,18 @@
+{
+  "name": "novala.com.np",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tinacms dev -c \"hugo server\"",
+    "build": "tinacms build && hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.31",
+    "tinacms": "^1.5.22"
+  }
+}

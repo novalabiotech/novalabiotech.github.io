@@ -1,9 +1,13 @@
-+++
-title = "HCV Rapid Test Kit"
-description = "HCV Rapid Test Kit"
-keywords = ["HCV", "rapidkit"]
-tags = ["products", "rapidkit"]
-+++
+---
+description: HCV Rapid Test Kit
+keywords:
+- HCV
+- rapidkit
+tags:
+- products
+- rapidkit
+title: HCV Rapid Test Kit
+---
 
 Introduction:
 The HCV Rapid Test Kit is a rapid, qualitative immunoassay designed for the detection of antibodies to Hepatitis C Virus (HCV) in human serum or plasma. It provides a convenient and reliable method for the diagnosis of HCV infection.

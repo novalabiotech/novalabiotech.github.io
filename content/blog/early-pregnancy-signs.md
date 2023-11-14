@@ -1,10 +1,12 @@
-+++
-title = "Signs of Early Pregnancy: Understanding Their Significance and Hormonal Changes"
-tags = ["pregnancy"]
-categories = ["Ob gyn"]
-banner = "img/banners/banner-3.jpg"
-twitter_author = "jekyllrb"
-+++
+---
+banner: img/banners/banner-3.jpg
+categories:
+- Ob gyn
+tags:
+- pregnancy
+title: 'Signs of Early Pregnancy: Understanding Their Significance and Hormonal Changes'
+twitter_author: jekyllrb
+---
 
 Discovering that you are pregnant can be an exciting and life-changing moment. However, before a missed period or a positive pregnancy test, there are often subtle signs that indicate the early stages of pregnancy. Recognizing these signs and understanding their significance can help individuals better understand and prepare for the journey ahead. In this article, we will explore the common signs of early pregnancy, delve into the hormonal changes that occur, and discuss some habits and signs to look out for.
 

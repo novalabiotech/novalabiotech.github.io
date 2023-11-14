@@ -1,7 +1,7 @@
-+++
-title = "Partners"
-banner = "img/banners/banner-5.jpg"
-+++
+---
+banner: img/banners/banner-5.jpg
+title: Partners
+---
 
 ## [Shikhar Biotech](https://www.shikharbiotech.com/)
 ![Shikar Biotech](/img/partners/shikhar-biotech-logo.png)

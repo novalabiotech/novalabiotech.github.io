@@ -1,7 +1,7 @@
-+++
-title = "About Us"
-banner = "img/banners/banner-5.jpg"
-+++
+---
+banner: img/banners/banner-5.jpg
+title: About Us
+---
 
 Novala Biotech Pvt Ltd is a pioneering initiative driven by a multidisciplinary team of professionals with a vision to develop In vitro Diagnostic (IVD) kits in Nepal. Our team comprises experienced health and research professionals from various disciplines, united in our commitment to advancing healthcare through innovation.
 

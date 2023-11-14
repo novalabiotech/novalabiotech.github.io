@@ -1,9 +1,13 @@
-+++
-title = "HBsAg Rapid Test Kit"
-description = "HBsAg Rapid Test "
-keywords = ["HBsAg", "rapidkit"]
-tags = ["products", "rapidkit"]
-+++
+---
+description: 'HBsAg Rapid Test '
+keywords:
+- HBsAg
+- rapidkit
+tags:
+- products
+- rapidkit
+title: HBsAg Rapid Test Kit
+---
 
 
 **Introduction:** The HBsAg Rapid Test Kit is a qualitative immunoassay designed for the detection of Hepatitis B surface antigen (HBsAg) in human serum or plasma. It provides a rapid and reliable method for the diagnosis of Hepatitis B infection.

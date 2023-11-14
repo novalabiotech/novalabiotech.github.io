@@ -1,11 +1,12 @@
-+++
-title = "Understanding the Importance of Early Pregnancy Detection"
-date = "2023-06-11T21:29:20+02:00"
-tags = ["pregnancy"]
-categories = ["Ob gyn"]
-banner = "img/banners/banner-4.jpg"
-# authors = ["John Doe"]
-+++
+---
+banner: img/banners/banner-4.jpg
+categories:
+- Ob gyn
+date: "2023-06-11T21:29:20+02:00"
+tags:
+- pregnancy
+title: Understanding the Importance of Early Pregnancy Detection
+---
 
 In today's fast-paced world, where every minute counts, the importance of early pregnancy detection cannot be emphasized enough. Novala Biotech's Novasure Testing Kits have emerged as a reliable and convenient solution for women seeking to confirm their pregnancy status quickly and accurately. 
 

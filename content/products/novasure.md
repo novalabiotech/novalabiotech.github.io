@@ -1,9 +1,13 @@
-+++
-title = "Novasure"
-description = "Novasure One-Step Urine HCG Pregnancy Test Kit"
-keywords = ["pregnancy", "rapidkit"]
-tags = ["products", "pregnancy"]
-+++
+---
+description: Novasure One-Step Urine HCG Pregnancy Test Kit
+keywords:
+- pregnancy
+- rapidkit
+tags:
+- products
+- pregnancy
+title: Novasure
+---
 
 # Novasure One-Step Urine HCG Pregnancy Test Kit
 The Novasure One-Step Urine HCG Pregnancy Test Kit from Novala Biotech is a rapid and reliable in vitro diagnostic tool designed for the early detection of pregnancy. It utilizes a colloidal gold reagent and monoclonal antibodies to accurately detect human chorionic gonadotropin (hCG) in urine samples.

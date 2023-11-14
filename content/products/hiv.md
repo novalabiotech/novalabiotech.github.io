@@ -1,9 +1,14 @@
-+++
-title = "NOVALA HIV-1 and HIV-2 Rapid Test Kit"
-description = "NOVALA HIV-1 and HIV-2 Rapid Test Kit"
-keywords = ["HIV","rapid kit"]
-tags = ["products", "rapidkit", "hiv"]
-+++
+---
+description: NOVALA HIV-1 and HIV-2 Rapid Test Kit
+keywords:
+- HIV
+- rapid kit
+tags:
+- products
+- rapidkit
+- hiv
+title: NOVALA HIV-1 and HIV-2 Rapid Test Kit
+---
 
 **INTRODUCTION**:
 Novala HIV-1 and HIV-2 Test Kit is a rapid, 3rd generation, qualitative, sandwich immunoassay designed for the simultaneous and differential detection of total antibodies (IgG, IgM, IgA, etc.) to HIV-1 and HIV-2 viruses in human serum/plasma.

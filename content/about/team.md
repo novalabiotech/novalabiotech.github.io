@@ -1,7 +1,7 @@
-+++
-title = "Our Team"
-banner = "img/banners/banner-5.jpg"
-+++
+---
+banner: img/banners/banner-5.jpg
+title: Our Team
+---
 
 # Dr Sunita Ghimire
 ### Chairperson and Chief Technical Officer

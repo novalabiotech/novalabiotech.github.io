@@ -1,9 +1,13 @@
-+++
-title = "VDRL Rapid Test Kit"
-description = "VDRL Rapid Test Kit"
-keywords = ["vdrl", "rapidkit"]
-tags = ["products", "rapidkit"]
-+++
+---
+description: VDRL Rapid Test Kit
+keywords:
+- vdrl
+- rapidkit
+tags:
+- products
+- rapidkit
+title: VDRL Rapid Test Kit
+---
 
 Introduction:
 The VDRL Rapid Test Kit is a qualitative immunoassay designed for the detection of antibodies to Treponema pallidum, the causative agent of syphilis, in human serum or plasma. It provides a rapid and reliable method for the diagnosis of syphilis infection.

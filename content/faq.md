@@ -1,8 +1,12 @@
-+++
-title = "FAQ"
-description = "Frequently asked questions"
-keywords = ["FAQ","How do I","questions","what if"]
-+++
+---
+description: Frequently asked questions
+keywords:
+- FAQ
+- How do I
+- questions
+- what if
+title: FAQ
+---
 
 
 **Q**: What is Novala Biotech Pvt. Ltd.?
