@@ -18,7 +18,7 @@ env:
   HUGO_VERSION: "0.120.4"
   GO_VERSION: "1.21.4"
   NODE_VERSION: "18.15.0"
-  TINA_CLIENT_ID: ${{ vars.TINA_CLIENT_ID }}
+  TINA_CLIENT_ID: ${{ vars.TINA_CLIENT_ID }} || "df681624-c9b0-47bc-9f0d-7fa0f8521819
   TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
 
 jobs:
