@@ -11,8 +11,7 @@ export default defineConfig({
 
   build: {
     outputFolder: "admin",
-    publicFolder: "static",
-    basePath: "novala.com.np"
+    publicFolder: "static"
   },
   media: {
     tina: {
