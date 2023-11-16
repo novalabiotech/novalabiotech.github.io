@@ -1,6 +1,12 @@
 ---
 title: HCV Rapid Test Kit
-description: HCV Rapid Test Kit
+featured: true
+synopsis: >-
+  The HCV Rapid Test Kit provides a convenient and reliable method for the
+  diagnosis of Hepatitis C infection. It is a rapid, qualitative immunoassay
+  designed for the detection of antibodies to Hepatitis C Virus (HCV)
+icon: fa-viruses
+order: 5
 tags:
   - products
   - rapidkit

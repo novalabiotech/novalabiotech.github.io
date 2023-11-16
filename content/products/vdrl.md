@@ -1,6 +1,12 @@
 ---
 title: VDRL Rapid Test Kit
-description: VDRL Rapid Test Kit
+featured: true
+synopsis: >-
+  The VDRL Rapid Test Kit is a reliable method for the diagnosis of syphilis. It
+  is qualitative immunoassay designed for the detection of antibodies to
+  Treponema pallidum, the causative agent of syphilis.
+icon: fa-disease
+order: 4
 tags:
   - products
   - rapidkit

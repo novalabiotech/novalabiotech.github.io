@@ -2,6 +2,7 @@
 title: 'Debunking Combo Tests: NS1 Antigen test for Dengue confirmatory test'
 ---
 
+
 In the dynamic realm of
 healthcare, where precision and efficiency reign supreme, the selection of diagnostic tools plays a pivotal role, especially in unravelling the mysteries of diseases like dengue fever. Novala Biotech's NS1 antigen kits stand at the forefront, offering a streamlined solution that surpasses the complexity of combo test kits.
 

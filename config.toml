@@ -77,52 +77,52 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Products"
     identifier = "menu.products"
-    url        = "/img/carousel/novala-home.webp"
+    url        = "/products"
     weight     = 3
 
-[[menu.main]]
-    name       = "Test kits"
-    identifier = "section.testkits"
-    url        = ""
-    weight     = 1
-    parent     = "menu.products"
-    post       = 1
+# [[menu.main]]
+#     name       = "Test kits"
+#     identifier = "section.testkits"
+#     url        = ""
+#     weight     = 1
+#     parent     = "menu.products"
+#     post       = 1
 
-[[menu.main]]
-    name       = "Novasure"
-    url        = "/products/novasure/"
-    weight     = 1
-    parent     = "section.testkits"
+# [[menu.main]]
+#     name       = "Novasure"
+#     url        = "/products/novasure/"
+#     weight     = 1
+#     parent     = "section.testkits"
 
-[[menu.main]]
-    name       = "HIV Rapid Kit"
-    url        = "/products/hiv/"
-    weight     = 2
-    parent     = "section.testkits"
+# [[menu.main]]
+#     name       = "HIV Rapid Kit"
+#     url        = "/products/hiv/"
+#     weight     = 2
+#     parent     = "section.testkits"
 
-[[menu.main]]
-    name       = "HBsAg Rapid Kit"
-    url        = "/products/hbsag/"
-    weight     = 3
-    parent     = "section.testkits"
+# [[menu.main]]
+#     name       = "HBsAg Rapid Kit"
+#     url        = "/products/hbsag/"
+#     weight     = 3
+#     parent     = "section.testkits"
 
-[[menu.main]]
-    name       = "VDRL Rapid Kit"
-    url        = "/products/vdrl/"
-    weight     = 4
-    parent     = "section.testkits"
+# [[menu.main]]
+#     name       = "VDRL Rapid Kit"
+#     url        = "/products/vdrl/"
+#     weight     = 4
+#     parent     = "section.testkits"
 
-[[menu.main]]
-    name       = "HCV Rapid Kit"
-    url        = "/products/hcv/"
-    weight     = 5
-    parent     = "section.testkits"    
+# [[menu.main]]
+#     name       = "HCV Rapid Kit"
+#     url        = "/products/hcv/"
+#     weight     = 5
+#     parent     = "section.testkits"    
 
-[[menu.main]]
-    name       = "H. pylori Antigen Rapid Kit"
-    url        = "/products/h-pylori/"
-    weight     = 6
-    parent     = "section.testkits"
+# [[menu.main]]
+#     name       = "H. pylori Antigen Rapid Kit"
+#     url        = "/products/h-pylori/"
+#     weight     = 6
+#     parent     = "section.testkits"
 
 # [[menu.main]]
 #     name       = "Vaccines"

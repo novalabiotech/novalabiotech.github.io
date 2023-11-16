@@ -1,11 +1,10 @@
-{{ if isset .Site.Params "features" }}
+{{ $products := where (where .Site.RegularPages "Type" "products") ".Params.featured" true }}
 {{ if .Site.Params.features.enable }}
-{{ if isset .Site.Data "features" }}
-{{ if gt (len .Site.Data.features) 0 }}
+{{ if gt (len $products) 0 }}
 <section class="bar background-white">
     <div class="container">
         {{ $elements := default 3 .Site.Params.features.cols }}
-        {{ $features := sort .Site.Data.features "weight" }}
+        {{ $features := sort $products ".Params.order" }}
 
         {{ $total_rows := div (len $features) $elements }}
 
@@ -23,17 +22,14 @@
 
                     <div class="col-md-{{ div 12 $elements }} col-{{ $j }} col-{{ if eq (mod $j 2) 0 }}odd{{ else }}even{{ end }}">
                         <div class="box-simple">
-                            {{ with $element.url }}
-                            <a href="{{ $element.url }}">
-                            {{ end }}
+                            <a href="{{ $element.RelPermalink }}}">
                                 <div class="icon">
-                                    <i class="{{ $element.icon }}"></i>
+                                    <i class="fa {{ $element.Params.icon }}"></i>
                                 </div>
-                            {{ with $element.url }}
+                            <h3>{{ $element.Params.title | markdownify }}</h3>
                             </a>
-                            {{ end }}
-                            <h3>{{ $element.name | markdownify }}</h3>
-                            <p>{{ $element.description | markdownify }}</p>
+
+                            <p>{{ $element.Params.synopsis | markdownify }}</p>
                         </div>
                     </div>
                 {{ end }}
@@ -42,7 +38,5 @@
         {{ end }}
     </div>
 </section>
-{{ end }}
-{{ end }}
 {{ end }}
 {{ end }}

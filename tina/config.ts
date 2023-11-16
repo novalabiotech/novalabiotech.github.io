@@ -35,9 +35,24 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "boolean",
+            name: "featured",
+            label: "Featured",
+          },
+          {
             type: "string",
+            name: "synopsis",
+            label: "Synopsis (text to appear on home page)",
+          },
+          {
+            type: "image",
             name: "banner",
             label: "Banner",
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Date",
           },
           {
             type: "string",
@@ -72,9 +87,24 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "boolean",
+            name: "featured",
+            label: "Featured on homepage",
+          },
+          {
             type: "string",
-            name: "description",
-            label: "Description",
+            name: "synopsis",
+            label: "Synopsis (text to appear on home page)",
+          },
+          {
+            type: "string",
+            name: "icon",
+            label: "Icon (if appears on home page)",
+          },
+          {
+            type: "number",
+            name: "order",
+            label: "Order(Lower comes first)",
           },
           {
             type: "string",
