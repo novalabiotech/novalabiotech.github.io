@@ -6,6 +6,7 @@ synopsis: >-
   diagnosis of Hepatitis C infection. It is a rapid, qualitative immunoassay
   designed for the detection of antibodies to Hepatitis C Virus (HCV)
 icon: fa-viruses
+banner: /img/products/rapidkit.png
 order: 5
 tags:
   - products

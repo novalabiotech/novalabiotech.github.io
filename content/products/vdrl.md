@@ -6,6 +6,7 @@ synopsis: >-
   is qualitative immunoassay designed for the detection of antibodies to
   Treponema pallidum, the causative agent of syphilis.
 icon: fa-disease
+banner: /img/products/rapidkit.png
 order: 4
 tags:
   - products

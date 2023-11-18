@@ -6,6 +6,7 @@ synopsis: >-
   detection of Hepatitis B surface antigen (HBsAg) providing a rapid and
   reliable method for the diagnosis of Hepatitis B infection.
 icon: fa-bug
+banner: /img/products/rapidkit.png
 order: 3
 tags:
   - products

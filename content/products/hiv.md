@@ -6,6 +6,7 @@ synopsis: >-
   sandwich immunoassay designed for the simultaneous and differential detection
   of total antibodies (IgG, IgM, IgA, etc.) to HIV
 icon: fa-virus
+banner: /img/products/rapidkit.png
 order: 2
 tags:
   - products

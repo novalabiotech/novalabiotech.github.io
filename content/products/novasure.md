@@ -6,9 +6,10 @@ synopsis: >-
   reliable in vitro diagnostic tool designed for the early detection of
   pregnancy
 icon: fa-female
+banner: /img/products/novasure.png
 order: 1
 tags:
-  - productsNovasure One-Step Urine HCG Pregnancy Test Kit
+  - products
   - pregnancy
 keywords:
   - pregnancy

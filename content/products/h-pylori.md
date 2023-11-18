@@ -5,6 +5,7 @@ synopsis: >-
   The H. pylori Antigen Rapid Test Kit is a qualitative immunoassay designed for
   the detection of antigen to Helicobacter pylori (H. pylori)
 icon: fa-bug
+banner: /img/products/rapidkit.png
 order: 6
 tags:
   - products

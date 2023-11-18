@@ -4,6 +4,7 @@ synopsis: >-
   Dengue NS1 Antigen Rapid Test Kit, a breakthrough chromatographic immunoassay
   designed for qualitative detection, ensuring prompt and reliable results
   through a collaborative validation process
+banner: /img/products/rapidkit.png
 order: 7
 tags:
   - Dengue NS1 antigen test kits

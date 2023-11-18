@@ -102,6 +102,11 @@ export default defineConfig({
             label: "Icon (if appears on home page)",
           },
           {
+            type: "image",
+            name: "banner",
+            label: "Banner",
+          },
+          {
             type: "number",
             name: "order",
             label: "Order(Lower comes first)",
