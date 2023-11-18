@@ -81,6 +81,16 @@ jobs:
       - name: Build static pages
         run: pnpm run build
 
+      - name: Install rclone
+        run: |
+          sudo -v ; curl https://rclone.org/install.sh | sudo bash
+      - name: Create rclone config
+        run: |
+          rclone config create t1 webdav vendor=other url=$WEBDAV_HOST user=$WEBDAV_USER pass=$WEBDAV_PWD --no-obscure --non-interactive
+      - name: Deploy
+        run: |
+          rclone sync public/ t1:
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
@@ -94,15 +104,6 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Install rclone
-        run: |
-          sudo -v ; curl https://rclone.org/install.sh | sudo bash
-      - name: Create rclone config
-        run: |
-          rclone config create t1 webdav vendor=other url=$WEBDAV_HOST user=$WEBDAV_USER pass=$WEBDAV_PWD --no-obscure --non-interactive
-      - name: Deploy
-        run: |
-          rclone sync public/ t1:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
