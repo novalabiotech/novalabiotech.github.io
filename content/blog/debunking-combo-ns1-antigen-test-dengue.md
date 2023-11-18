@@ -1,7 +1,7 @@
 ---
 title: 'Debunking Combo Tests: NS1 Antigen test for Dengue confirmatory test'
+banner: /img/blogs/direct-vs-indirect-methods.png
 ---
-
 
 In the dynamic realm of
 healthcare, where precision and efficiency reign supreme, the selection of diagnostic tools plays a pivotal role, especially in unravelling the mysteries of diseases like dengue fever. Novala Biotech's NS1 antigen kits stand at the forefront, offering a streamlined solution that surpasses the complexity of combo test kits.
@@ -12,7 +12,7 @@ The Power of Single NS1 Antigen Kits:
 
 National guidelines and research evidence emphasize that rRT-PCR or NS1 antigen in a single diagnostic specimen confirms dengue in patients, establishing the presence of the dengue virus. Unlike combo kits, which rely on Ig G and Ig M antibodies and may only detect the disease a week after viral infection, Novala Biotech's NS1 antigen kits offer a rapid and precise method for early identification.
 
-![](/img/385540788_328171246486329_4959220232572398234_n.png)
+![Direct vs Indirect methods](/img/blogs/direct-vs-indirect-methods.png)
 
 The Science Behind Novala Biotech's NS1 Antigen Kits:
 

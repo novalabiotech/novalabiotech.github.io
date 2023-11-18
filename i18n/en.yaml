@@ -61,11 +61,11 @@
 - id: aboutUs
   translation: "About us"
 
-- id: newer
-  translation: "Newer"
+- id: previous
+  translation: "Prev"
 
-- id: older
-  translation: "Older"
+- id: next
+  translation: "Next"
 
 - id: publishedOn
   translation: "on"

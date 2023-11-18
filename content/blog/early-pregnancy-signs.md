@@ -1,5 +1,5 @@
 ---
-banner: img/banners/banner-3.jpg
+banner: img/blogs/banner-3.jpg
 categories:
 - Ob gyn
 tags:
