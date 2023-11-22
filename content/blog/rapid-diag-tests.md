@@ -2,7 +2,7 @@
 title: >-
   Revolutionizing Healthcare in Nepal: The Importance and Uses of Rapid
   Diagnostic Test Kits
-banner: img/blogs/banner-1.jpg
+banner: /img/blogs/banner-1.jpg
 tags:
   - rapidkits
 categories:

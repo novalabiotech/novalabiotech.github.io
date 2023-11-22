@@ -1,5 +1,5 @@
 ---
-banner: img/blogs/banner-4.jpg
+banner: /img/blogs/banner-4.jpg
 categories:
 - Ob gyn
 date: "2023-06-11T21:29:20+02:00"

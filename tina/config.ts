@@ -26,6 +26,15 @@ export default defineConfig({
         name: "blog",
         label: "Blogs",
         path: "content/blog",
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return `${values?.title?.toLowerCase()
+                .replace(/ /g, '-')
+                .replace(/[^-a-zA-Z_0-9]/g, '')}`
+            },
+          },
+        },
         fields: [
           {
             type: "string",
@@ -53,6 +62,7 @@ export default defineConfig({
             type: "datetime",
             name: "date",
             label: "Date",
+            required: true
           },
           {
             type: "string",
@@ -78,6 +88,15 @@ export default defineConfig({
         name: "product",
         label: "Products",
         path: "content/products",
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return `${values?.title?.toLowerCase()
+                .replace(/ /g, '-')
+                .replace(/[^-a-zA-Z_0-9]/g, '')}`
+            },
+          },
+        },
         fields: [
           {
             type: "string",
@@ -131,6 +150,184 @@ export default defineConfig({
           },
         ],
       },
+      {
+        name: "testimonial",
+        label: "Testimonials",
+        path: "data/testimonials",
+        format: "yaml",
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return `${values?.order || ''}-${values?.title
+                ?.toLowerCase()
+                .replace(/ /g, '-')
+                .replace(/[^-a-zA-Z_0-9]/g, '')}`
+            },
+          },
+        },
+        fields: [
+          {
+            type: "string",
+            name: "name",
+            label: "Name",
+            required: true,
+          },
+          {
+            type: "number",
+            name: "order",
+            label: "Order(Lower comes first)",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "position",
+            label: "Position",
+          },
+          {
+            type: "image",
+            name: "avatar",
+            label: "Avatar",
+          },
+          {
+            type: "string",
+            name: "text",
+            label: "Text",
+            required: true,
+            ui: {
+              component: "textarea"
+            }
+          },
+        ],
+      },
+      {
+        name: "partners",
+        label: "Partners",
+        path: "data/clients",
+        format: "yaml",
+        ui: {
+          filename: {
+            // Example of using a custom slugify function
+            slugify: (values) => {
+              // Values is an object containing all the values of the form. In this case it is {title?: string, topic?: string}
+              return `${values?.order || ''}-${values?.name
+                ?.toLowerCase()
+                .replace(/ /g, '-')
+                .replace(/[^-a-zA-Z_0-9]/g, '')
+              }`
+            },
+          },
+        },
+        fields: [
+          {
+            type: "string",
+            name: "name",
+            label: "Name",
+            required: true,
+          },
+          {
+            type: "number",
+            name: "order",
+            label: "Order(Lower comes first)",
+            required: true,
+          },
+          {
+            type: "image",
+            name: "image",
+            label: "Image",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "url",
+            label: "URL"
+          },
+        ],
+      },
+      {
+        name: "team",
+        label: "Team",
+        path: "data/team/",
+        format: "yaml",
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return `${values?.order || ''}-${values?.title
+                ?.toLowerCase()
+                .replace(/ /g, '-')
+                .replace(/[^-a-zA-Z_0-9]/g, '')}`
+            },
+          },
+        },
+        fields: [
+          {
+            type: "string",
+            name: "name",
+            label: "Name",
+            required: true,
+          },
+          {
+            type: "number",
+            name: "order",
+            label: "Order(Lower comes first)",
+            required: true,
+          },
+          {
+            type: "image",
+            name: "image",
+            label: "Image",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "position",
+            label: "Position",
+            required: true,
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            required: true
+          },
+        ],
+      },
+      {
+        name: "about",
+        label: "About pages",
+        path: "content/about",
+        match: {
+          exclude: '{team,partners}'
+        },
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return `${values?.title?.toLowerCase()
+                .replace(/ /g, '-')
+                .replace(/[^-a-zA-Z_0-9]/g, '')}`
+            },
+          },
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "image",
+            name: "banner",
+            label: "Banner",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },      
     ],
   },
 });

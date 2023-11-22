@@ -211,7 +211,7 @@ pluralizelisttitles = false
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "Novala"
+    # author = "Novala"
     defaultKeywords = ["novala", "biotech", "rapidkits", "ivd" ]
     mainSections = ["blog"]
     defaultDescription = "Official site for Novala Biotech"
