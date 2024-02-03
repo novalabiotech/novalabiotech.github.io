@@ -1,11 +1,14 @@
 ---
 title: 'Taking Control of Your Sexual Health: A Guide to STI Awareness and Testing'
+banner: /img/Young couple visiting gynecologist flat vector illustration.jpg
 date: 2024-02-02T18:15:00.000Z
 ---
 
-Introduction: 
+Introduction:
 
 Sexually Transmitted Infections (STIs) are more common than you might think, and being informed is the first step towards taking control of your sexual health. At Novala Biotech, we understand the importance of early detection and treatment. In this article, we'll discuss the significance of STI testing, common symptoms, and how our diagnostic test kits can empower you to make informed decisions about your health.
+
+![](</img/Young couple visiting gynecologist flat vector illustration.jpg> "Sexually Transmitted Diseases")
 
 The Silent Nature of STIs
 
