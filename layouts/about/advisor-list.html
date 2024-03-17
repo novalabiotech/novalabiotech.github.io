@@ -23,13 +23,13 @@
 
                     <div class="col-md-9" id="blog-listing-medium">
                         
-                        {{ range (sort .Site.Data.team "order") }}
+                        {{ range (sort .Site.Data.advisor "order") }}
                         <section class="post">
                             <div class="row">
                                 <div class="col-md-4">
                                   <div class="image">
                                         {{ if .image }}
-                                        <img src="{{ .image | relURL }}" style="border-radius: 9999px" class="img-responsive" alt="{{ .name }}">
+                                        <img style="border-radius: 9999px" src="{{ .image | relURL }}" class="img-responsive" alt="{{ .name }}">
                                         {{ else }}
                                         <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="{{ .name }}">
                                         {{ end }}
@@ -37,7 +37,7 @@
                                 </div>
                                 <div class="col-md-8">
                                     <h2>{{ .name }}</h2>
-                                    <h4>{{ .position }}</h4>
+                                    <h4>{{ .title }}</h4>
                                     <p class="intro">{{ .body | markdownify }}</p>
                                 </div>
                             </div>

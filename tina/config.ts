@@ -251,7 +251,7 @@ export default defineConfig({
         ui: {
           filename: {
             slugify: (values) => {
-              return `${values?.order || ''}-${values?.title
+              return `${values?.order || ''}-${values?.name
                 ?.toLowerCase()
                 .replace(/ /g, '-')
                 .replace(/[^-a-zA-Z_0-9]/g, '')}`
@@ -281,6 +281,54 @@ export default defineConfig({
             type: "string",
             name: "position",
             label: "Position",
+            required: true,
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            required: true
+          },
+        ],
+      },
+      {
+        name: "advisor",
+        label: "Advisors",
+        path: "data/advisor/",
+        format: "yaml",
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return `${values?.order || ''}-${values?.name
+                ?.toLowerCase()
+                .replace(/ /g, '-')
+                .replace(/[^-a-zA-Z_0-9]/g, '')}`
+            },
+          },
+        },
+        fields: [
+          {
+            type: "string",
+            name: "name",
+            label: "Name",
+            required: true,
+          },
+          {
+            type: "number",
+            name: "order",
+            label: "Order(Lower comes first)",
+            required: true,
+          },
+          {
+            type: "image",
+            name: "image",
+            label: "Image",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "title",
+            label: "Title and Affiliation",
             required: true,
           },
           {

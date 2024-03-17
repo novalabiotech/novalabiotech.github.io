@@ -51,26 +51,33 @@ pluralizelisttitles = false
     url        = "/about/team/"
     weight     = 2
     parent     = "menu.about"
-    post       = 2
+    post       = 1
+
+[[menu.main]]
+    name       = "Our Advisors"
+    url        = "/about/advisor/"
+    weight     = 3
+    parent     = "menu.about"
+    post       = 1
 
 [[menu.main]]
     name       = "Company vision"
     url        = "/about/vision/"
-    weight     = 3
+    weight     = 4
     parent     = "menu.about"
     post       = 1
 
 [[menu.main]]
     name       = "Quality Policy"
     url        = "/about/quality-policy/"
-    weight     = 4
+    weight     = 5
     parent     = "menu.about"
     post       = 1
 
 [[menu.main]]
     name       = "Partners"
     url        = "/about/partners"
-    weight     = 4
+    weight     = 6
     parent     = "menu.about"
     post       = 2
 
