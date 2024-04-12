@@ -1,5 +1,5 @@
 ---
-title: Novala Biotech's Scientific Presentation on Nation Health Research Summit
+title: Novala Biotech's Scientific Presentation on National Health Research Summit
 synopsis: >-
   Novala's journey of innovation with Novala Biotech as they unveil their ground
   breaking rapid diagnostic test kits at the 10th National Summit of Health and
@@ -18,10 +18,10 @@ tags:
   - Scientific Presentation
 ---
 
-As the vibrant energy of the 10th National Summit of Health and Population Scientists in Nepal enveloped the venue, our team from Novala Biotech embarked on a journey that would redefine our unders![](/img/viber_image_2024-04-11_08-01-47-263.jpg)tanding of healthcare innovation. Led by Dr. Sunita Gautam, our esteemed Chairperson and Chief Technical Officer, and Mr. Kabin Maleku, our visionary Director of
+As the vibrant energy of the 10th National Summit of Health and Population Scientists in Nepal enveloped the venue, our team from Novala Biotech embarked on a journey that would redefine our understanding of healthcare innovation. Led by Dr. Sunita Gautam, our esteemed Chairperson and Chief Technical Officer, and Mr. Kabin Maleku, our visionary Director of
 Operations, we stepped onto the stage with a sense of purpose and determination.
 
-Standing before a diverse audience of researchers and industry experts, we unveiled our scientific poster – a culmination of months of relentless dedication and unwavering passion. It wasn't just a presentation; it was an embodiment of our commitment to advancing health equity in Nepal and beyond.
+![](/img/viber_image_2024-04-11_08-01-47-263.jpg)Standing before a diverse audience of researchers and industry experts, we unveiled our scientific poster – a culmination of months of relentless dedication and unwavering passion. It wasn't just a presentation; it was an embodiment of our commitment to advancing health equity in Nepal and beyond.
 
 Nepal's healthcare landscape is marked by challenges – from limited access to essential supplies to disruptions caused by dependency on imports. The COVID-19 pandemic underscored the urgency of addressing these gaps. Inspired by the success of locally produced SARS-CoV-2 antigen RDT kits, we recognized an opportunity to make a difference. Our mission was clear – to develop and validate rapid diagnostic test kits that would empower our healthcare system and pave the way for a healthier, more resilient future. Our journey began with a spark of inspiration and a relentless pursuit of excellence. With the lateral flow immunochromatographic assay principle as our guiding light, we delved into the depths of scientific exploration. From the development of the kits to the rigorous process of internal validation using recombinant proteins and antibodies, every step was a testament to our unwavering commitment to quality and precision.
 
