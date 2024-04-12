@@ -28,7 +28,7 @@ Nepal's healthcare landscape is marked by challenges – from limited access to 
 But it wasn't just about laboratory experiments; it was about bridging the gap between science and society. Collaborating with Central Diagnostic Laboratory (CDL) and Province Public Health Lab (PPHL), we collected clinical samples that would breathe life into our innovation. It was in those moments of validation – when the test results confirmed the accuracy and
 reliability of our kits – that we realized the true impact of our work.
 
-The journey was not without its challenges – from navigating regulatory requirements to overcoming technical hurdles. But with every obstacle, we grew stronger, more resilient. And as we stood before our peers, presenting reports of our validated rapid diagnostic test kits for human pregnancy, Dengue antigen, and Hepatitis B virus surface antigen, we knew that it was all worth it.
+The journey was not without its challenges – from navigating regulatory requirements to overcoming technical hurdles. But with every obstacle, we grew stronger, more resilient. And as we stood before our peers, presenting reports of our validated rapid diagnostic test kits for human pregnancy, Dengue antigen, and Hepatitis B virus surface antigen, we knew that it was all worth it.![](/img/viber_image_2024-04-11_08-01-47-847.jpg)
 
 Our experience at the summit was more than just a presentation; it was a testament to the power of perseverance and the
 transformative potential of local innovation. As we look to the future, we see endless possibilities – new horizons to explore, new challenges to overcome. But with the spirit of innovation burning brightly within us, we are ready to embrace whatever comes our way.
