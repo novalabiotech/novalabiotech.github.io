@@ -2,11 +2,11 @@
 title: >-
   H PYLORI ANTIGEN TEST KITS: REVOLUTIONIZING PRECISION AND ACCESSIBILITY IN H
   PYLORI DIAGNOSTICS
-banner: /img/Pylori-Bacteria-768x512.jpg.optimal.jpg
+banner: /img/blogs/pylori-bacteria.jpg
 date: 2024-02-03T18:15:00.000Z
 ---
 
- Helicobacter pylori, a Gram-negative bacterium with significant implications for public health, is the culprit behind gastritis, peptic ulcers, and, alarmingly, has been classified as a Class 1 carcinogen due to its link to cancer. Novala Biotech, committed to advancing diagnostics, has introduced H Pylori antigen test kits, boasting unparalleled sensitivity, specificity, and affordability compared to existing methods, making them a game-changer in the landscape of STI diagnostics.
+Helicobacter pylori, a Gram-negative bacterium with significant implications for public health, is the culprit behind gastritis, peptic ulcers, and, alarmingly, has been classified as a Class 1 carcinogen due to its link to cancer. Novala Biotech, committed to advancing diagnostics, has introduced H Pylori antigen test kits, boasting unparalleled sensitivity, specificity, and affordability compared to existing methods, making them a game-changer in the landscape of STI diagnostics.
 
 **Unmasking the Prevalence of H. pylori Infections**
 
@@ -33,16 +33,14 @@ In-depth comparisons reveal that Novala Biotech’s H Pylori antigen test kits o
 
  In the ever-evolving field of H. pylori diagnostics, Novala Biotech’s H Pylori antigen test kits emerge as a revolutionary force. With heightened sensitivity, specificity, affordability, and ease of use, these kits redefine the standards for accurate and accessible H pylori testing. Opting for Novala Biotech means choosing a reliable partner in safeguarding your customers health, with solutions tailored for both developed and developing regions. Don’t compromise on accuracy – choose Novala  Biotech’s H Pylori antigen test kits for a brighter and healthier future.
 
-**References:
-**
+**References:**
 
-1\. Ansari, S., Gautam, R., Nepal, H.P. et al. Helicobacter pylori colonization in Nepal; assessment of prevalence and potential risk factors in a hospital-based patient cohort. BMC Res Notes 9, 59 (2016). [https://doi.org/10.1186/s13104-016-1867-z](https://doi.org/10.1186/s13104-016-1867-z2.)
+1. Ansari, S., Gautam, R., Nepal, H.P. et al. Helicobacter pylori colonization in Nepal; assessment of prevalence and potential risk factors in a hospital-based patient cohort. [BMC Res Notes 9, 59 (2016).](https://doi.org/10.1186/s13104-016-1867-z)
 
-[
-2.](https://doi.org/10.1186/s13104-016-1867-z2.) Patel SK, Pratap CB, Jain AK, Gulati AK, Nath G. Diagnosis of Helicobacter pylori: what should be the gold standard? World J Gastroenterol. 2014 Sep 28;20(36):12847-59. doi: 10.3748/wjg.v20.i36.12847. PMID: 25278682; PMCID: PMC4177467.
+2. Patel SK, Pratap CB, Jain AK, Gulati AK, Nath G. Diagnosis of Helicobacter pylori: what should be the gold standard? World J Gastroenterol. 2014 Sep 28;20(36):12847-59. doi: 10.3748/wjg.v20.i36.12847. PMID: 25278682; PMCID: PMC4177467.
 
-3\. Mayo Clinic. (n.d.). Helicobacter pylori infection: Diagnosis & treatment.
+3. Mayo Clinic. (n.d.). Helicobacter pylori infection: Diagnosis & treatment.
 
-4\. Center for Disease Control and Prevention (CDC). (2024). Helicobacter pylori.
+4. Center for Disease Control and Prevention (CDC). (2024). Helicobacter pylori.
 
  

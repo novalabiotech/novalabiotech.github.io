@@ -8,7 +8,7 @@ synopsis: >-
   of the disease. These tests offer a valuable tool for healthcare providers in
   regions where brucellosis is endemic, aiding in swift identification and
   management of cases.
-banner: ''
+banner: /img/products/brucellosis.webp
 tags:
   - Brucellosis rapid test kits
   - Brucellosis

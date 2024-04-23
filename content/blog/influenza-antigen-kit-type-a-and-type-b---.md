@@ -1,7 +1,7 @@
 ---
 title: 'Influenza antigen kit Type A and Type B   '
 synopsis: ' Influenza A&B Rapid Test Kit offers a revolutionary solution for swift and accurate detection of Influenza A and B antigens in nasopharyngeal, throat, or nasal aspirate specimens. With rapid results available within 15 minutes, high sensitivity and specificity, and user-friendly design, our test kit provides healthcare professionals with a convenient and reliable tool for efficient influenza diagnosis. '
-banner: /img/3d-render-medical-background-with-virus-cells.jpg
+banner: /img/blogs/influenza-antigen-kit.webp
 date: 2024-04-20T18:15:00.000Z
 tags:
   - Nasopharyngeal swab

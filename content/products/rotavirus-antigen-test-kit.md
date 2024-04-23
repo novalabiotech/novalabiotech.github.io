@@ -8,7 +8,7 @@ synopsis: >-
   tests are invaluable tools for healthcare providers, enabling timely
   intervention, appropriate management, and prevention of rotavirus-related
   morbidity and mortality, particularly in pediatric populations.
-banner: /img/Rotavirus-174866220-scaled-1.jpg
+banner: /img/products/rotavirus.webp
 ---
 
 Introduction:
