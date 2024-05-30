@@ -17,7 +17,11 @@
 {{ hugo.Generator }}
 
 <!-- Font -->
-<link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+{{/*  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>  */}}
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
 <!-- Bootstrap and Font Awesome CSS -->
 <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.15.4/css/all.css">
@@ -51,6 +55,11 @@
 <!-- owl carousel CSS -->
 <link href="{{ "css/owl.carousel.css" | relURL }}" rel="stylesheet">
 <link href="{{ "css/owl.theme.css" | relURL }}" rel="stylesheet">
+
+<!-- style for home page, use only when the current opened page is home -->
+{{ if .IsHome }}
+  <link href="{{ "css/home.css" | relURL }}" rel="stylesheet">
+{{ end }}
 
 <!-- RSS feed -->
 <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">

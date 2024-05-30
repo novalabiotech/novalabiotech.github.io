@@ -1,0 +1,72 @@
+<section class="contact-section container">
+  {{/* {{ .Content }} */}}
+  <div class="left">
+    <h1>Are you looking for distributorship?</h1>
+    <p>
+      If you want to build your business in In-Vitro Diagnostic kits, contact
+      us.
+    </p>
+  </div>
+  {{ if isset .Site.Params "formspree_action" }}
+  <div class="right">
+    <h3>{{ i18n "contactForm" }}</h3>
+    <form
+      {{
+      with
+      .Site.Params.contact_form_ajax
+      }}class="contact-form-ajax"
+      {{
+      else
+      }}{{
+      end
+      }}
+      method="POST"
+      action="{{ .Site.Params.formspree_action }}"
+    >
+      <div class="form-group">
+        {{/*  <label for="name">{{ i18n "contactName" }}</label>  */}}
+        <input type="text" class="form-control" name="name" id="name"
+        placeholder="{{ i18n "contactName" }}" required />
+      </div>
+      <div class="form-group">
+        {{/*  <label for="email">{{ i18n "contactMail" }}</label>  */}}
+        <input
+          type="email"
+          autocomplete="email"
+          class="form-control"
+          name="email"
+          id="email"
+          placeholder="{{ i18n "contactMail" }}"
+          required
+        />
+      </div>
+      <div class="form-group">
+        {{/*  <label for="message">{{ i18n "contactMessage" }}</label>  */}}
+        <textarea
+          id="message"
+          class="form-control"
+          name="message"
+          placeholder="{{ i18n "contactMessage" }}"
+          required
+        ></textarea>
+      </div>
+      {{ if and .Site.Params.enableRecaptchaInContactForm
+      .Site.Params.googleRecaptchaKey }}
+      <div class="col-sm-12">
+        <div
+          class="g-recaptcha"
+          data-sitekey="{{ .Site.Params.googleRecaptchaKey }}"
+        ></div>
+        <br />
+      </div>
+      {{ end }}
+      <div class="bottom">
+        <div class="expand"></div>
+        <button type="submit">{{ i18n "contactSend" }}</button>
+      </div>
+
+      <!-- /.row -->
+    </form>
+  </div>
+  {{ end }}
+</section>

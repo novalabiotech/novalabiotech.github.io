@@ -134,7 +134,7 @@
                         {{ end }}
                     </li>
                   {{ else }}
-                  <li class="dropdown {{ $active }}">
+                  <li class="{{ $active }}">
                     <a href="{{ .URL }}">{{ .Name }}</a>
                   </li>
                   {{ end }}
