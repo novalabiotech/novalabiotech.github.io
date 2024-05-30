@@ -135,8 +135,11 @@
 
 .products-section .featured-products {
   display: flex;
+  justify-content: center;
+  align-items: center;
   gap: 4rem;
   margin-bottom: 0;
+  padding: 0 10vw;
 }
 
 .featured-product {
@@ -541,11 +544,19 @@
     padding: 0;
   }
 
+  .himalkhabar .left {
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+  }
+
   .himalkhabar h1,
   .himalkhabar p,
+  .himalkhabar .left h1,
   .himalkhabar .left h1 + p,
   .himalkhabar .left h1 + p + p {
     text-align: center;
+    width: 100%;
   }
 
   .himalkhabar img {
@@ -554,7 +565,6 @@
 
   .products-section h1 {
     margin: 0;
-    margin-bottom: 1rem;
   }
 
   .featured-products {
@@ -564,6 +574,7 @@
     width: 100%;
     padding: 0 4rem;
     gap: 0;
+    margin: 0;
     /* flex-wrap: nowrap; */
   }
 
@@ -571,6 +582,10 @@
     margin: 0 auto;
     justify-content: center;
     padding: 0;
+  }
+
+  .featured-product:first-child {
+    margin-top: 4rem;
   }
 
   .contact-section {
@@ -591,5 +606,28 @@
 
   .recent-posts-section {
     margin: 4.5rem;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    margin-top: 4rem;
+  }
+
+  .featured-product .right .top {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .testimonial .bottom .about h5 {
+    font-size: 1.2rem !important;
+  }
+
+  .testimonial .bottom .about p {
+    font-size: 1rem;
+  }
+
+  .testimonial .bottom i {
+    font-size: 2.5rem;
   }
 }

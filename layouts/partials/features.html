@@ -7,7 +7,7 @@ $products) 0 }}
   $products ".Params.order" }} {{ $total_rows := div (len $features) $elements
   }} {{ if gt (mod (len $features) $elements) 0 }} {{ $total_rows = add
   $total_rows 1 }} {{ end }} {{ range $i, $sequence := seq $total_rows }}
-  <div class="featured-products container">
+  <div class="featured-products">
     {{ range $j, $sequence2 := (seq $elements) }} {{ $feature_index := add (mul
     $i $elements) $j }} {{ if lt $feature_index (len $features) }} {{ $element
     := index $features $feature_index }}

@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tinacms dev -c \"hugo server\"",
-    "build": "tinacms build && hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
+    "dev": "hugo server",
+    "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
