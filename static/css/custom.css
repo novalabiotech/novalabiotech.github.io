@@ -2,15 +2,80 @@
 /* Example site test */
 
 .box-image-text .image {
-    min-height: 190px;
-    max-height: 190px;
+  min-height: 190px;
+  max-height: 190px;
 }
 
 .box-image-text .image img {
-    max-height: 190px;
-    margin: auto;
+  max-height: 190px;
+  margin: auto;
 }
 
 .box-simple {
-    min-height: 230px;
+  min-height: 230px;
+}
+
+.list-cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.list-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  width: 55rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  padding: 1rem;
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
+
+.list-card-left {
+  width: 50%;
+}
+
+.list-card-right h2 {
+  margin: 0;
+}
+
+.list-card-right {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.list-card-right p {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #656565;
+}
+
+.list-card-right h2 > a {
+  color: #016fc1 !important;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.list-card-right a {
+  margin: 0 !important;
+  text-transform: capitalize;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.list-cards-pager {
+  width: 20rem;
+  margin: 0 auto 2rem auto;
+  font-size: 1.4rem;
+  text-transform: capitalize;
 }

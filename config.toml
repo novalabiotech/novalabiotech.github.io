@@ -177,13 +177,6 @@ pluralizelisttitles = false
     url        = "/faq/"
     weight     = 6
 
-[[menu.main]]
-    identifier = "contact"
-    name       = "Contact"
-    url        = "/contact/"
-    weight     = 7
-
-
 # Top bar social links menu
 
 [[menu.topbar]]
@@ -349,7 +342,7 @@ pluralizelisttitles = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
-    title = "Testimonials"
+    title = "What our clients say"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
