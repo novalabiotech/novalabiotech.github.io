@@ -11,7 +11,7 @@ tags:
   - AMR
 ---
 
-Novala Biotech is  has introduced a cutting edge technology in Nepal which is expected to help to manage Antimicrobial resistant bacteria prevalent in Nepal. 
+Novala Biotech  has introduced a cutting edge technology in Nepal which is expected to help to manage Antimicrobial resistant bacteria prevalent in Nepal.
 
 Novala Biotech  in collaboration with Center for American Medical specialist ( CAMS clinic) has introduced the latest FDA-approved Point-of-Care (POC) diagnostic test for Antimicrobial Resistance (AMR) to Nepal. This marks a monumental achievement, as it not only represents the first time this technology has been brought to Nepal but also the second instance in all of South East Asia region.
 
@@ -22,7 +22,7 @@ now send samples to the CAMS lab located at New Baneshwor, Kathmandu, labeled as
 
 This milestone marks just the beginning of a transformative journey in combating AMR and improving healthcare outcomes in Nepal. With community support and enthusiasm, Novala Biotech believes a real difference can be made in the lives of countless individuals.
 
-For more information, please camsnepalclinic\@gmail.com +(977)01-5919284 or +9779864156999  or  info\@novala.com.np.
+For more information, please [camsnepalclinic@gmail.com](mailto:camsnepalclinic@gmail.com) +(977)01-5919284 or +9779864156999  or  [info@novala.com.np](mailto:info@novala.com.np).
 
 Stay connected with Novala Biotech on social media:
 
