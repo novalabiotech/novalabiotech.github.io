@@ -8,7 +8,7 @@ banner: /img/HOW TO INCREASE YOUR CHANCES OF GETTING PREGNANT.png
 date: 2024-07-24T18:15:00.000Z
 ---
 
-Deciding to have a baby is exciting, but conceiving can take time. While it’s normal for pregnancy to take a few months or longer, there are steps you can take to boost your chances.![](</img/HOW TO INCREASE YOUR CHANCES OF GETTING PREGNANT.png> "How to increase your chance of getting pregnant?")
+Deciding to have a baby is exciting, but conceiving can take time. While it’s normal for pregnancy to take a few months or longer, there are steps you can take to boost your chances.
 
 **Understanding Your Cycle**
 
