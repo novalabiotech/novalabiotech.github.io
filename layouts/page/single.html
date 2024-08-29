@@ -1,34 +1,21 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-  <head>
-    {{ partial "headers.html" . }} {{ partial "custom_headers.html" . }}
-  </head>
 
-  <body>
-    <div id="all">
-      {{ partial "nav.html" . }} {{ partial "breadcrumbs.html" . }}
+{{ define "main" }}
+{{ partial "breadcrumbs.html" . }}
 
-      <div id="content">
-        {{ if isset .Params "id" }} {{ partial .Params.id . }} {{ else }}
+<div id="content">
+  {{ if isset .Params "id" }} {{ partial .Params.id . }} {{ else }}
 
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <div>{{ .Content }}</div>
-            </div>
-          </div>
-          <!-- /.row -->
-        </div>
-        <!-- /.container -->
-
-        {{ end }}
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div>{{ .Content }}</div>
       </div>
-      <!-- /#content -->
-
-      {{ partial "footer.html" . }}
     </div>
-    <!-- /#all -->
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
 
-    {{ partial "scripts.html" . }}
-  </body>
-</html>
+  {{ end }}
+</div>
+<!-- /#content -->
+{{end}}

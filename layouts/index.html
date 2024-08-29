@@ -1,20 +1,249 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-  <head>
-    {{ partial "headers.html" . }} {{ partial "custom_headers.html" . }}
-  </head>
 
-  <body>
-    <div id="all" class="flex-column">
-      {{ partial "nav.html" . }} {{ partial "hero.html" .}} {{ partial
-      "himalkhabar.html" .}} {{ partial "features.html" . }} {{ partial
-      "testimonials.html" . }} {{ partial "contact_section.html" . }} {{ partial
-      "recent_posts.html" . }} {{/* {{ partial "see_more.html" . }}*/}} {{/* {{
-      partial "recent_posts.html" . }}*/}} {{/* {{ partial "clients.html" . }}
-      */}} {{ partial "footer.html" . }}
+{{ define "main" }}
+<section class="hero">
+  <div class="left">
+    <div class="top">
+      <div>
+        <h1>Novala Biotech</h1>
+        <p>A pioneering initiative in biotechnology.</p>
+      </div>
+      <img class="lab-small-screen" src="/img/lab.svg" />
     </div>
-    <!-- /#all -->
+    <ul class="features">
+      <li class="feature">
+        <div class="feature-icon">
+          <i class="fa fa-users"></i>
+        </div>
+        <p> Multidisciplinary team with experienced health and research professionals. </p>
+      </li>
+      <li class="feature">
+        <div class="feature-icon">
+          <i class="fa fa-lightbulb"></i>
+        </div>
+        <p> Advance healthcare with innovation, research, high-quality diagnostics, and promotion. </p>
+      </li>
+      <li class="feature">
+        <div class="feature-icon">
+          <i class="fa fa-shield-virus"></i>
+        </div>
+        <p> Maintains high standards of quality, reliability, and precision in products. </p>
+      </li>
+    </ul>
+  </div>
+  <img class="lab-large-screen" src="/img/lab.svg" />
+</section>
 
-    {{ partial "scripts.html" . }}
-  </body>
-</html>
+{{ if and (isset .Site.Data "carousel") (gt (len .Site.Data.carousel) 0) }}
+<section class="carousel">
+    <div class="home-carousel">
+        <div class="dark-mask"></div>
+        <div class="container">
+            <div class="homepage owl-carousel"
+                data-autoplay="{{ default true .Site.Params.CarouselHomepage.auto_play }}"
+                data-slide-speed="{{ default 2000 .Site.Params.CarouselHomepage.slide_speed }}"
+                data-pagination-speed="{{ default 1000 .Site.Params.CarouselHomepage.pagination_speed }}">
+                {{ range sort .Site.Data.carousel "weight" }}
+                <div class="item">
+                    {{ if .href }}
+                    <a href="{{ .href }}" {{ if hasPrefix .href "http" }}target="_blank"{{ end }} title="{{ .title | safeHTML }}">
+                    {{ end }}
+                        <div class="row">
+                            <div class="col-sm-5 right">
+                                <h1>{{ .title | safeHTML }}</h1>
+                                {{ .description | safeHTML }}
+                            </div>
+                            <div class="col-sm-7">
+                                <img class="img-responsive" src="{{ .image }}" alt="">
+                            </div>
+                        </div>
+                    {{ if .href }}
+                    </a>
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+            <!-- /.project owl-slider -->
+        </div>
+    </div>
+</section>
+{{ end }}
+
+
+{{ $products := where (where .Site.RegularPages "Type" "products") ".Params.featured" true }} 
+{{ if and .Site.Params.features.enable ( gt (len $products) 0 ) }}
+<section class="products-section">
+  <h1>Our products</h1>
+  {{ $elements := default 3 .Site.Params.features.cols }}
+  {{ $features := sort $products ".Params.order" }}
+  {{ $total_rows := div (len $features) $elements }} 
+  {{ if gt (mod (len $features) $elements) 0 }}
+    {{ $total_rows = add $total_rows 1 }} 
+  {{ end }} 
+  {{ range $i, $sequence := seq $total_rows }}
+  <div class="featured-products">
+    {{ range $j, $sequence2 := (seq $elements) }}
+    {{ $feature_index := add (mul $i $elements) $j }}
+    {{ if lt $feature_index (len $features) }}
+      {{ $element := index $features $feature_index }}
+      <div class="featured-product">
+        <a href="{{ $element.RelPermalink }}" class="right">
+          <div class="top">
+            <div class="icon">
+              <i class="fa {{ $element.Params.icon }}"></i>
+            </div>
+            <h3>{{ $element.Params.title | markdownify }}</h3>
+          </div>
+          {{/* <p>{{ $element.Params.synopsis | markdownify }}</p> */}}
+        </a>
+      </div>
+    {{ end }}
+    {{ end }}
+  </div>
+  {{ end }}
+</section>
+{{ end }}
+
+{{ if and (isset .Site.Params "testimonials") .Site.Params.testimonials.enable (isset .Site.Data "testimonials") (gt (len .Site.Data.testimonials) 0) }}
+<section class="testimonials-section">
+  <div class="container">
+    <div class="top">
+        <h1>{{ .Site.Params.testimonials.title }}</h1>
+        <p class="subtitle">
+            {{ .Site.Params.testimonials.subtitle | markdownify }}
+        </p>
+    </div>
+
+    <!-- *** TESTIMONIALS CAROUSEL *** -->
+    <ul class="owl-carousel testimonials same-height-row"
+        data-items="{{ default 4 .Site.Params.CarouselTestimonials.items }}"
+        data-autoplay="{{ default false .Site.Params.CarouselTestimonials.auto_play }}"
+        data-slide-speed="{{ default 2000 .Site.Params.CarouselTestimonials.slide_speed }}"
+        data-pagination-speed="{{ default 1000 .Site.Params.CarouselTestimonials.pagination_speed }}">
+        {{ range .Site.Data.testimonials }}
+        <li class="item">
+            <div class="testimonial same-height-always">
+                <div class="text">
+                    <p>{{ .text | markdownify }}</p>
+                </div>
+                <div class="bottom">
+                    <div class="name-picture">
+                        <img class="" alt="" src="{{ .avatar | absURL }}">
+                        <div class="about">
+                            <h5>{{ .name }}</h5>
+                            <p>{{ .position }}</p>
+                        </div>
+                    </div>
+                    <div class="icon">
+                        <i class="fas fa-quote-right"></i>
+                    </div>
+                </div>
+            </div>
+        </li>
+        {{ end }}
+    </ul>
+    <!-- /.owl-carousel -->
+
+    <!-- *** TESTIMONIALS CAROUSEL END *** -->
+  </div>
+</section>
+{{ end }}
+
+<section class="contact-section container">
+  <div class="left">
+    <h1>Are you looking for distributorship?</h1>
+    <p> If you want to build your business in In-Vitro Diagnostic kits, contact us. </p>
+  </div>
+  {{ if isset .Site.Params "formspree_action" }}
+  <div class="right">
+    <h3>{{ i18n "contactForm" }}</h3>
+    <form {{ with .Site.Params.contact_form_ajax }}class="contact-form-ajax"{{ end }}
+      method="POST" action="{{ .Site.Params.formspree_action }}" >
+      <div class="form-group">
+        {{/*  <label for="name">{{ i18n "contactName" }}</label>  */}}
+        <input type="text" class="form-control" name="name" id="name" placeholder="{{ i18n "contactName" }}" required />
+      </div>
+      <div class="form-group">
+        {{/*  <label for="email">{{ i18n "contactMail" }}</label>  */}}
+        <input type="email" autocomplete="email" class="form-control" name="email" id="email" placeholder="{{ i18n "contactMail" }}" required />
+      </div>
+      <div class="form-group">
+        {{/*  <label for="message">{{ i18n "contactMessage" }}</label>  */}}
+        <textarea id="message" class="form-control" name="message" placeholder="{{ i18n "contactMessage" }}" required cols="40" ></textarea>
+      </div>
+      {{ if and .Site.Params.enableRecaptchaInContactForm .Site.Params.googleRecaptchaKey }}
+      <div class="col-sm-12">
+        <div
+          class="g-recaptcha"
+          data-sitekey="{{ .Site.Params.googleRecaptchaKey }}"
+        ></div>
+        <br />
+      </div>
+      {{ end }}
+      <div class="bottom">
+        <div class="expand"></div>
+        <button type="submit">{{ i18n "contactSend" }}</button>
+      </div>
+
+      <!-- /.row -->
+    </form>
+  </div>
+  {{ end }}
+</section>
+
+{{ if and (isset .Site.Params "recent_posts") .Site.Params.recent_posts.enable }}
+  <section class="recent-posts-section">
+    <div class="top">
+      <h1>{{ .Site.Params.recent_posts.title | markdownify }}</h1>
+      <a href="/blog">Learn more <span>></span></a>
+    </div>
+    <div class="bottom">
+      <!-- *** BLOG HOMEPAGE *** -->
+      {{ $posts := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+      {{ range first 4 $posts.Pages }}
+      <div class="blog-card">
+        <div class="image">
+          {{ if isset .Params "banner" }}
+          <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="" />
+          {{ else }}
+          <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
+          {{ end }}
+        </div>
+  
+        <div class="content">
+          <div class="text">
+              <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+              <p class="author-category"></p>
+              {{ if isset .Params "authors" }}    
+                {{ i18n "authorBy" }}
+                {{ range $index, $author := .Params.authors }}
+                {{ if $index }}, {{ end }}<a href="{{ (printf "%s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>
+                {{ end }}
+              {{ end }}
+              {{ if .Params.date }}
+                  {{ $createdAt := .Date.Format .Site.Params.date_format }}
+                  {{ range $index, $month := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}
+                      {{ $createdAt = replace $createdAt $month (i18n $month) }}
+                  {{ end }}
+                  <p class="date">
+                      {{ i18n "publishedOn" }} {{ $createdAt }}
+                  </p>
+              {{ end }}
+              {{ if not .Site.Params.recent_posts.hide_summary }}
+              <p class="intro">{{ .Summary }}</p>
+              {{ end }}
+          </div>
+  
+          <a href="{{ .Permalink }}" class="read-more"><i class="fas fa-link"></i> {{ i18n "readMore" }}</a>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  <!-- /.bar -->
+{{ end }}
+  
+
+{{/* {{ partial "see_more.html" . }}*/}} 
+{{/* {{ partial "clients.html" . }} */}}
+
+{{ end }}

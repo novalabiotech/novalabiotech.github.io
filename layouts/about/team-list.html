@@ -1,81 +1,60 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
 
-  <head>
-    {{ partial "headers.html" . }}
-    {{ partial "custom_headers.html" . }}
-  </head>
+{{ define "main" }}
+{{ partial "breadcrumbs.html" . }}
 
-  <body>
+<div id="content">
+    <div class="container">
+        <div class="row">
+            <!-- *** LEFT COLUMN *** -->
 
-    <div id="all">
-
-        {{ partial "nav.html" . }}
-
-        {{ partial "breadcrumbs.html" . }}
-
-        <div id="content">
-            <div class="container">
-                <div class="row">
-                    <!-- *** LEFT COLUMN *** -->
-
-                    <div class="col-md-9" id="blog-listing-medium">
-                        
-                        {{ range (sort .Site.Data.team "order") }}
-                        <section class="post">
-                            <div class="row">
-                                <div class="col-md-4">
-                                  <div class="image">
-                                        {{ if .image }}
-                                        <img src="{{ .image | relURL }}" style="border-radius: 9999px" class="img-responsive" alt="{{ .name }}">
-                                        {{ else }}
-                                        <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="{{ .name }}">
-                                        {{ end }}
-                                  </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <h2>{{ .name }}</h2>
-                                    <h4>{{ .position }}</h4>
-                                    <p class="intro">{{ .body | markdownify }}</p>
-                                </div>
+            <div class="col-md-9" id="blog-listing-medium">
+                
+                {{ range (sort .Site.Data.team "order") }}
+                <section class="post">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="image">
+                                {{ if .image }}
+                                <img src="{{ .image | relURL }}" style="border-radius: 9999px" class="img-responsive" alt="{{ .name }}">
+                                {{ else }}
+                                <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="{{ .name }}">
+                                {{ end }}
                             </div>
-                        </section>
-                        {{ end }}
-
+                        </div>
+                        <div class="col-md-8">
+                            <h2>{{ .name }}</h2>
+                            <h4>{{ .position }}</h4>
+                            <p class="intro">{{ .body | markdownify }}</p>
+                        </div>
                     </div>
-                    <!-- /.col-md-9 -->
+                </section>
+                {{ end }}
 
-                    <!-- *** LEFT COLUMN END *** -->
-
-                    <!-- *** RIGHT COLUMN ***
-       _________________________________________________________ -->
-
-                    <div class="col-md-3">
-
-                        <!-- *** MENUS AND WIDGETS *** -->
-
-                        {{ partial "sidebar.html" . }}
-
-                        <!-- *** MENUS AND FILTERS END *** -->
-
-                    </div>
-                    <!-- /.col-md-3 -->
-
-                    <!-- *** RIGHT COLUMN END *** -->
-
-                </div>
-                <!-- /.row -->
             </div>
-            <!-- /.container -->
+            <!-- /.col-md-9 -->
+
+            <!-- *** LEFT COLUMN END *** -->
+
+            <!-- *** RIGHT COLUMN ***
+_________________________________________________________ -->
+
+            <div class="col-md-3">
+
+                <!-- *** MENUS AND WIDGETS *** -->
+
+                {{ partial "sidebar.html" . }}
+
+                <!-- *** MENUS AND FILTERS END *** -->
+
+            </div>
+            <!-- /.col-md-3 -->
+
+            <!-- *** RIGHT COLUMN END *** -->
+
         </div>
-        <!-- /#content -->
-
-        {{ partial "footer.html" . }}
-
+        <!-- /.row -->
     </div>
-    <!-- /#all -->
-
-    {{ partial "scripts.html" . }}
-
-  </body>
-</html>
+    <!-- /.container -->
+</div>
+<!-- /#content -->
+{{end}}
