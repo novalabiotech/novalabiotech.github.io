@@ -5,7 +5,13 @@ date: 2024-10-14T18:15:00.000Z
 
 Hepatitis E is a viral infection that causes inflammation of the liver, primarily spread through contaminated water. It is prevalent worldwide, but it’s most common in regions with inadequate sanitation, such as East and South Asia. According to the World Health Organization (WHO), an estimated 20 million hepatitis E virus (HEV) infections occur globally each year, resulting in 3.3 million symptomatic cases and around 44,000 deaths.
 
-### What is H![](/img/hepatitis-e-thumbnail.jpg "Source: CDC")epatitis E?
+```javascript
+```
+
+```javascript
+```
+
+### What is Hepatitis E?
 
 Hepatitis E is caused by the hepatitis E virus (HEV), which belongs to the Hepeviridae family. There are four major genotypes of HEV, with genotypes 1 and 2 affecting humans exclusively, while genotypes 3 and 4 are zoonotic, found in animals like pigs and wild boars, and occasionally transmitted to humans.
 
@@ -46,5 +52,3 @@ Preventing hepatitis E relies on improving access to clean water and proper sani
 ### Global Efforts and Vaccination
 
 A vaccine for hepatitis E (Hecolin) has been developed and is licensed in China. WHO recommended its use for outbreak response in 2015, and it was first used in a campaign in South Sudan in 2022. Global health initiatives continue to focus on improving water and sanitation, as well as scaling up vaccination efforts in high-risk areas.
-
-
