@@ -19,7 +19,7 @@ keywords:
   - Hepatitis E virus
 ---
 
-INTENDED USE
+**INTENDED USE**
 
 The HEV IgG/IgM Rapid Test Cassette by Novala Biotech is a lateral flow immunoassay intended for the qualitative detection of antibodies (IgG and IgM) to Hepatitis E virus (HEV) in human whole blood, serum, or plasma. It provides a diagnostic aid for detecting HEV infections.
 
@@ -27,13 +27,13 @@ The HEV IgG/IgM Rapid Test Cassette by Novala Biotech is a lateral flow immunoas
 
 ***
 
-SUMMARY
+**SUMMARY**
 
 Hepatitis E is an acute liver disease caused by the Hepatitis E virus (HEV), primarily transmitted via the fecal-oral route. While generally self-limiting, it can have severe implications for pregnant women. The disease's prevalence is linked to socioeconomic conditions, and its spread is more common in areas with inadequate sanitation. Seroepidemiological studies suggest anti-HEV antibody prevalence ranges from 15% to 100% in different regions.
 
 ***
 
-PRINCIPLE OF THE ASSAY
+**PRINCIPLE OF THE ASSAY**
 
 The HEV IgG/IgM Rapid Test Cassette is a membrane-based immunoassay that detects antibodies (IgG and IgM) specific to HEV in whole blood, serum, or plasma. The test contains:
 
@@ -49,7 +49,7 @@ Absence of test lines indicates a negative result, while a procedural control li
 
 ***
 
-WARNINGS AND PRECAUTIONS
+**WARNINGS AND PRECAUTIONS**
 
 * For professional use only.
 * In vitro diagnostic use only.
@@ -61,21 +61,21 @@ WARNINGS AND PRECAUTIONS
 
 ***
 
-COMPOSITION
+**COMPOSITION**
 
 * Test Cassette: Contains membrane strips with Mouse anti-Human IgG, Mouse anti-Human IgM, and Goat anti-HEV polyclonal antibodies.
 * Buffer Solution
 * Dropper
 * Information for Use
 
-Materials Required but Not Provided:
+**Materials Required but Not Provided:**
 
 * Timer
 * Specimen collection materials
 
 ***
 
-STORAGE AND STABILITY
+**STORAGE AND STABILITY**
 
 * Store the test kit in the sealed pouch at 4-30°C (40-86°F). The kit is stable until the expiration date.
 * Use the test cassette within one hour after opening the pouch to avoid deterioration due to prolonged exposure to humidity or heat.
@@ -83,7 +83,7 @@ STORAGE AND STABILITY
 
 ***
 
-SPECIMEN COLLECTION AND STORAGE
+**SPECIMEN COLLECTION AND STORAGE**
 
 * The test can be performed using whole blood, serum, or plasma.
 * For whole blood, serum, or plasma collection, follow clinical laboratory procedures.
@@ -92,7 +92,7 @@ SPECIMEN COLLECTION AND STORAGE
 
 ***
 
-TEST PROCEDURE
+**TEST PROCEDURE**
 
 1. Preparation: Allow the test device and samples to reach room temperature (15-30°C or 59-86°F) before starting the test.
 2. Test Setup:
@@ -104,7 +104,7 @@ TEST PROCEDURE
 
 ***
 
-RESULT INTERPRETATION
+**RESULT INTERPRETATION**
 
 1. Positive: Control line (C) and one or both test lines (IgM or IgG) appear:
    * IgM Positive: Indicates a fresh HEV infection.
@@ -114,14 +114,14 @@ RESULT INTERPRETATION
 
 ***
 
-QUALITY CONTROL
+**QUALITY CONTROL**
 
 * The internal control line (C) verifies that sufficient specimen volume was added, and membrane wicking occurred.
 * Positive and negative controls are recommended for use as per good laboratory practice to verify the test's performance.
 
 ***
 
-LIMITATIONS
+**LIMITATIONS**
 
 * This test is a qualitative assay and does not quantify antibody concentration.
 * Results should be interpreted with patient history and other diagnostic tools.
@@ -130,7 +130,7 @@ LIMITATIONS
 
 ***
 
-PERFORMANCE CHARACTERISTICS
+**PERFORMANCE CHARACTERISTICS**
 
 * Clinical Sensitivity: 98.32% for IgG and 98.33% for IgM.
 * Clinical Specificity: 98.80% for IgG and 98.95% for IgM.
@@ -140,13 +140,13 @@ Data based on clinical evaluations with 1,025 specimens.
 
 ***
 
-CROSS-REACTIVITY AND INTERFERENCE
+**CROSS-REACTIVITY AND INTERFERENCE**
 
 The HEV IgG/IgM Rapid Test showed no cross-reactivity with other infectious diseases (e.g., HIV, HAV, HBsAg, HCV, HTLV, CMV, and TP) or endogenous substances (e.g., lipids, haemoglobin, bilirubin) spiked into HEV positive and negative samples.
 
 ***
 
-REPRODUCIBILITY
+**REPRODUCIBILITY**
 
 * Reproducibility studies were conducted at three independent laboratories using 60 clinical samples (negative, borderline positive, and positive). The intra-assay agreement was 100%, with no variation across different testing sites.
 
@@ -158,10 +158,10 @@ This HEV IgG/IgM Rapid Test by Novala Biotech provides reliable, quick, and effe
 
  
 
-BIBLIOGRAPHY
+**BIBLIOGRAPHY**
 
 1. Li, Shao-Wei et al., "The development of a recombinant hepatitis E vaccine HEV 239." Human Vaccines & Immunotherapeutics.
 2. Subrat, Kumar, "Hepatitis E virus: the current scenario." International Journal of Infectious Disease.
 3. Hoofnagle, J.H. et al., "Hepatitis E," New England Journal of Medicine.
 
-Above information are for Professional and In Vitro Diagnostic Use Only
+**Above information are for Professional and In Vitro Diagnostic Use Only**
