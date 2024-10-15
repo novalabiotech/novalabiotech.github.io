@@ -1,5 +1,6 @@
 ---
 title: 'Hepatitis E Virus  IgG/IgM Rapid Test Kits '
+featured: true
 synopsis: >-
   The HEV IgG/IgM Rapid Test Cassette by Novala Biotech is a lateral flow
   immunoassay designed for the qualitative detection of Hepatitis E virus (HEV)
@@ -18,7 +19,7 @@ keywords:
   - Hepatitis E virus
 ---
 
-INTENDED USE 
+INTENDED USE
 
 The HEV IgG/IgM Rapid Test Cassette by Novala Biotech is a lateral flow immunoassay intended for the qualitative detection of antibodies (IgG and IgM) to Hepatitis E virus (HEV) in human whole blood, serum, or plasma. It provides a diagnostic aid for detecting HEV infections.
 
