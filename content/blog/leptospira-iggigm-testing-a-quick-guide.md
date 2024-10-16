@@ -4,7 +4,7 @@ banner: /img/INvestigation test.jpg
 date: 2024-10-14T18:15:00.000Z
 ---
 
-Leptospirosis is a significant zoonotic disease caused by the bacterium Leptospira, affecting both humans and animals. The disease is transmitted through contact with contaminated water or soil, typically after heavy rainfall or flooding, making it a concern in many parts of the world, particularly in tropical regions. Early diagnosis is essential for effective treatment and management of leptospirosis, and Leptospira IgG/IgM testing has emerged as a vital tool in this process. This blog will provide a comprehensive guide on how these tests are performed and how to interpret the results.![](/img/6123485.jpg)
+Leptospirosis is a significant zoonotic disease caused by the bacterium Leptospira, affecting both humans and animals. The disease is transmitted through contact with contaminated water or soil, typically after heavy rainfall or flooding, making it a concern in many parts of the world, particularly in tropical regions. Early diagnosis is essential for effective treatment and management of leptospirosis, and Leptospira IgG/IgM testing has emerged as a vital tool in this process. This blog will provide a comprehensive guide on how these tests are performed and how to interpret the results.![](/img/6123485.webp)
 
 ## Understanding Leptospira IgG/IgM Testing
 

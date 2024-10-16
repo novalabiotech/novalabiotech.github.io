@@ -15,7 +15,7 @@ banner: /img/streptococcus-habitat-morphology-and-culture.jpg
 
 The Strep A Rapid Test Cassette is a rapid immunoassay designed for the qualitative detection of Group A Streptococcal antigen from throat swab specimens.
 
-![](</img/INvestigation test.jpg>)
+![](</img/investigation-test.webp>)
 
 **SUMMARY**
 
