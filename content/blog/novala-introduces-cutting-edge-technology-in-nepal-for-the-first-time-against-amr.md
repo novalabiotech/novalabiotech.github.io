@@ -2,7 +2,7 @@
 title: >-
   Novala introduces cutting edge technology in Nepal for the first time against
   AMR
-banner: /img/6123485.jpg
+banner: /img/6123485.webp
 date: 2024-05-30T18:15:00.000Z
 tags:
   - Multidrug-Resistant (MDR) bacteria

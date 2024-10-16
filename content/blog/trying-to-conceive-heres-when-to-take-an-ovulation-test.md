@@ -5,7 +5,7 @@ synopsis: >-
   ovulation test. Discover how to accurately predict your most fertile days and
   plan intercourse effectively, whether you have a regular or irregular
   menstrual cycle.
-banner: /img/Ovulation kits.png
+banner: /img/ovulation-kits.webp
 date: 2024-07-24T18:15:00.000Z
 tags:
   - Ovasure

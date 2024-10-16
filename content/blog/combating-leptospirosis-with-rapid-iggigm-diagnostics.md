@@ -23,7 +23,7 @@ Individuals at higher risk of contracting leptospirosis include:
 * Agricultural workers: Those who work closely with animals or in wet environments are at increased risk.
 * Outdoor enthusiasts: Hikers, campers, and those participating in water sports may encounter contaminated water sources.
 * Individuals in flood-affected areas: After heavy rains or flooding, the risk of exposure to contaminated water increases significantly.
-* ![](/img/24021-leptospirosis.jpg)
+* ![](/img/24021-leptospirosis.webp)
 
 ### Signs and Symptoms
 

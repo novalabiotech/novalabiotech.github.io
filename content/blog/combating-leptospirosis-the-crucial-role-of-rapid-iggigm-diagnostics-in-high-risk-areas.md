@@ -2,7 +2,7 @@
 title: >-
   Combating Leptospirosis: The Crucial Role of Rapid IgG/IgM Diagnostics in
   High-Risk Areas
-banner: /img/6123485.jpg
+banner: /img/6123485.webp
 date: 2024-10-14T18:15:00.000Z
 ---
 
