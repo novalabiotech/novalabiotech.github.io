@@ -9,8 +9,6 @@ if ($.cookie('themeLayout')) {
 }
 
 $(function () {
-  sliderHomepage()
-  sliders()
   fullScreenContainer()
   productDetailGallery(4000)
   menuSliding()
@@ -77,63 +75,6 @@ function demo () {
   })
 }
 
-/* slider homepage */
-function sliderHomepage () {
-  if ($('#slider').length) {
-    // var owl = $('#slider')
-
-    $('#slider').owlCarousel({
-      autoPlay: 3000,
-      items: 4,
-      itemsDesktopSmall: [900, 3],
-      itemsTablet: [600, 3],
-      itemsMobile: [500, 2]
-    })
-  }
-}
-
-/* sliders */
-function sliders () {
-  if ($('.owl-carousel').length) {
-    $('.customers').owlCarousel({
-      items: ($('.customers').attr('data-items') || 6),
-      slideSpeed: ($('.customers').attr('data-slide-speed') || 2000),
-      paginationSpeed: ($('.customers').attr('data-pagination-speed') || 1000),
-      autoPlay: $('.customers').attr('data-autoplay') === 'true',
-      itemsDesktopSmall: [990, 4],
-      itemsTablet: [768, 2],
-      itemsMobile: [480, 1]
-    })
-
-    $('.testimonials').owlCarousel({
-      items: ($('.testimonials').attr('data-items') || 4),
-      slideSpeed: ($('.testimonials').attr('data-slide-speed') || 2000),
-      paginationSpeed: ($('.testimonials').attr('data-pagination-speed') || 1000),
-      autoPlay: $('.testimonials').attr('data-autoplay') === 'true',
-      itemsDesktopSmall: [990, 3],
-      itemsTablet: [768, 2],
-      itemsMobile: [480, 1]
-    })
-
-    $('.homepage').owlCarousel({
-      navigation: false, // Show next and prev buttons
-      navigationText: ['<i class="fas fa-angle-left"></i>', '<i class="fas fa-angle-right"></i>'],
-      slideSpeed: ($('.homepage').attr('data-slide-speed') || 2000),
-      paginationSpeed: ($('.homepage').attr('data-pagination-speed') || 1000),
-      autoPlay: ($('.homepage').attr('data-autoplay') || 'true') === 'true',
-      stopOnHover: true,
-      singleItem: true,
-      lazyLoad: false,
-      addClassActive: true,
-      afterInit: function () {
-        // animationsSlider()
-      },
-      afterMove: function () {
-        // animationsSlider()
-      }
-    })
-  }
-}
 
 /* menu sliding */
 function menuSliding () {

@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 googleAnalytics = "G-57TNE44HM2"
 
 # number of words of summarized post content (default 70)
-summaryLength = 70
+summaryLength = 30
 
 # Define the number of posts per page
 paginate = 10
@@ -333,8 +333,7 @@ pluralizelisttitles = false
     # at 'exampleSite/data/carousel'.
     # For more information take a look at the README.
     enable = true
-    auto_play = true
-    slide_speed = 2000
+    slide_speed = 5000
     pagination_speed = 1000
 
 [params.features]

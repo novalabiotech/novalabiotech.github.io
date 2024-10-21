@@ -34,16 +34,13 @@
 </section>
 
 {{ if and (isset .Site.Data "carousel") (gt (len .Site.Data.carousel) 0) }}
-<section class="carousel">
+<section class="carousel" >
     <div class="home-carousel">
-        <div class="dark-mask"></div>
-        <div class="container">
-            <div class="homepage owl-carousel"
-                data-autoplay="{{ default true .Site.Params.CarouselHomepage.auto_play }}"
-                data-slide-speed="{{ default 2000 .Site.Params.CarouselHomepage.slide_speed }}"
-                data-pagination-speed="{{ default 1000 .Site.Params.CarouselHomepage.pagination_speed }}">
+        <div class="glide">
+            <div class="glide__track" data-glide-el="track">
+              <ul class="glide__slides">
                 {{ range sort .Site.Data.carousel "weight" }}
-                <div class="item">
+                <li class="glide__slide">
                     {{ if .href }}
                     <a href="{{ .href }}" {{ if hasPrefix .href "http" }}target="_blank"{{ end }} title="{{ .title | safeHTML }}">
                     {{ end }}
@@ -59,10 +56,15 @@
                     {{ if .href }}
                     </a>
                     {{ end }}
-                </div>
+                  </li>
                 {{ end }}
+              </ul>
             </div>
-            <!-- /.project owl-slider -->
+            <div class="glide__bullets" data-glide-el="controls[nav]">
+              {{ range $i, $s := sort .Site.Data.carousel "weight" }}
+              <button class="glide__bullet" data-glide-dir="={{$i}}"></button>
+              {{ end }}
+            </div>
         </div>
     </div>
 </section>
@@ -105,7 +107,6 @@
 
 {{ if and (isset .Site.Params "testimonials") .Site.Params.testimonials.enable (isset .Site.Data "testimonials") (gt (len .Site.Data.testimonials) 0) }}
 <section class="testimonials-section">
-  <div class="container">
     <div class="top">
         <h1>{{ .Site.Params.testimonials.title }}</h1>
         <p class="subtitle">
@@ -114,37 +115,40 @@
     </div>
 
     <!-- *** TESTIMONIALS CAROUSEL *** -->
-    <ul class="owl-carousel testimonials same-height-row"
-        data-items="{{ default 4 .Site.Params.CarouselTestimonials.items }}"
-        data-autoplay="{{ default false .Site.Params.CarouselTestimonials.auto_play }}"
-        data-slide-speed="{{ default 2000 .Site.Params.CarouselTestimonials.slide_speed }}"
-        data-pagination-speed="{{ default 1000 .Site.Params.CarouselTestimonials.pagination_speed }}">
-        {{ range .Site.Data.testimonials }}
-        <li class="item">
-            <div class="testimonial same-height-always">
-                <div class="text">
-                    <p>{{ .text | markdownify }}</p>
-                </div>
-                <div class="bottom">
-                    <div class="name-picture">
-                        <img class="" alt="" src="{{ .avatar | absURL }}">
-                        <div class="about">
-                            <h5>{{ .name }}</h5>
-                            <p>{{ .position }}</p>
+    <div class="glide">
+      <div class="glide__track" data-glide-el="track">
+        <ul class="glide__slides testimonials same-height-row">
+            {{ range .Site.Data.testimonials }}
+            <li class="glide__slide item same-height">
+                <div class="testimonial">
+                    <div class="text">
+                        <p>{{ .text | markdownify }}</p>
+                    </div>
+                    <div class="bottom">
+                        <div class="name-picture">
+                            <img class="" alt="" src="{{ .avatar | absURL }}">
+                            <div class="about">
+                                <h5>{{ .name }}</h5>
+                                <p>{{ .position }}</p>
+                            </div>
+                        </div>
+                        <div class="icon">
+                            <i class="fas fa-quote-right"></i>
                         </div>
                     </div>
-                    <div class="icon">
-                        <i class="fas fa-quote-right"></i>
-                    </div>
                 </div>
-            </div>
-        </li>
+            </li>
+            {{ end }}
+        </ul>
+      </div>
+      <div class="glide__bullets" data-glide-el="controls[nav]">
+        {{ range $i, $s := .Site.Data.testimonials }}
+        <button class="glide__bullet" data-glide-dir="={{$i}}"></button>
         {{ end }}
-    </ul>
-    <!-- /.owl-carousel -->
+      </div>
+    </div>
 
     <!-- *** TESTIMONIALS CAROUSEL END *** -->
-  </div>
 </section>
 {{ end }}
 
@@ -229,7 +233,7 @@
                   </p>
               {{ end }}
               {{ if not .Site.Params.recent_posts.hide_summary }}
-              <p class="intro">{{ .Summary }}</p>
+              <p class="intro">{{ .Plain | truncate 140 }}</p>
               {{ end }}
           </div>
   
@@ -246,4 +250,34 @@
 {{/* {{ partial "see_more.html" . }}*/}} 
 {{/* {{ partial "clients.html" . }} */}}
 
+{{ end }}
+
+{{ define "page_scripts"}}
+<script src="//unpkg.com/@glidejs/glide@3.6.2/dist/glide.min.js"></script>
+
+<script>
+    new Glide('.home-carousel .glide',{
+      type: 'carousel',
+      startAt: 0,
+      autoplay: {{ default 5000 .Site.Params.CarouselHomepage.slide_speed }}
+    }).mount()
+
+{{/*  
+    data-items="{{ default 4 .Site.Params.CarouselTestimonials.items }}"
+    data-autoplay="{{ default false .Site.Params.CarouselTestimonials.auto_play }}"
+    data-slide-speed="{{ default 2000 .Site.Params.CarouselTestimonials.slide_speed }}"
+    data-pagination-speed="{{ default 1000 .Site.Params.CarouselTestimonials.pagination_speed }}"  */}}
+    new Glide('.testimonials-section .glide',{
+      type: 'carousel',
+      startAt: 0,
+      perView: 3,
+      focusAt: 'center',
+      autoplay: {{ default 5000 .Site.Params.CarouselHomepage.slide_speed }},
+      breakpoints: {
+        800: {
+          perView: 1
+        }
+      }
+    }).mount()
+</script>
 {{ end }}

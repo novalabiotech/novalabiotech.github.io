@@ -80,47 +80,11 @@
 }
 
 .carousel {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background-color: #016fc1;
   color: #ffffff;
-  width: 100vw;
   padding: 4rem;
 }
 
-.carousel .left {
-  width: 36vw;
-}
-
-.carousel h1 {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 600;
-  color: #ffffff;
-  line-height: 4rem;
-}
-
-.carousel p {
-  font-family: "Poppins", sans-serif;
-  font-weight: 300;
-}
-
-.carousel .left h1 + p {
-  font-size: 1.8rem;
-}
-
-.carousel .left h1 + p + p {
-  font-size: 1.8rem;
-  font-style: italic;
-  font-weight: 200;
-  margin-top: 2rem;
-}
-
-.carousel img {
-  width: 40vw;
-  max-width: 60rem;
-  min-width: 35rem;
-}
 
 .products-section h1,
 .testimonials-section h1,
@@ -200,7 +164,7 @@
 
 .testimonials-section {
   margin: 0;
-  padding: 0;
+  padding: 0 4rem;
 }
 
 .testimonials-section .top {
@@ -222,24 +186,20 @@
   width: 60vw;
 }
 
-.owl-carousel.testimonials .item {
-  border-radius: 1rem;
-}
-
-.owl-carousel.testimonials .text {
+.testimonials .text {
   font-size: 1.4rem;
   line-height: 2.4rem;
   color: #656565;
   margin: 0 0 2rem 0 !important;
 }
 
-.owl-carousel.testimonials .bottom {
+.testimonials .bottom {
   display: flex;
   flex-direction: row;
   gap: 1.5rem;
 }
 
-.owl-carousel.testimonials .about {
+.testimonials .about {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -262,9 +222,6 @@
   opacity: 0.8;
 }
 
-.owl-pagination {
-  margin-top: 2rem;
-}
 
 .contact-section {
   background-color: #016fc1;
@@ -275,7 +232,7 @@
   align-items: center;
   gap: 4rem;
   color: #ffffff;
-  margin: 6rem 0;
+  margin: 10rem 0;
   z-index: 99;
 }
 
@@ -428,7 +385,8 @@
   height: 6rem;
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
   overflow: hidden;
   text-overflow: ellipsis;
   color: #656565;
@@ -490,23 +448,6 @@
   .carousel {
     padding-left: 2rem;
     padding-right: 2rem;
-    gap: 2rem;
-  }
-
-  .carousel h1 {
-    font-size: 3rem;
-  }
-
-  .carousel p {
-    font-weight: 300;
-  }
-
-  .carousel .left h1 + p {
-    font-size: 1.6rem;
-  }
-
-  .carousel .left h1 + p + p {
-    font-size: 1.5rem;
   }
 
   .contact-section h1 {
@@ -539,27 +480,7 @@
   }
 
   .carousel {
-    flex-direction: column;
-    padding: 0;
-  }
-
-  .carousel .left {
-    width: 80%;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .carousel h1,
-  .carousel p,
-  .carousel .left h1,
-  .carousel .left h1 + p,
-  .carousel .left h1 + p + p {
-    text-align: center;
-    width: 100%;
-  }
-
-  .carousel img {
-    width: 100%;
+    padding: 1rem;
   }
 
   .products-section h1 {
@@ -628,5 +549,9 @@
 
   .testimonial .bottom i {
     font-size: 2.5rem;
+  }
+  
+  .testimonials-section .glide__bullets {
+    bottom: -2rem;
   }
 }

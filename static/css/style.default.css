@@ -1177,7 +1177,7 @@ fieldset[disabled] .btn-template-primary.active {
   opacity: 0.9;
   filter: alpha(opacity=90);
 }
-.home-carousel .owl-carousel {
+.home-carousel .glide {
   padding-top: 60px;
   padding-bottom: 20px;
 }
