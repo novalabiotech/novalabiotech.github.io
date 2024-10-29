@@ -39,6 +39,11 @@
   width: 50%;
 }
 
+.list-card-left img {
+  height: 180px;
+  object-fit: scale-down;
+}
+
 .list-card-right h2 {
   margin: 0;
 }
@@ -53,7 +58,8 @@
 .list-card-right p {
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+  line-clamp: 3;
+  -webkit-line-clamp: 3;
   overflow: hidden;
   text-overflow: ellipsis;
   color: #656565;
