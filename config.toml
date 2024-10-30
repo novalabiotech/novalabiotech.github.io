@@ -13,7 +13,7 @@ googleAnalytics = "G-57TNE44HM2"
 summaryLength = 30
 
 # Define the number of posts per page
-paginate = 10
+paginate = 9
 
 # not pluralize title pages by default
 pluralizelisttitles = false

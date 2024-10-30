@@ -1,7 +1,7 @@
 ---
 title: >-
-  H PYLORI ANTIGEN TEST KITS: REVOLUTIONIZING PRECISION AND ACCESSIBILITY IN H
-  PYLORI DIAGNOSTICS
+  H PYLORI Antigen test kits: Revolutionizing precision and accessibility in H
+  Pylori diagnostics
 banner: /img/blogs/pylori-bacteria.jpg
 date: 2024-02-03T18:15:00.000Z
 ---
@@ -36,11 +36,8 @@ In-depth comparisons reveal that Novala Biotech’s H Pylori antigen test kits o
 **References:**
 
 1. Ansari, S., Gautam, R., Nepal, H.P. et al. Helicobacter pylori colonization in Nepal; assessment of prevalence and potential risk factors in a hospital-based patient cohort. [BMC Res Notes 9, 59 (2016).](https://doi.org/10.1186/s13104-016-1867-z)
-
 2. Patel SK, Pratap CB, Jain AK, Gulati AK, Nath G. Diagnosis of Helicobacter pylori: what should be the gold standard? World J Gastroenterol. 2014 Sep 28;20(36):12847-59. doi: 10.3748/wjg.v20.i36.12847. PMID: 25278682; PMCID: PMC4177467.
-
 3. Mayo Clinic. (n.d.). Helicobacter pylori infection: Diagnosis & treatment.
-
 4. Center for Disease Control and Prevention (CDC). (2024). Helicobacter pylori.
 
  

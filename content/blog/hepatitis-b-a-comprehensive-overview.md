@@ -1,7 +1,7 @@
 ---
 title: 'Hepatitis B: A Comprehensive Overview'
 banner: /img/HepatitisB_share.jpg
-date: 2024-10-14T18:15:00.000Z
+date: 2024-07-08T18:15:00.000Z
 ---
 
 Hepatitis B is a liver infection caused by the hepatitis B virus (HBV), which can lead to both acute and chronic diseases. Affecting millions globally, HBV is a significant public health issue. Early detection is key in managing the virus and preventing long-term complications such as liver disease, cirrhosis, or even liver cancer. Rapid HBV tests, such as those produced by Novala Biotech, play a crucial role in identifying infections swiftly and enabling timely intervention. This blog will explore the nature of hepatitis B, the importance of early detection, and how HBV rapid tests work to improve patient outcomes.![](/img/hepatitis-e-thumbnail.jpg)

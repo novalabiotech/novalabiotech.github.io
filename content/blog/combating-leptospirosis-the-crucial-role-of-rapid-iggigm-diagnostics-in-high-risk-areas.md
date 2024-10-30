@@ -3,7 +3,7 @@ title: >-
   Combating Leptospirosis: The Crucial Role of Rapid IgG/IgM Diagnostics in
   High-Risk Areas
 banner: /img/6123485.webp
-date: 2024-10-14T18:15:00.000Z
+date: 2024-10-10T18:15:00.000Z
 ---
 
 Leptospirosis is a significant zoonotic disease that poses a serious threat to both human and animal health. Caused by the Leptospira bacteria, leptospirosis can lead to severe health complications if not diagnosed and treated promptly. The disease is primarily transmitted through contact with contaminated water or soil, making it particularly prevalent in regions where sanitation is poor. In Nepal, where environmental conditions and agricultural practices contribute to the spread of this disease, understanding how rapid IgG/IgM diagnostics can improve diagnosis and control outbreaks is critical.

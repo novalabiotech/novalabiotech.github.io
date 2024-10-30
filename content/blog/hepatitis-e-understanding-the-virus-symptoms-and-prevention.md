@@ -1,7 +1,7 @@
 ---
 title: 'Hepatitis E: Understanding the Virus, Symptoms, and Prevention'
 banner: /img/hepatitis-e-thumbnail.jpg
-date: 2024-10-14T18:15:00.000Z
+date: 2024-07-30T18:15:00.000Z
 tags:
   - ''
   - Hepatitis E
