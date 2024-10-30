@@ -2,13 +2,13 @@
 title: >-
   The Accuracy of Brucellosis IgG/IgM Rapid Tests: What Doctors and Lab
   Technicians Need to Know
-banner: /img/3883639.jpg
+banner: /img/blogs/rapid-test-kit.jpg
 date: 2024-10-12T18:15:00.000Z
 ---
 
 Brucellosis is a zoonotic infection caused by Brucella bacteria, commonly transmitted to humans through contact with infected animals or consumption of contaminated animal products. In regions like Nepal, where livestock farming plays a significant role in daily life, diagnosing brucellosis quickly and accurately is crucial for managing its spread. Rapid IgG/IgM tests have become a valuable tool in diagnosing brucellosis in resource-limited settings. However, understanding the accuracy and reliability of these tests is vital for healthcare providers. In this article, we will explore the precision of Brucellosis IgG/IgM rapid tests and the factors that can affect their accuracy.
 
-![](/img/3883639.jpg)
+![](/img/blogs/rapid-test-kit.jpg)
 
 ### Understanding Brucellosis and the Need for Rapid Testing
 

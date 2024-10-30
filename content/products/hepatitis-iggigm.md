@@ -7,7 +7,7 @@ synopsis: >-
   antibodies (IgG and IgM) in human whole blood, serum, or plasma. It aids in
   diagnosing HEV infections, offering reliable results within 15 minutes. 
 icon: fa-viruses
-banner: /img/products/hepatitis-kit.jpg
+banner: /img/products/rapidkit.png
 order: 1
 tags:
   - Hepatitis E virus

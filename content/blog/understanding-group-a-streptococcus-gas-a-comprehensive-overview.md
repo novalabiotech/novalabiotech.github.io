@@ -1,10 +1,10 @@
 ---
 title: 'Understanding Group A Streptococcus (GAS): A Comprehensive Overview'
-banner: /img/streptococcus-habitat-morphology-and-culture.jpg
+banner: /img/products/streptococcus-habitat-morphology-and-culture.jpg
 date: 2024-10-13T18:15:00.000Z
 ---
 
-Group A Streptococcus (GAS), scientifically known as Streptococcus pyogenes, is a type of bacteria that can cause a wide range of infections in humans. These infections can vary in severity, from mild conditions like pharyngitis (strep throat) to severe, invasive diseases such as necrotizing fasciitis and streptococcal toxic shock syndrome. Understanding the etiology, prevalence, pathophysiology, clinical presentation, diagnostics, and management of GAS infections is crucial for healthcare providers to deliver effective care.![](/img/streptococcus-habitat-morphology-and-culture.jpg)
+Group A Streptococcus (GAS), scientifically known as Streptococcus pyogenes, is a type of bacteria that can cause a wide range of infections in humans. These infections can vary in severity, from mild conditions like pharyngitis (strep throat) to severe, invasive diseases such as necrotizing fasciitis and streptococcal toxic shock syndrome. Understanding the etiology, prevalence, pathophysiology, clinical presentation, diagnostics, and management of GAS infections is crucial for healthcare providers to deliver effective care.![](/img/products/streptococcus-habitat-morphology-and-culture.jpg)
 
 ## Etiology
 
