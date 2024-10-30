@@ -1,29 +1,27 @@
 ---
 title: Strep A Rapid Test Kit
-featured: true
+featured: false
 synopsis: >-
   The Strep A Rapid Test  is a fast, reliable diagnostic tool for detecting
   Group A streptococcal antigen from throat swabs, delivering results within 15
   minutes. Designed for professional use, this easy-to-administer test provides
   critical insights for diagnosing infections like strep throat and preventing
   complications.
-banner: /img/streptococcus-habitat-morphology-and-culture.jpg
+icon: fa-bacteria
+banner: /img/products/streptococcus-habitat-morphology-and-culture.jpg
 ---
 
 **INTENDED USE**
 
-
 The Strep A Rapid Test Cassette is a rapid immunoassay designed for the qualitative detection of Group A Streptococcal antigen from throat swab specimens.
 
-![](</img/investigation-test.webp>)
+![](/img/investigation-test.webp)
 
 **SUMMARY**
-
 
 Streptococcus pyogenes is a non-motile, gram-positive bacterium that contains the Lancefield Group A antigen, which can cause serious infections such as pharyngitis, impetigo, endocarditis, and meningitis. Left untreated, these infections can lead to complications such as rheumatic fever and peritonsillar abscess. Traditional methods of identifying Group A Streptococci involve time-consuming cultures, but the Strep A Rapid Test provides results in 15 minutes, utilizing specific antibodies to detect the presence of Strep A antigen in throat swab samples.
 
 **PRINCIPLE**
-
 
 The Strep A Rapid Test is a membrane-based immunoassay that detects Group A Streptococcal antigen. Anti-Strep A antibodies are immobilized on the test line region. Once a sample is placed, it reacts with the antibody-coated particles on the pad, migrating along the strip. A colored line in the test line region indicates a positive result. A control line appears to confirm sufficient specimen volume and proper test function.
 
@@ -36,7 +34,6 @@ The Strep A Rapid Test is a membrane-based immunoassay that detects Group A Stre
 * Humidity and temperature may affect the results.
 
 **COMPOSITION**
-
 
 The test contains a membrane strip coated with anti-Strep A antibodies and a control line of goat anti-mouse IgG antibody. The dye pad contains colloidal gold conjugated with anti-Strep A antibodies.
 
@@ -54,11 +51,9 @@ The test contains a membrane strip coated with anti-Strep A antibodies and a con
 
 **STORAGE AND STABILITY**
 
-
 Store the kit in a sealed pouch at 4-30°C. Use the test within one hour of opening the pouch. Avoid prolonged exposure to high temperatures or humidity. The expiration date is printed on the labelling.
 
 **SPECIMEN COLLECTION**
-
 
 Collect throat swabs using standard clinical methods. Avoid using swabs with cotton, calcium alginate tips, wooden shafts, or transport media with agar. Process samples immediately or refrigerate them at 2-8°C for up to 5 days if testing is delayed.
 
@@ -79,7 +74,6 @@ Collect throat swabs using standard clinical methods. Avoid using swabs with cot
 
 **QUALITY CONTROL**
 
-
 The appearance of the control line confirms proper procedure and sufficient specimen volume. It is recommended to run positive and negative controls regularly to ensure test performance.
 
 **LIMITATIONS**
@@ -89,7 +83,6 @@ The appearance of the control line confirms proper procedure and sufficient spec
 * Negative results do not rule out infection; further testing may be necessary.
 
 **PERFORMANCE CHARACTERISTICS**
-
 
 The Strep A Rapid Test demonstrated a sensitivity of 98.06% and a specificity of 99.40% compared to commercial rapid tests and ELISA. No cross-reactivity with other microorganisms or interference from common substances was observed.
 

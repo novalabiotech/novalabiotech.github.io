@@ -2,12 +2,11 @@
 title: Cardiac Troponin 1 Rapid Test
 featured: true
 synopsis: ' The Cardiac Troponin I Rapid Test Cassette is a qualitative lateral flow immunoassay designed for professional use in detecting cardiac Troponin I (cTnI) in whole blood, serum, or plasma. It serves as a quick and reliable diagnostic aid for acute myocardial infarction, delivering results in few minutes.'
-banner: /img/v870-katie-13.jpg
+icon: fa-heartbeat
+banner: /img/products/troponin.webp
 order: 11
 tags:
   - Cardiac troponin
-  - ''
-  - ''
 keywords:
   - Heart Attack
   - Myocardial Infraction
@@ -24,7 +23,6 @@ Cardiac Troponin I (cTnI), a cardiac muscle protein, plays a vital role in muscl
 Test Principle
 
 This qualitative immunoassay uses an anti-cTnI antibody immobilized on the test strip. When a blood, serum, or plasma sample is applied, the sample reacts with cTnI antibodies. A colored line in the test region (T) indicates a positive result, while the control line (C) ensures procedural accuracy.
-
 
 Warnings and Precautions
 
@@ -83,16 +81,12 @@ Clinical Specificity	: 99%
 
 Accuracy: 99%
 
-
 Reproducibility
 
 Tests conducted at three physician office laboratories demonstrated a 99.8% agreement across sites.
-
 
 References
 
 1. Adams, et al. Diagnosis of Perioperative myocardial infarction with measurements of cardiac troponin I. N.Eng.J.Med, 1994.
 2. Hossein-Nia, et al. Cardiac troponin I release in heart transplantation. Ann. Thorac. Surg., 1996.
 3. Alpert JS, et al. Myocardial Infarction Redefined. J. Am. Coll. Cardio, 2000.
-
-

@@ -5,13 +5,12 @@ synopsis: >-
   The S. Typhi Antigen Rapid Test Cassette is an in vitro diagnostic tool
   designed for the qualitative detection of Salmonella Typhi antigens in human
   feces, aiding in the diagnosis of typhoid fever.
+icon: fa-bacterium
 order: 6
 tags:
-  - ''
   - Salmonella typhi
   - Typhoid
 keywords:
-  - ''
   - typhoid fever
   - Salmonella Typhi
 ---
@@ -32,7 +31,7 @@ Principle
 
 The S. Typhi Antigen Rapid Test employs a qualitative membrane strip immunoassay. These kits contains key components which include:
 
-a.  Conjugate Pad: Contains anti-S. Typhi antibody conjugated with colloidal gold 
+a.  Conjugate Pad: Contains anti-S. Typhi antibody conjugated with colloidal gold
 
 b. Nitrocellulose Membrane: Contains a test band (T band) coated with anti-typhoid antibody and a control band (C band) coated with goat anti-mouse IgG.
 
@@ -126,5 +125,3 @@ Bibliography
 4. Rabsch, W. et al. "Salmonella enterica Serotype Typhimurium and Its Host-Adapted Variants." Infection and Immunity 2002; 70 (5): 2249-2255.
 
  
-
-

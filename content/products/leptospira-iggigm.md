@@ -6,7 +6,8 @@ synopsis: >-
   for the qualitative detection of IgG and IgM antibodies to Leptospira
   interrogans in human whole blood, serum, or plasma. It aids in the diagnosis
   of leptospirosis and delivers reliable results within 15 minutes
-banner: /img/Leptospira-01.jpg
+icon: fa-bacteria
+banner: /img/products/leptospira-01.jpg
 order: 2
 tags:
   - Leptospira
@@ -16,7 +17,7 @@ tags:
 
 The Leptospira IgG/IgM Rapid Test Cassette is a lateral flow immunoassay designed for the qualitative detection of IgG and IgM antibodies to Leptospira interrogans in human whole blood, serum, or plasma. This test serves as an aid in diagnosing infection caused by Leptospira interrogans.
 
-![](/img/Leptospira-01.jpg)
+![](/img/products/leptospira-01.jpg)
 
 #### **SUMMARY**
 

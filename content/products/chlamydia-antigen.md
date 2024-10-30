@@ -5,13 +5,13 @@ synopsis: >-
   The Chlamydia Antigen Rapid Test Cassette provides quick, qualitative
   detection of Chlamydia trachomatis antigen in cervix swab, penis swab, or male
   urine specimens with results available in 15 minutes.
+icon: fa-disease
 order: 6
 tags:
-  - ''
-  - 'Chlamydia '
+  - Chlamydia
 ---
 
-\[INTENDED USE]
+INTENDED USE
 
 The Chlamydia Antigen Rapid Test Cassette is designed as a rapid, qualitative immunoassay for the detection of Chlamydia trachomatis antigen in female cervical swab, male urethral swab, or male urine samples. It aids in diagnosing Chlamydia trachomatis infection effectively and quickly.
 
@@ -124,5 +124,3 @@ BIBLIOGRAPHY
 2. Euzeby, J.P. "Chlamydia." List of Prokaryotic Names with Standing in Nomenclature.
 
  
-
-

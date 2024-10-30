@@ -11,6 +11,7 @@ synopsis: >-
 banner: /img/products/rotavirus.webp
 ---
 
+
 Introduction:
 
 Rotavirus Antigen Test Kit epitomizes the forefront of diagnostic excellence, providing a rapid and precise method for detecting Rotavirus antigens. Leveraging state-of-the-art technology and rigorous development, our test empowers healthcare professionals with essential diagnostic insights for swift intervention and patient management.

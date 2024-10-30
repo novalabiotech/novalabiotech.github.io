@@ -10,6 +10,7 @@ synopsis: >-
 banner: /img/products/rapidkit.png
 ---
 
+
 **Introduction**: Our Dengue IgG/IgM Rapid Test is a diagnostic tool designed to aid in the rapid detection of Dengue virus infections. Our test provides healthcare professionals with valuable information for the timely management of Dengue cases.
 
 **Intended Use**: The Dengue IgG/IgM Rapid Test is intended for the qualitative detection of IgG and IgM antibodies to the Dengue virus in human whole blood, serum, or plasma samples. It is an invaluable tool for aiding in the diagnosis of Dengue infections. It can be used along with Dengue NS1 antigen rapid test kits.

@@ -1,6 +1,6 @@
 ---
 title: Combating Leptospirosis with Rapid IgG/IgM Diagnostics
-banner: /img/Leptospira-01.jpg
+banner: /img/products/leptospira-01.jpg
 date: 2024-10-14T18:15:00.000Z
 ---
 

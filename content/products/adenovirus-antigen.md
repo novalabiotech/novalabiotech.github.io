@@ -8,6 +8,7 @@ synopsis: >-
   identifying adenovirus infections, guiding appropriate treatment decisions,
   and helping to contain the spread of the virus in communities and healthcare
   settings.
+icon: fa-virus
 banner: /img/products/adenovirus.webp
 tags:
   - Adenovirus Antigen Rapid Test
@@ -17,7 +18,8 @@ tags:
   - Adenovirus
 ---
 
-Introduction: Adenovirus Antigen Rapid Test represents a pinnacle in diagnostic technology, providing a rapid and accurate means of detecting Adenovirus antigens. Through cutting-edge methodology and meticulous development, our test equips healthcare professionals with crucial diagnostic insights for swift intervention and patient care. Such rapid kits are specially helpful for a low resource setting like Nepal. 
+
+Introduction: Adenovirus Antigen Rapid Test represents a pinnacle in diagnostic technology, providing a rapid and accurate means of detecting Adenovirus antigens. Through cutting-edge methodology and meticulous development, our test equips healthcare professionals with crucial diagnostic insights for swift intervention and patient care. Such rapid kits are specially helpful for a low resource setting like Nepal.
 
 Intended Use: The Adenovirus Antigen Rapid Test is meticulously designed for the qualitative detection of Adenovirus antigens in various clinical specimens, including respiratory secretions and stool samples. It serves as an indispensable tool in diagnosing Adenovirus infections with precision and efficiency.
 

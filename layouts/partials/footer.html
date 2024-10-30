@@ -59,7 +59,7 @@
   <div class="footer-bottom">
     <div class="col-md-9 col-sm-6 copyright">
       {{ if isset .Site.Params "copyright" }}
-      <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
+      <p class="pull-left">&copy; {{ dateFormat "2006" now }}, {{ .Site.Params.copyright | safeHTML }}</p>
       {{ end }}
     </div>
     <div class="social">

@@ -8,11 +8,13 @@ synopsis: >-
   of the disease. These tests offer a valuable tool for healthcare providers in
   regions where brucellosis is endemic, aiding in swift identification and
   management of cases.
+icon: fa-bacterium
 banner: /img/products/brucellosis.webp
 tags:
   - Brucellosis rapid test kits
   - Brucellosis
 ---
+
 
 Introduction: Brucellosis IgG/IgM Rapid Test is a state-of-the-art diagnostic tool designed to facilitate the rapid detection of Brucellosis infections, a bacteria infection. People can get the disease when they are in contact with infected animals or animal products contaminated with the bacteria. Animals that are most commonly infected include sheep, cattle, goats, pigs, and dogs, among others. Our  test provides healthcare professionals with valuable diagnostic information for the timely management of Brucellosis cases.
 

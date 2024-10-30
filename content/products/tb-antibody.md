@@ -1,16 +1,17 @@
 ---
 title: Tuberculosis Antibodies Rapid Test Cassette
-featured: true
+featured: false
 synopsis: >-
   The Tuberculosis Rapid Test Cassette is a lateral flow immunoassay designed
   for the qualitative detection of anti-TB antibodies in human whole blood,
   serum, or plasma, aiding in the diagnosis of tuberculosis. 
+icon: fa-bacterium
 keywords:
-  - ''
   - TB
   - Mycobacterium tuberculosis
   - Tuberculosis
 ---
+
 
 Intended Use
 
@@ -114,5 +115,3 @@ The test includes an internal procedural control. A colored line in the control 
 
 1. Laszlo, A. (1999). Tuberculosis: laboratory aspects of diagnosis. CMAJ, 160, 1725-1729.
 2. Bothamley, G.H. (1995). Serological diagnosis of tuberculosis. Eur. Resp. J., 8, 676s-688s.
-
-

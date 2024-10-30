@@ -10,10 +10,11 @@ synopsis: >-
   management, and implement infection control measures, especially during RSV
   season, to mitigate the spread of the virus and reduce the burden on
   healthcare systems.
-banner: /img/products/rsv.jpg
+icon: fa-virus
+banner: /img/products/rsv.webp
 ---
 
-RSV Rapid antigen detection tests play a vital role in diagnosing Respiratory Syncytial Virus infection, offering quick and accurate identification of viral antigens in respiratory specimens such as nasopharyngeal swabs. These tests enable timely clinical management, infection control measures, and appropriate patient isolation to prevent further transmission. RSV is a leading cause of respiratory tract infections, particularly in infants and young children, and prompt diagnosis is crucial for effective management and infection control.![](</img/products/rsv.jpg>)
+RSV Rapid antigen detection tests play a vital role in diagnosing Respiratory Syncytial Virus infection, offering quick and accurate identification of viral antigens in respiratory specimens such as nasopharyngeal swabs. These tests enable timely clinical management, infection control measures, and appropriate patient isolation to prevent further transmission. RSV is a leading cause of respiratory tract infections, particularly in infants and young children, and prompt diagnosis is crucial for effective management and infection control.![](/img/products/rsv.jpg)
 
 Intended Use: The RSV Antigen Rapid Test Kit is specifically designed for the qualitative detection of RSV antigens in respiratory specimens, such as nasopharyngeal swabs or nasal aspirates, obtained from patients presenting with symptoms of respiratory infection. This test aids in the rapid diagnosis of RSV infection, enabling timely clinical intervention and appropriate patient management.
 

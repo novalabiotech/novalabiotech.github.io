@@ -6,10 +6,11 @@ synopsis: >-
   lateral flow immunoassay designed for the qualitative detection of Vibrio
   Cholerae O1 antigens in human feces, offering rapid results within 15 minutes
   to assist in the diagnosis of cholera infections
-banner: /img/medium_20200611_080058_392553_vibrio_max_1800x1800_jpg_5b4e9939a0.jpg
+icon: fa-bacteria
+banner: /img/products/cholera.webp
 order: 6
 tags:
-  - 'Vibrio Cholerae '
+  - Vibrio Cholerae
   - Cholerae
 keywords:
   - Vibrio Cholerae O1 Antigen
@@ -17,7 +18,7 @@ keywords:
 
  The Vibrio Cholerae O1 Antigen Rapid Test Cassette is a quick, accurate tool for detecting Vibrio cholerae O1 antigens in human feces. Designed exclusively for professional and in vitro diagnostic use, this rapid test assists healthcare professionals in diagnosing O1 group Cholera infection in a matter of minutes.
 
-![](/img/medium_20200611_080058_392553_vibrio_max_1800x1800_jpg_5b4e9939a0.jpg)
+![](/img/products/cholera.webp)
 
 Intended Use:
 
@@ -103,5 +104,3 @@ References:
 3. Hasan JA et al. "A Novel Kit for Rapid Detection of Vibrio Cholera O1." J Clin Microbiol, 1995.
 
  
-
-
