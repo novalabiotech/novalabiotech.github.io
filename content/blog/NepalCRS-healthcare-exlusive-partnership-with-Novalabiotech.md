@@ -1,7 +1,7 @@
 ---
 title: >-
-  Novala Biotech Exclusive Partners with CRS Healthcare to Bring Quality
-  pregnancy test kits and ovulation  Kits to Nepal
+  Novala Biotech Partners with CRS Healthcare to Bring Quality pregnancy test
+  kits and ovulation  Kits to Nepal
 synopsis: >-
   Novala Biotech, establishes  exclusive partnership with CRS Healthcare, a top
   national distributor of health products, to expand access to high-quality,
