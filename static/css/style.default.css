@@ -1220,7 +1220,6 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel h2 {
   font-weight: 700;
-  text-transform: uppercase;
   font-size: 40px;
   letter-spacing: 0.08em;
 }
@@ -1229,7 +1228,6 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 18px;
   font-weight: 700;
   padding: 0;
-  text-transform: uppercase;
   letter-spacing: 0.1em;
 }
 @media (max-width: 991px) {
