@@ -23,6 +23,6 @@ Novala Biotech, Nepal’s premier biotechnology company, has entered an exclusiv
 
 ![](/img/IMG-20241030-WA0008.jpg)
 
-“Our partnership with Novala Biotech is a commitment to Nepal’s health. Together, we’re ensuring Nepalis access reliable, innovative healthcare products without reliance on imports,” said Samrat Baral, CEO of Nepal CRS.
+“Our partnership with Novala Biotech is a commitment to Nepal’s health. Together, we’re ensuring Nepalis access reliable, innovative healthcare products without reliance on imports,” said Samrat Baral, CEO of CRS Healthcare.
 
 Sunita Gautam, Chairperson of Novala Biotech, shared, “Our kits are designed with Nepal’s unique healthcare challenges in mind, offering accuracy and affordability. This partnership is a step forward in national self-sufficiency and health empowerment.”
