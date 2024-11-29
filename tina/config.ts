@@ -118,7 +118,7 @@ export default defineConfig({
           {
             type: "string",
             name: "icon",
-            label: "Icon (if featured) Chhose from https://fontawesome.com/v5/search",
+            label: "Icon(if featured). Chhose from https://fontawesome.com/v5/search",
           },
           {
             type: "image",
