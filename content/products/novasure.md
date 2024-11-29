@@ -14,6 +14,8 @@ tags:
 keywords:
   - pregnancy
   - rapidkit
+aliases: 
+  - /_/novasure
 ---
 
 # Novasure One-Step Urine HCG Pregnancy Test Kit
