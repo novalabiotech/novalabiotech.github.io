@@ -1,15 +1,14 @@
 ---
-title: 'Importance of HIV Testing '
+title: Importance of HIV Testing
 synopsis: >-
   HIV testing is essential for early diagnosis and taking control of your
   health. Novala's rapid diagnostic kits provide fast, accurate results within
   few minutes, making HIV testing more accessible and reliable. Our kits help
   individuals make informed decisions and take preventive or therapeutic action
   for a healthier future.
-banner: /img/8006887.jpg
+banner: /img/blogs/hiv-testing.webp
 date: 2024-11-29T18:15:00.000Z
 tags:
-  - ''
   - HIV test in Nepal
   - HIV test
 ---

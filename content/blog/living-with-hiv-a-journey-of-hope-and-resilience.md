@@ -6,7 +6,7 @@ synopsis: >-
   promoting treatment adherence, and emphasizing preventive measures, the
   content inspires positivity and underscores the collective effort to end the
   HIV epidemic.
-banner: /img/world-aids-day-concept-assortment-with-ribbon-symbol.jpg
+banner: /img/blogs/world-aids-day-ribbon.webp
 date: 2024-11-30T18:15:00.000Z
 tags:
   - Antiretroviral Therapy (ART)
@@ -15,9 +15,9 @@ tags:
 
 HIV (Human Immunodeficiency Virus) is no longer the insurmountable challenge it once was. Decades of medical advancements and public health efforts have transformed the prognosis for individuals living with HIV, enabling them to lead long, healthy, and fulfilling lives. Below, we explore key aspects of living with HIV today, highlighting advancements, the importance of care, and the collective efforts to combat stigma and reduce infection rates.
 
-![](/img/9832328.jpg)
+![](/img/blogs/living-with-aids.webp)
 
-The Medical Breakthroughs That Changed the Landscape
+### The medical breakthroughs that changed the landscape
 
 1\. Antiretroviral Therapy (ART): The Lifeline
 
@@ -31,7 +31,7 @@ Early diagnosis is crucial for successful treatment. Initiatives like “Test an
 
 Pre-exposure prophylaxis (PrEP) and post-exposure prophylaxis (PEP) are game-changers in HIV prevention. PrEP is a daily pill for individuals at high risk, reducing the likelihood of infection by up to 99%. PEP, on the other hand, is an emergency regimen to prevent infection after exposure, effective when taken within 72 hours. Use of male contraceptives has been proven to be best prevention techniques since many years. 
 
-Living Fully with HIV
+### Living Fully with HIV
 
 1\. Managing Health and Building Resilience
 
@@ -49,7 +49,7 @@ With proper medical care, individuals with HIV can have children without transmi
 
 Building a support network of friends, family, or community groups can be invaluable. Professional counselling and peer support help individuals navigate emotional challenges and combat stigma.
 
-Addressing Stigma and Promoting Awareness
+### Addressing Stigma and Promoting Awareness
 
 1\. Ending the Taboo
 
@@ -63,7 +63,7 @@ Nepal’s declining HIV infection rates are a testament to the power of collabor
 
 Policies safeguarding individuals living with HIV from discrimination in the workplace and society are essential for empowering them to lead dignified lives.
 
-The Way Forward: Hope and Innovations in Research
+### The Way Forward: Hope and Innovations in Research
 
 1\. Ongoing Research in HIV Diagnostics
 
@@ -77,7 +77,7 @@ Many leading scientists are driving innovations in treatment strategies, making 
 
 The international community, including organizations in Nepal, is working toward the UNAIDS goal of ending the HIV epidemic by 2030.
 
-You Are Not Alone
+### You Are Not Alone
 
 Living with HIV is a journey of hope, not despair. By staying positive, adhering to treatment, and embracing preventive measures, individuals can lead fulfilling lives. The ongoing efforts of researchers, healthcare providers, and communities worldwide ensure that no one faces this journey in isolation.
 

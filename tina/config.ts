@@ -29,7 +29,7 @@ export default defineConfig({
         ui: {
           filename: {
             slugify: (values) => {
-              return `${values?.title?.toLowerCase()
+              return `${values?.title?.toLowerCase().trim()
                 .replace(/ /g, '-')
                 .replace(/[^-a-zA-Z_0-9]/g, '')}`
             },
@@ -91,7 +91,7 @@ export default defineConfig({
         ui: {
           filename: {
             slugify: (values) => {
-              return `${values?.title?.toLowerCase()
+              return `${values?.title?.toLowerCase().trim()
                 .replace(/ /g, '-')
                 .replace(/[^-a-zA-Z_0-9]/g, '')}`
             },
