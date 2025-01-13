@@ -89,7 +89,7 @@ jobs:
           rclone config create t1 webdav vendor=other url=$WEBDAV_HOST user=$WEBDAV_USER pass=$WEBDAV_PWD --no-obscure --non-interactive
       - name: Deploy
         run: |
-          rclone sync public/ t1:
+          rclone purge t1:admin && rclone sync public/ t1:
 
       # - name: Upload artifact
       #   uses: actions/upload-pages-artifact@v1
