@@ -11,7 +11,7 @@
                 {{ range (sort .Site.Data.clients "order") }}
                 <section class="post">
                     <div class="row">
-                        <div class="col-md-4">
+                        <div class="col-4 col-md-4">
                             <div class="image">
                                 {{ if .image }}
                                 <img src="{{ .image | relURL }}" class="img-responsive" alt="{{ .name }}">
@@ -22,7 +22,7 @@
                         </div>
                         <div class="col-md-8">
                             <h2><a href="{{ .url }}">{{ .name }}</a></h2>
-                            <p class="intro">{{ .Content }}</p>
+                            <p class="intro">{{ .caption | markdownify }}</p>
                         </div>
                     </div>
                 </section>

@@ -241,6 +241,14 @@ export default defineConfig({
             name: "url",
             label: "URL"
           },
+          {
+            type: "string",
+            name: "caption",
+            label: "Caption",
+            ui: {
+              component: "textarea"
+            }
+          }
         ],
       },
       {
