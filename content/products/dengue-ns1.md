@@ -18,6 +18,8 @@ keywords:
   - NS1 Kits in Nepal
   - Rapid Test Kits
   - Dengue Kits
+aliases: 
+  - /_/dengue-ns1  
 ---
 
 

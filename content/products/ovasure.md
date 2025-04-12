@@ -55,7 +55,7 @@ Ovasure is designed to support you throughout your fertility journey, offering r
 * Carefully read the instruction manual provided in the box before using the Ovasure test kit.
 2. Determine Your Start Day:
 * Calculate your menstrual cycle length (start from the first day of your period until the day before your next period begins).
-* {{< ovasure-calculator >}}.
+* {{< ovasure-calculator >}}
 3. Prepare for the Test:
 * Avoid heavy fluid intake for at least 2 hours before testing to prevent dilution of your urine.
 * Test between 10 a.m. and 8 p.m. for the most accurate results.
@@ -98,7 +98,7 @@ Ovasure is designed to support you throughout your fertility journey, offering r
 5. How do I use the Ovasure test kit?
 - Collect urine in the provided container, use the dropper to add 3 drops to the sample well, and read the results within 5 minutes.
 6. When should I start testing during my cycle?
-- It depends on length of your menstrural cycle. {{< ovasure-calculator id=faq >}}. If your cycle length is less than 21 or greater than 40, consult your gynecologist.
+- It depends on length of your menstrural cycle. {{< ovasure-calculator id=faq >}} If your cycle length is less than 21 or greater than 40, consult your gynecologist.
 7. What do the results mean?
 - Two pink lines on C & T indicate a positive result. One line on C or a faint line on T means you need to keep testing. No lines or a single line on T indicates an invalid result, so use a new test.
 8. How long should I continue testing if I keep getting negative results?
