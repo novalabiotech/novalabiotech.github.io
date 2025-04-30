@@ -7,6 +7,7 @@ synopsis: >-
   season. Rapid diagnosis is critical for early treatment and better outbreak
   control.  When it comes to testing, two options are commonly available: the
   Dengue NS1 antigen test and the NS1 IgG/IgM combo test.
+banner: /img/6123485.jpg
 date: 2025-04-29T18:15:00.000Z
 tags:
   - Fast Dengue Diagnosis
@@ -17,10 +18,10 @@ tags:
 Introduction
 
 Dengue fever continues to surge across Nepal, especially during the monsoon season. Rapid diagnosis is critical for early treatment and better outbreak control.
- When it comes to testing, two options are commonly available: the Dengue NS1 antigen test and the NS1 IgG/IgM combo test.
+When it comes to testing, two options are commonly available: the Dengue NS1 antigen test and the NS1 IgG/IgM combo test.
 
 But which one ensures faster, more reliable results for Nepal's healthcare system?
- Let’s break it down — and you'll see why NS1 antigen-only kits are the best choice for fast dengue diagnosis in Nepal.
+Let’s break it down — and you'll see why NS1 antigen-only kits are the best choice for fast dengue diagnosis in Nepal.
 
 ***
 
@@ -79,7 +80,7 @@ Why NS1 Antigen-Only Kits Are the Best for Nepal’s Fast Dengue Diagnosis
 * Combo kits, due to complexity, are better reserved for hospital-based confirmations — not first-line diagnosis.
 
 When speed, simplicity, and accuracy matter most — and they always do during dengue outbreaks — Dengue NS1 antigen-only kits are the best tool for Nepal.
- They provide fast dengue diagnosis, early clinical intervention, and improve outbreak management, especially in remote and under-resourced areas.
+They provide fast dengue diagnosis, early clinical intervention, and improve outbreak management, especially in remote and under-resourced areas.
 
 In the battle against dengue, faster diagnosis saves lives — and NS1 rapid tests are Nepal’s best weapon.
 
