@@ -19,7 +19,7 @@ keywords:
   - Rapid Test Kits
   - Dengue Kits
 aliases: 
-  - /_/dengue-ns1  
+  - /_/dengue-ns1
 ---
 
 
