@@ -1,5 +1,5 @@
 ---
-title: Syphilis  Rapid Test Kit
+title: Syphilis Rapid Test Kit
 featured: true
 synopsis: >-
   The Syphilis  Rapid Test Kit is a reliable method for the diagnosis of
@@ -12,8 +12,7 @@ tags:
   - products
   - rapidkit
 keywords:
-  - ''
-  - 'Syphilis  '
+  - Syphilis
   - rapidkit
 ---
 
@@ -51,6 +50,7 @@ Non-Reactive Result: The presence of both the control line and the test line ind
 
 Reactive Result: Only the control line appears. This indicates a reactive result, indicating the presence of antibodies to T. pallidum in the sample.
 Invalid Result: If no lines appear, or if only the test line appears without the control line, the result is invalid. Repeat the test with a new kit.
+
 **Limitations:**
 The Syphilis  Rapid Test Kit is a screening test and should be confirmed by additional testing methods if the results are positive or inconsistent with clinical evidence.
 False-negative or false-positive results may occur due to various factors, including improper sample collection, storage, or handling.
