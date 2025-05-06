@@ -158,3 +158,7 @@ Use mosquito nets, repellents, wear full sleeves, and eliminate stagnant water a
 June 2024
 
 2\. World Health organization, Dengue Global situation, [https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON498](https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON498), Accesses 16th June 2024
+
+**Reviewed by**
+
+**Dr Prabhat Adhikari , MD ( Internal Medicine with specialization in Infectious Disease and Critical care)**
