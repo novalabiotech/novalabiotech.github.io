@@ -8,16 +8,18 @@ tags:
   - Dengue treatment
   - Dengue Test Kit Nepal
   - Dengue NS1
+categories:
+  - Infectious Disease
 ---
 
 With a sharp rise in dengue cases across Nepal, especially during the post-monsoon season, understanding the disease is more important than ever. The combination of increasing temperatures and stagnant water from rains creates the perfect breeding ground for Aedes aegypti mosquitoes — the primary carriers of the Dengue virus. This Viral infection which is more common in tropical and subtropical climates. Most of the infected ones will not have symptoms but for those who do, high fever, headache, body aches, nausea and rash. Most will get better in 1-2 weeks and some severe conditions need hospital care and in some cases it can be fatal. Curative treatments for dengue currently do not exist.
 
 🌍 Did you know?
- Every year, over 390 million people are infected with the Dengue virus globally. The global incidence of Dengue in the past 2 decades (2000-2019) has surged tenfold from 0.5 million to 5.2 million spreading in 129 countries. In 2023 alone, a historic high of over 6.5 million cases affecting more than 80 countries with more than 7300 dengue related deaths reported 
+Every year, over 390 million people are infected with the Dengue virus globally. The global incidence of Dengue in the past 2 decades (2000-2019) has surged tenfold from 0.5 million to 5.2 million spreading in 129 countries. In 2023 alone, a historic high of over 6.5 million cases affecting more than 80 countries with more than 7300 dengue related deaths reported
 
 Dengue in Nepal
 
-Monthly trend of dengue shows the dengue cases keeps rising from July and reaches its pear during august and September. In 2024 alone more than thirty-four thousands of cases were reported with 13 verified deaths due to dengue, but epidemiologist suggest it is way beyond the actual data. Bagmati and Gandaki province were hit hard with almost 80% of cases in those two provinces. 
+Monthly trend of dengue shows the dengue cases keeps rising from July and reaches its pear during august and September. In 2024 alone more than thirty-four thousands of cases were reported with 13 verified deaths due to dengue, but epidemiologist suggest it is way beyond the actual data. Bagmati and Gandaki province were hit hard with almost 80% of cases in those two provinces.
 
 ![](</img/bg/Screenshot 2025-05-06 092422.jpg>)
 
@@ -94,18 +96,18 @@ If symptoms worsen, consult a doctor immediately.
 
 ✅ 1. Complete Blood Count (CBC)
 
-* Monitors platelet and WBC count routinely 
+* Monitors platelet and WBC count routinely
 * Platelets often drop below normal (150,000–400,000 cells/mcL)
 * Can be done any time during infection
 
-CBC is a key tool but not sufficient alone for Dengue diagnosis. But routine CBC checkup will help to understand the degree of severity of disease. 
+CBC is a key tool but not sufficient alone for Dengue diagnosis. But routine CBC checkup will help to understand the degree of severity of disease.
 
 ✅ 2. Dengue NS1 Antigen Test
 
 * Detects NS1 protein in blood
 * Most accurate in the first 0–5 days and can give results up to 7th day of fever
 * Early detection is crucial to prevent complications
-* This is one of the most reliable and economical method can be accessed at low resource setting health institutions like pharmacies, clinics, and health posts. 
+* This is one of the most reliable and economical method can be accessed at low resource setting health institutions like pharmacies, clinics, and health posts.
 
 [Dengue NS1 Antigen test kits](https://novala.com.np/products/dengue-ns1/)
 
@@ -114,7 +116,7 @@ CBC is a key tool but not sufficient alone for Dengue diagnosis. But routine CBC
 * Detects viral RNA (genetic material)
 * Highly sensitive and specific
 * Best done during the first week of illness
-* It is relatively expensive, takes highly sophisticated equipment and high skilled human resources to run the test. 
+* It is relatively expensive, takes highly sophisticated equipment and high skilled human resources to run the test.
 
 ✅ 4. Dengue IgM Antibody Test
 
@@ -126,8 +128,8 @@ CBC is a key tool but not sufficient alone for Dengue diagnosis. But routine CBC
 
 ✅ 5. Dengue IgG Antibody Test
 
-* Detects IgG antibodies indicating past infection 
-* This test is not a confirmatory test, and can’t diagnose the test with just IgG antibodies results. 
+* Detects IgG antibodies indicating past infection
+* This test is not a confirmatory test, and can’t diagnose the test with just IgG antibodies results.
 * Useful for long-term detection (even after 14 days)
 
 IgG may remain in the body for months or even years
@@ -144,11 +146,11 @@ IgG may remain in the body for months or even years
 Dengue can be prevented, diagnosed early, and managed effectively with the right information. Do not ignore symptoms like high fever or body pain — especially during monsoon months.
 
 ✨ Prevention Tip:
- Use mosquito nets, repellents, wear full sleeves, and eliminate stagnant water around your home.
+Use mosquito nets, repellents, wear full sleeves, and eliminate stagnant water around your home.
 
 Reference:
 
 1\. [https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue](https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue) Accesses 16th
 June 2024
 
-2\. World Health organization, Dengue Global situation, https\://www\.who.int/emergencies/disease-outbreak-news/item/2023-DON498, Accesses 16th June 2024
+2\. World Health organization, Dengue Global situation, [https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON498](https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON498), Accesses 16th June 2024
