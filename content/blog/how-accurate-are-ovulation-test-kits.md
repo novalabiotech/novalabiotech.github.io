@@ -15,7 +15,7 @@ categories:
   - Fertility
 ---
 
-If you're trying to conceive, timing is everything—and that’s where ovulation test kits come in. In Nepal, many women are turning to home ovulation kits to identify their most fertile days. But a common question remains:
+If you are trying to conceive, timing is everything—and that’s where ovulation test kits come in. In Nepal, many women are turning to home ovulation kits to identify their most fertile days. But a common question remains:
 
 “How accurate are ovulation test kits?”
 
