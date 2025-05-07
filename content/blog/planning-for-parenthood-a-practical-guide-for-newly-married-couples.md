@@ -64,7 +64,7 @@ A healthy lifestyle can enhance fertility for both men and women. Make these cha
 * Manage stress through yoga, meditation, or hobbies
 * Maintain a healthy weight
 
-According to the WHO, underweight or overweight women may face ovulation problems. (Ref: [WHO Fertility Guidelines](https://www.who.int/news-room/fact-sheets/detail/infertility)) 
+According to the WHO, underweight or overweight women may face ovulation problems. (Ref: [WHO Fertility Guidelines](https://www.who.int/news-room/fact-sheets/detail/infertility))
 
 ## 🧑‍⚕️ Step 4: Get Preconception Check-Ups
 
@@ -114,3 +114,7 @@ Ready to start your journey to parenthood?
 👉 Buy Ovasure Ovulation Kit today from your nearest pharmacy or trusted online store in Nepal and take control of your fertility.
 
 💬 Need help? [Contact Novala Biotech](https://novala.com.np/contact/) for support and expert advice.
+
+#### **Edited and Reviewed by **
+
+Dr Sujata Maharjan ( MD, Obstetrics and Gynaecology )
