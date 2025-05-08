@@ -16,7 +16,6 @@ With a sharp rise in dengue cases across Nepal, especially during the post-monso
 
 # 🌍 Did you know?
 
-
 Every year, over 390 million people are infected with the Dengue virus globally. The global incidence of Dengue in the past 2 decades (2000-2019) has surged tenfold from 0.5 million to 5.2 million spreading in 129 countries. In 2023 alone, a historic high of over 6.5 million cases affecting more than 80 countries with more than 7300 dengue related deaths reported
 
 # Dengue in Nepal
@@ -149,16 +148,14 @@ Dengue can be prevented, diagnosed early, and managed effectively with the right
 
 ### ✨ Prevention Tip:
 
-
 Use mosquito nets, repellents, wear full sleeves, and eliminate stagnant water around your home.
 
 ### Reference:
 
-1\. [https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue](https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue) Accesses 16th
-June 2024
+1\. [https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue](https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue) 
 
-2\. World Health organization, Dengue Global situation, [https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON498](https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON498), Accesses 16th June 2024
+2\. World Health organization, Dengue Global situation, [https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON498](https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON498)
 
-**Reviewed by**
+**Edited and Reviewed by**
 
 **Dr Prabhat Adhikari , MD ( Internal Medicine with specialization in Infectious Disease and Critical care)**
