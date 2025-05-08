@@ -129,3 +129,9 @@ Ovasure is designed to support you throughout your fertility journey, offering r
 - You may have miscalculated your period. Repeat the test, and if you still get negative results, consult your doctor.
 21. What if the LH surge is not detected?
 - If you cannot detect an LH surge, it may be because you did not ovulate that month, which is normal occasionally. You might have missed the surge due to an irregular cycle or miscalculation. Continue testing with another kit or start testing earlier next month. Ensure that the urine sample was collected correctly, and if irregular results persist, consult your physician.
+22. Can I use Ovasure while taking Sangini injections or birth control pills?
+- Ovasure will not be useful if you are taking Sangini injections, as it prevents the ovulation process, knowing the LH surge won't be helpful. Similarly, if you are taking birth control pills, Ovasure will not be effective as these pills affect female hormones and affect the ovulation period.
+23. How long should we wait to use Ovasure ovulation test kits after stopping Sangini injection?
+- You should wait at least 3 months after your last Sangini injection before using Ovasure ovulation test kits.
+24. How long should I wait to use Ovasure ovulation test kits after stopping birth control pills?
+- You can start using Ovasure ovulation test kits after two weeks of stopping birth control pills, as the ovulation period usually occurs after two weeks of stopping the pills. However, it may take 1 to 2 months for some women.
