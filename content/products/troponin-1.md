@@ -8,85 +8,104 @@ order: 11
 tags:
   - Cardiac troponin
 keywords:
+  - cTnI point-of-care diagnostic
+  - Acute myocardial infarction diagnosis
+  - Emergency cardiac test kit
+  - Heart attack detection kit
+  - Cardiac marker testing kit
   - Heart Attack
   - Myocardial Infraction
 ---
 
-Intended Use
+#### Accurate, Fast, and Reliable Detection of Acute Myocardial Infarction (AMI)
 
-The Cardiac Troponin I Rapid Test Cassette is a lateral flow immunoassay designed for the qualitative detection of cardiac Troponin I (cTnI) in human whole blood, serum, or plasma, serving as an aid in diagnosing acute myocardial infarction (AMI).
+##### ✅ Intended Use
 
-Test Overview
+The Cardiac Troponin I (cTnI) Rapid Test Cassette is a lateral flow immunoassay designed for qualitative detection of cardiac Troponin I in human whole blood, serum, or plasma. It is used as a diagnostic aid for acute myocardial infarction (AMI), commonly known as a heart attack.
 
-Cardiac Troponin I (cTnI), a cardiac muscle protein, plays a vital role in muscle contraction regulation. Upon myocardial damage, cTnI is released into the bloodstream as free cTnI and the cTnI-C-T complex within 4-6 hours, peaking at 60-80 hours and remaining detectable for up to 10-14 days. As a highly specific cardiac marker, cTnI levels help diagnose AMI, and this rapid test provides results in a simple, visual, and non-invasive manner.
+##### 🧬 About the Test
 
-Test Principle
+Cardiac Troponin I (cTnI) is a heart-specific protein that regulates muscle contraction. It is released into the bloodstream within 4–6 hours of myocardial injury, peaking between 60–80 hours, and may remain detectable for up to 10–14 days.
 
-This qualitative immunoassay uses an anti-cTnI antibody immobilized on the test strip. When a blood, serum, or plasma sample is applied, the sample reacts with cTnI antibodies. A colored line in the test region (T) indicates a positive result, while the control line (C) ensures procedural accuracy.
+This rapid test offers:
 
-Warnings and Precautions
+* Quick results within 15 minutes
+* High specificity to cardiac muscle injury
+* Non-invasive testing for early AMI diagnosis
+* Ideal for use in emergency care and critical situations
 
-* For in vitro diagnostic use by healthcare professionals only.
-* Do not use beyond the expiration date.
-* Treat all specimens as potentially hazardous and discard used cassettes per regulations.
+##### 🧪 How the Test Works
 
-Test Components
+This qualitative immunoassay uses monoclonal anti-cTnI antibodies immobilized on a nitrocellulose membrane. When a sample is applied, any present cTnI binds to the antibodies, forming a visible colored line on the test strip.
 
-* Provided: Test cassette, buffer, dropper, and package insert.
-* Required but Not Provided: Specimen collection container.
+* Positive Result: Two lines (Test + Control)
+* Negative Result: One line (Control only)
+* Invalid Result: No Control line – retest required
 
-Storage and Stability
+##### ⚠️ Precautions
 
-* Store in a sealed pouch at 4-30°C (40-86°F); use within one hour of opening.
-* Do not expose to hot or humid conditions to prevent deterioration.
+* For in vitro diagnostic use only
+* Healthcare professionals only
+* Do not use past expiration date
+* Handle all specimens as potentially infectious
+* Dispose of all test components according to local regulations
 
-Specimen Collection and Handling
+##### 📦 Test Kit Components
 
-* Use whole blood, serum, or plasma specimens collected via vein puncture with EDTA, citrate, or heparin.
-* Store at 2-8°C if not tested immediately (up to 7 days) or freeze serum/plasma for longer storage. Do not freeze whole blood.
+Included:
 
-Test Procedure
+* Test cassette
+* Buffer
+* Dropper
+* Package insert
 
-* Allow device and specimen to reach 15-30°C (59-86°F).
-* Place the test cassette on a level surface.
-* For serum or plasma: Add 3 drops (100 μL) to the specimen well (S).
-* For whole blood: Add 2 drops (70 μL) and 1 drop of buffer (35 μL) to the well.
-* Wait 15 minutes for results. Do not interpret after 20 minutes.
+Required (Not Provided):
 
-Results Interpretation
+* Sample collection materials
 
-Result	Description
+##### 🌡️ Storage & Stability
 
-Positive	Two lines appear: one in the control (C) and another in the test (T) region.
+* Store sealed at 4°C–30°C (40°F–86°F)
+* Use within 1 hour of opening
+* Avoid heat, humidity, or direct sunlight
 
-Negative	Only the control line (C) appears, indicating no detectable cTnI.
+##### 🧫 Specimen Collection & Handling
 
-Invalid	No control line appears; repeat the test with a new cassette if errors persist.
+* Suitable for whole blood, serum, or plasma
+* Collect via venipuncture using EDTA, citrate, or heparin
+* Store at 2–8°C for up to 7 days
+* For long-term storage, freeze serum/plasma; do not freeze whole blood
 
-Quality Control
+##### 🔍 Test Procedure
 
-An internal control line (C) appears in every valid test, indicating correct procedural technique. Routine testing of positive and negative controls is recommended.
+1. Bring test and specimen to 15–30°C
+2. Place cassette on a flat surface
+3. For serum/plasma: Add 3 drops (100 µL) to specimen well
+4. For whole blood: Add 2 drops (70 µL) + 1 drop buffer (35 µL)
+5. Wait 15 minutes to read results; do not interpret after 20 minutes
 
-Performance Characteristics
+#### 📊 Results Interpretation
 
-Sensitivity: Detects cTnI levels ≥0.5 ng/mL.
+| Result   | Interpretation                        |
+| -------- | ------------------------------------- |
+| Positive | Two lines (T + C): cTnI detected      |
+| Negative | One line (C only): No detectable cTnI |
+| Invalid  | No control line: Repeat test          |
 
-Accuracy: Comparative studies with commercial kits and ELISA confirm 99% accuracy.
+#### 🧪 Quality Control
 
-Clinical Performance
+An integrated control line (C) confirms test validity. For best practice, run routine positive and negative controls to ensure ongoing reliability.
 
-Clinical Sensitivity : 99.08%
+#### 📈 Performance Highlights
 
-Clinical Specificity	: 99%
+* Sensitivity: ≥0.5 ng/mL
+* Clinical Sensitivity: 99.08%
+* Clinical Specificity: 99%
+* Accuracy: 99%
+* Reproducibility: 99.8% agreement across testing sites
 
-Accuracy: 99%
+#### 📚 Scientific References
 
-Reproducibility
-
-Tests conducted at three physician office laboratories demonstrated a 99.8% agreement across sites.
-
-References
-
-1. Adams, et al. Diagnosis of Perioperative myocardial infarction with measurements of cardiac troponin I. N.Eng.J.Med, 1994.
-2. Hossein-Nia, et al. Cardiac troponin I release in heart transplantation. Ann. Thorac. Surg., 1996.
-3. Alpert JS, et al. Myocardial Infarction Redefined. J. Am. Coll. Cardio, 2000.
+1. Adams et al., N. Engl. J. Med., 1994 – Detection of myocardial infarction with cTnI
+2. Hossein-Nia et al., Ann. Thorac. Surg., 1996 – Troponin I in heart transplantation
+3. Alpert JS et al., J. Am. Coll. Cardiol., 2000 – Redefining myocardial infarction
