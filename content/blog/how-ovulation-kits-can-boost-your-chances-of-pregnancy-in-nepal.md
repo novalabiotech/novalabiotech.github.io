@@ -1,9 +1,9 @@
 ---
 title: How Ovulation Kits Can Boost Your Chances of Pregnancy in Nepal
 synopsis: >-
-  Trying to get pregnant? Learn how using an ovulation kit in Nepal can help
+  Trying to get pregnant? Learn how using an ovulation kit can help
   boost fertility and improve your chances to conceive faster. Start today!
-banner: /img/Beige and Blue Cute Illustrative Education YouTube Thumbnail.png
+banner: /img/blogs/ovasure-boost-your-chances-pregnancy.png
 date: 2025-05-04T18:15:00.000Z
 tags:
   - Pregnancy
@@ -78,7 +78,7 @@ It could be due to anovulation (no ovulation) or testing too early/late. Consult
 
 If you're actively trying to get pregnant, don’t leave it to chance. Using a reliable ovulation kit in Nepal like Ovasure can help you take control of your fertility.
 
-🛒 [Ovasure ](https://novala.com.np/products/ovasure/)is now available  at leading pharmacies or order online from trusted platforms.
+🛒 [Ovasure](https://novala.com.np/products/ovasure/) is now available at leading pharmacies or order online from trusted platforms.
 
 ✨ Final Thoughts
 

@@ -34,7 +34,7 @@ Ovasure is a one-step urine ovulation LH test Kit from Novala Biotech is a rapid
 ## Principle
 Ovulation is the process where an egg is released from the ovary and passes into the Fallopian tube, ready for fertilization. For pregnancy to occur, sperm must fertilize the egg within 24 hours of its release. Just before ovulation, the body produces a surge of luteinizing hormone (LH), which triggers the release of the mature egg from the ovary. This "LH surge" typically happens mid-cycle and marks the most fertile period.
 
-The Ovasure Ovulation Test detects the presence of human luteinizing hormone (LH) by visually interpreting color changes on the testing cassette. Anti-LH antibodies are immobilized in the test region of the membrane, while anti-mouse antibodies are in the control region. During the test, the specimen reacts with anti-LH antibodies attached to coloured particles on the sample pad of the strip. This mixture migrates through the membrane by capillary action and interacts with reagents on the membrane.
+Ovasure detects the presence of human luteinizing hormone (LH) by visually interpreting color changes on the testing cassette. Anti-LH antibodies are immobilized in the test region of the membrane, while anti-mouse antibodies are in the control region. During the test, the specimen reacts with anti-LH antibodies attached to coloured particles on the sample pad of the strip. This mixture migrates through the membrane by capillary action and interacts with reagents on the membrane.
 
 If the LH level in the specimen is 25 mIU/ml or higher, indicating an LH surge, a colored band will appear in the test region. If no colored band forms in the test region or if the color intensity of this band is less than that of the control line, it indicates a negative test result, meaning the LH level is below 25 mIU/ml and at a basal level.
 
@@ -45,7 +45,7 @@ Ovulation, the release of a mature egg from the ovary, typically happens 13 to 1
 
 Ovasure is designed to support you throughout your fertility journey, offering reliable, accurate results you can trust.
 
-## Step-by-Step Guide for Using Ovasure Ovulation Test Kits
+## Step-by-Step Guide for using 
 ### What’s in the Box:
 * Instruction Manual
 * 5 Ovasure Test cassette with 5 Disposable Droppers in each pouch for single use. 
@@ -86,7 +86,7 @@ Ovasure is designed to support you throughout your fertility journey, offering r
 * Follow all instructions carefully to ensure accuracy.
 * If you miss a day, continue testing as soon as possible but remember that consistency is key for accurate tracking.
 
-## FAQs for Ovasure Ovulation Test Kit
+## FAQs
 1. How do I calculate my menstrual cycle length?
 - To calculate your cycle length, start counting from the first day of your period until the day before your next period begins. For irregular cycles, track your cycle for three months and take the average.
 2. Will Ovasure accurately predict my ovulation if I have PCOS/PCOD?
@@ -107,9 +107,9 @@ Ovasure is designed to support you throughout your fertility journey, offering r
 - No, each test kit is for single use only. Using a new test kit each time ensures accuracy.
 10. Is there a specific way to store the Ovasure test kits?
 - Store the test kits in a cool, dry place away from direct sunlight and moisture to maintain their effectiveness.
-11. Can I use Ovasure Ovulation Test to avoid pregnancy?
+11. Can I use Ovasure to avoid pregnancy?
 - No, Ovasure should not be used as a form of birth control.
-12. How accurate is the Ovasure Ovulation Test?
+12. How accurate is Ovasure ?
 - In laboratory studies, Ovasure has been proven to be over 96% accurate.
 13. Do alcohol or common medications affect the test?
 - No, but consult your physician if you are taking any hormonal medication. Recent use of oral contraceptives, breastfeeding, or pregnancy could affect the test results.
@@ -131,7 +131,7 @@ Ovasure is designed to support you throughout your fertility journey, offering r
 - If you cannot detect an LH surge, it may be because you did not ovulate that month, which is normal occasionally. You might have missed the surge due to an irregular cycle or miscalculation. Continue testing with another kit or start testing earlier next month. Ensure that the urine sample was collected correctly, and if irregular results persist, consult your physician.
 22. Can I use Ovasure while taking Sangini injections or birth control pills?
 - Ovasure will not be useful if you are taking Sangini injections, as it prevents the ovulation process, knowing the LH surge won't be helpful. Similarly, if you are taking birth control pills, Ovasure will not be effective as these pills affect female hormones and affect the ovulation period.
-23. How long should we wait to use Ovasure ovulation test kits after stopping Sangini injection?
-- You should wait at least 3 months after your last Sangini injection before using Ovasure ovulation test kits.
-24. How long should I wait to use Ovasure ovulation test kits after stopping birth control pills?
-- You can start using Ovasure ovulation test kits after two weeks of stopping birth control pills, as the ovulation period usually occurs after two weeks of stopping the pills. However, it may take 1 to 2 months for some women.
+23. How long should we wait to use Ovasure kits after stopping Sangini injection?
+- You should wait at least 3 months after your last Sangini injection before using Ovasure kits.
+24. How long should I wait to use Ovasure after stopping birth control pills?
+- You can start using Ovasure after two weeks of stopping birth control pills, as the ovulation period usually occurs after two weeks of stopping the pills. However, it may take 1 to 2 months for some women.

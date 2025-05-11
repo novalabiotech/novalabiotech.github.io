@@ -5,9 +5,7 @@ synopsis: >-
   and around the world, the next big step is starting a family. But did you know
   that proper planning can increase your chances of a healthy and successful
   pregnancy?
-banner: >-
-  /img/Brown and Cream Minimalist Laundry and Dry Cleaning Services Promo
-  Instagram Post .png
+banner: /img/blogs/planning-for-parenthood.png
 date: 2025-05-06T18:15:00.000Z
 tags:
   - Ovulation test kits
@@ -23,7 +21,7 @@ Getting married is a life-changing experience—and for many couples in Nepal an
 
 Whether you're ready now or planning for the near future, this blog is your go-to guide for understanding the best time, tools, and lifestyle changes needed for conception. Let's explore what science and tradition say about planning for a baby.
 
-# 👶 Why Planning Matters for Parenthood
+## 👶 Why Planning Matters for Parenthood
 
 Having a baby is more than just timing—it’s about being emotionally, physically, and financially ready. Planning pregnancy can:
 
@@ -32,7 +30,7 @@ Having a baby is more than just timing—it’s about being emotionally, physica
 * Help identify and address fertility issues early
 * Support emotional and mental readiness
 
-# 📅 Step 1: Understand Your Fertility Cycle
+## 📅 Step 1: Understand Your Fertility Cycle
 
 One of the most important things a woman can do is track her ovulation. Ovulation is when an egg is released from the ovary-your most fertile period.
 
@@ -44,7 +42,7 @@ One of the most important things a woman can do is track her ovulation. Ovulatio
 
 Pro Tip: Most women ovulate about 14 days before their next period. Timing intercourse around this window increases your chances.
 
-# 🧪 Step 2: Use Ovulation Kits for Better Accuracy
+## 🧪 Step 2: Use Ovulation Kits for Better Accuracy
 
 Ovulation kits, like Novala Biotech’s Ovasure, help detect the Luteinizing Hormone (LH) surge that occurs before ovulation.
 
@@ -54,7 +52,7 @@ Ovulation kits, like Novala Biotech’s Ovasure, help detect the Luteinizing Hor
 * Non-invasive, simple to use at home
 * Empowers couples to time intercourse more effectively
 
-# 🥗 Step 3: Adopt a Fertility-Friendly Lifestyle
+## 🥗 Step 3: Adopt a Fertility-Friendly Lifestyle
 
 A healthy lifestyle can enhance fertility for both men and women. Make these changes early:
 
@@ -115,6 +113,6 @@ Ready to start your journey to parenthood?
 
 💬 Need help? [Contact Novala Biotech](https://novala.com.np/contact/) for support and expert advice.
 
-#### **Edited and Reviewed by **
+**Edited and Reviewed by**
 
 Dr Sujata Maharjan ( MD, Obstetrics and Gynaecology )
