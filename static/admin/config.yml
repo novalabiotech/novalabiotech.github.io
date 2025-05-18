@@ -1,0 +1,153 @@
+
+backend:
+  name: github
+  repo: novalabiotech/novalabiotech.github.io
+  branch: sveltia
+  base_url: https://sveltia-cms-auth.novala-biotech.workers.dev
+
+media_folder: "static/img" # Folder where user uploaded files should go
+public_folder: "/img"
+
+collections:
+  - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Blogs" # Used in the UI, ie.: "New Post"
+    folder: "content/blog" # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    media_folder: /static/img/blogs
+    public_folder: /img/blogs
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured", name: "featured", widget: "boolean"}
+      - {label: "Synopsis (text to appear on home page)", name: "synopsis", widget: "string"}
+      - {label: "Banner", name: "banner", widget: "image"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        max: 3
+        min: 1
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        max: 3
+        min: 1
+      - {label: "Body", name: "body", widget: "markdown"}
+    meta: # Meta data fields. Just like fields, but without any preview element
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+  - name: "product"
+    label: "Products"
+    folder: "content/products" 
+    sort: "title:asc"
+    create: true
+    slug: "{{slug}}"
+    media_folder: /static/img/products
+    public_folder: /img/products
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured", name: "featured", widget: "boolean"}
+      - {label: "Synopsis (text to appear on home page)", name: "synopsis", widget: "string"}
+      - {label: "Icon(if featured). Chhose from https://fontawesome.com/v5/search", name: "icon", widget: "string"}
+      - {label: "Banner", name: "banner", widget: "image"}
+      - {label: "Order (Lower comes first)", name: "order", widget: "number", value_type: "int"}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        max: 3
+        min: 1
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        max: 3
+        min: 1
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "testimonial"
+    label: "Testimonials" 
+    folder: "data/testimonials" 
+    sort: "order:asc"
+    identifier_field: name
+    create: true
+    extension: yaml
+    slug: "{{order}}-{{name}}"
+    media_folder: /static/img/testimonials
+    public_folder: /img/testimonials
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Order (Lower comes first)", name: "order", widget: "number", value_type: "int"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Avatar", name: "avatar", widget: "image"}
+      - {label: "Text", name: "text", widget: "text"}
+  - name: "partners"
+    label: "Partners" 
+    folder: "data/clients" 
+    sort: "order:asc"
+    identifier_field: name
+    create: true
+    extension: yaml
+    slug: "{{order}}-{{name}}"
+    media_folder: /static/img/partners
+    public_folder: /img/partners
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Order (Lower comes first)", name: "order", widget: "number", value_type: "int"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "URL", name: "url", widget: "string"}
+      - {label: "Caption", name: "caption", widget: "text"}
+  - name: "team"
+    label: "Team" 
+    folder: "data/team" 
+    sort: "order:asc"
+    identifier_field: name
+    create: true
+    extension: yaml
+    slug: "{{order}}-{{name}}"
+    media_folder: /static/img/team
+    public_folder: /img/team
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Order (Lower comes first)", name: "order", widget: "number", value_type: "int"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "advisor"
+    label: "Advisors" 
+    folder: "data/advisor" 
+    sort: "order:asc"
+    identifier_field: name
+    create: true
+    extension: yaml
+    slug: "{{order}}-{{name}}"
+    media_folder: /static/img/advisors
+    public_folder: /img/advisors
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Order (Lower comes first)", name: "order", widget: "number", value_type: "int"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "about"
+    label: "About pages" 
+    files: 
+      - label: "About us"
+        name: "us"
+        file: "content/about/us.md"
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Our Quality Policy"
+        name: "quality-policy"
+        file: "content/about/quality-policy.md"
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Our Vision"
+        name: "Vision"
+        file: "content/about/vision.md"
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Body", name: "body", widget: "markdown"}     
