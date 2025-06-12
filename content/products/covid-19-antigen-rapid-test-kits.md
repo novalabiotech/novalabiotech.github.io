@@ -6,6 +6,7 @@ synopsis: >-
   nasal or nasopharyngeal swabs, delivering results in 15–20 minutes. It is
   ideal for rapid screening in clinical and non-lab settings, supporting timely
   diagnosis and outbreak control.
+icon: <i class="fa-solid fa-viruses"></i>
 banner: /img/24697.jpg
 order: 6
 tags:
