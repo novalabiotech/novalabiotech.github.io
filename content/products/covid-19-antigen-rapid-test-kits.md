@@ -53,7 +53,6 @@ This test operates on the double-antibody sandwich principle. Monoclonal antibod
 * 25 Individually sealed test cassettes with desiccants
 * 25 Extraction reagent tubes (0.3 mL each)
 * 25 Sterile swabs for sample collection
-* 1 Workstation
 * 1 Package insert
 
 ### Materials Required But Not Provided:
