@@ -16,12 +16,12 @@ tags:
 ---
 
 Dengue fever remains a major health threat, particularly during the monsoon season in countries like Nepal.
- Early and accurate diagnosis plays a critical role in saving lives and preventing outbreaks from worsening.
- But with multiple diagnostic options available — including Dengue NS1 Rapid Test, IgG/IgM antibody tests, NS1 + IgG/IgM combo kits, PCR, and ELISA-based NS1 assays — how should healthcare providers choose?
+Early and accurate diagnosis plays a critical role in saving lives and preventing outbreaks from worsening.
+But with multiple diagnostic options available — including Dengue NS1 Rapid Test, IgG/IgM antibody tests, NS1 + IgG/IgM combo kits, PCR, and ELISA-based NS1 assays — how should healthcare providers choose?
 
 Let’s break down and compare each method across important factors like time to diagnosis, cost, practicality, and healthcare efficiency.
 
-1\. Dengue NS1 Antigen Rapid Test Kits
+### 1\. Dengue NS1 Antigen Rapid Test Kits
 
 What it Detects:
 
@@ -53,7 +53,7 @@ Limitations:
 * Slightly lower sensitivity if tested after Day 5 of illness.
 * Cannot detect previous dengue infections or immunity.
 
-2\. Dengue IgG/IgM Antibody Rapid Test Kits
+### 2\. Dengue IgG/IgM Antibody Rapid Test Kits
 
 What it Detects:
 
@@ -83,7 +83,7 @@ Limitations:
 * Poor early-stage diagnosis.
 * Possibility of cross-reactivity with other flaviviruses (e.g., Zika, Japanese encephalitis, West Nile).
 
-3\. Dengue NS1 + IgG/IgM Combo Rapid Test Kits
+### 3\. Dengue NS1 + IgG/IgM Combo Rapid Test Kits
 
 What it Detects:
 
@@ -113,7 +113,7 @@ Limitations:
 * Slightly more complex interpretation.
 * Requires good storage conditions to maintain accuracy.
 
-4\. PCR Testing (Polymerase Chain Reaction)
+### 4\. PCR Testing (Polymerase Chain Reaction)
 
 What it Detects:
 
@@ -143,7 +143,7 @@ Limitations:
 * Trained personnel needed.
 * Longer turnaround time (few hours to 1–2 days).
 
-5\. ELISA-based NS1 Antigen Tests
+### 5\. ELISA-based NS1 Antigen Tests
 
 What it Detects:
 
@@ -174,7 +174,7 @@ Limitations:
 * Needs lab infrastructure (incubators, washers, readers).
 * Delayed results (\~4–6 hours).
 
-Quick Comparison Table
+### Quick Comparison Table
 
 | Test Type           | Detection Window | Time to Result   | Cost   | Infrastructure Need | Best For                                                                     |
 | ------------------- | ---------------- | ---------------- | ------ | ------------------- | ---------------------------------------------------------------------------- |
@@ -184,7 +184,7 @@ Quick Comparison Table
 | PCR                 | Day 1–7          | Few hours–2 days | High   | Advanced lab        | Severe cases, research                                                       |
 | ELISA NS1           | Day 1–5          | 4–6 hours        | Medium | Moderate lab        | Central labs, mass screening                                                 |
 
-Which Test Should You Choose?
+### Which Test Should You Choose?
 
 * For fast, frontline diagnosis especially in clinics, camps, and small hospitals across Nepal, Dengue NS1 Rapid Test Kits are the best first choice.
 * If you want to cover both early and late-stage infection in one test, the NS1 + IgG/IgM combo kit don’t give the confirmatory results..
@@ -193,4 +193,4 @@ Which Test Should You Choose?
 
 Choosing the right test improves patient care, strengthens outbreak response, and saves lives.
 
-![](</img/Dengue NS1 antigen test kits.png>)
+![](</img/blogs/dengue-ns1-antigen-test-kits.webp>)

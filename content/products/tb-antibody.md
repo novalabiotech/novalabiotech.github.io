@@ -6,7 +6,7 @@ synopsis: >-
   for the qualitative detection of anti-TB antibodies in human whole blood,
   serum, or plasma, aiding in the diagnosis of tuberculosis. 
 icon: fa-bacterium
-banner: /img/mycobacterium.jpg
+banner: /img/products/tb-antibody.jpg
 order: 13
 tags:
   - Mycobacterium Tuberculosis

@@ -6,7 +6,7 @@ synopsis: >-
   designed for the qualitative detection of Salmonella Typhi antigens in human
   feces, aiding in the diagnosis of typhoid fever.
 icon: fa-bacterium
-banner: /img/S typhi image.jpg
+banner: /img/products/typhi-antigen.webp
 order: 6
 tags:
   - Salmonella typhi

@@ -7,7 +7,7 @@ synopsis: >-
   ideal for rapid screening in clinical and non-lab settings, supporting timely
   diagnosis and outbreak control.
 icon: <i class="fa-solid fa-viruses"></i>
-banner: /img/24697.jpg
+banner: /img/products/covid-19-antigen.webp
 order: 6
 tags:
   - COVID rapid test kits
@@ -149,4 +149,4 @@ No high-dose hook effect observed up to 1.2 x 10^7 TCID50/mL of inactivated viru
 
 For purchase [contact us](https://novala.com.np/contact/)
 
-![](/img/hand-with-protective-gloves-making-covid-test.jpg)
+![](/img/products/hand-with-protective-gloves-making-covid-test.webp)
