@@ -13,13 +13,13 @@ Trying to conceive (TTC) can be an emotional journey—filled with hope, anxiety
 
 Here are 5 clear signs that it might be time for you to start using one.
 
-#### 1\\. 🌀 You Have Irregular Menstrual Cycles
+#### 1. 🌀 You Have Irregular Menstrual Cycles
 
 If your cycle length varies month to month (e.g., 25 days one cycle, 35 the next), it can be hard to predict ovulation naturally. Ovulation might not always happen in the middle of your cycle—and guessing wrong means missed chances.
 
 ✅ Why an ovulation kit helps: It detects the LH surge (luteinizing hormone), which occurs 24–36 hours before ovulation—regardless of your cycle length.
 
-#### 2\\. ⏳ You’ve Been Trying to Conceive for 6 Months or More
+#### 2. ⏳ You’ve Been Trying to Conceive for 6 Months or More
 
 If you've been actively TTC for over half a year with no success, it's time to look deeper into fertility tracking tools.
 
@@ -27,7 +27,7 @@ A fertile window is just around 5 days each month. Missing it repeatedly could d
 
 📍 Using an ovulation kit in Nepal like Ovasure can help you catch that crucial window and time intercourse effectively.
 
-#### 3\\. 🔄 You’re Coming Off Birth Control Pills
+#### 3. 🔄 You’re Coming Off Birth Control Pills
 
 After stopping hormonal contraceptives, your natural cycle may take a few months to stabilize. During this phase, ovulation may not be regular.
 
@@ -35,13 +35,13 @@ After stopping hormonal contraceptives, your natural cycle may take a few months
 
 This reassurance can guide your TTC efforts and reduce unnecessary stress.
 
-#### 4\\. 🩸 You Have Very Light or Very Heavy Periods
+#### 4. 🩸 You Have Very Light or Very Heavy Periods
 
 Extreme period patterns may signal hormonal imbalances that affect ovulation. If your cycles are unusual but not diagnosed, ovulation testing provides valuable insights.
 
 🔍 Regular use of ovulation kits can help you track patterns, monitor cycle consistency, and detect if ovulation is actually happening.
 
-#### 5\\. 💬 You Feel Emotionally Drained from Guessing and Waiting
+#### 5. 💬 You Feel Emotionally Drained from Guessing and Waiting
 
 TTC can become mentally exhausting—especially if you’re relying on tracking apps or symptoms alone. Many women find relief in having clear, science-backed data about their ovulation.
 
@@ -69,4 +69,4 @@ If you see yourself in any of the signs above, it’s time to make a smart, simp
 
 🔗 Ready to begin? Ask your pharmacist or buy Ovasure Ovulation Kit from Novala Biotech today—and take the first step toward your dream of parenthood.
 
-Contact us
+[Contact us](https://www.novala.com.np/contact/)
