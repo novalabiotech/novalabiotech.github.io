@@ -7,7 +7,7 @@ synopsis: >-
   season. Rapid diagnosis is critical for early treatment and better outbreak
   control.  When it comes to testing, two options are commonly available: the
   Dengue NS1 antigen test and the NS1 IgG/IgM combo test.
-banner: /img/6123485.jpg
+banner: /img/6123485.webp
 date: 2025-04-29T18:15:00.000Z
 tags:
   - Fast Dengue Diagnosis

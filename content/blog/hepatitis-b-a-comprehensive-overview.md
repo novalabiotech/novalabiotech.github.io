@@ -1,6 +1,6 @@
 ---
 title: 'Hepatitis B: A Comprehensive Overview'
-banner: /img/HepatitisB_share.jpg
+banner: /img/blogs/hepatitis-b.webp
 date: 2024-07-08T18:15:00.000Z
 ---
 

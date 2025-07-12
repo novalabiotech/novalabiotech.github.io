@@ -5,7 +5,7 @@ title: >-
 date: 2024-09-03T18:15:00.000Z
 ---
 
-Hepatitis B (HBV) is a potentially life-threatening liver infection that often goes unnoticed due to its lack of early symptoms. This silent nature makes early detection of HBV critical to preventing long-term complications, such as liver damage, cirrhosis, and liver cancer. In this article, we’ll explore the risks of late diagnosis and how rapid testing plays a vital role in early detection and improved health outcomes.![](/img/HepatitisB_share.jpg)
+Hepatitis B (HBV) is a potentially life-threatening liver infection that often goes unnoticed due to its lack of early symptoms. This silent nature makes early detection of HBV critical to preventing long-term complications, such as liver damage, cirrhosis, and liver cancer. In this article, we’ll explore the risks of late diagnosis and how rapid testing plays a vital role in early detection and improved health outcomes.![](/img/blogs/hepatitis-b.webp)
 
 ### Risks of Late Hepatitis B Diagnosis
 

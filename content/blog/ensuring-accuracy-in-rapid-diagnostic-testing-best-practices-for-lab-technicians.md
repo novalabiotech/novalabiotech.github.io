@@ -17,7 +17,7 @@ date: 2024-10-09T18:15:00.000Z
 
 Rapid diagnostic tests (RDTs) are widely used in clinical laboratories to detect a variety of diseases quickly and efficiently. As a manufacturer of high-quality rapid test kits, Novala Biotech is committed to delivering reliable diagnostic solutions to healthcare professionals. However, for optimal performance, it’s essential for lab technicians to understand the key factors that affect the accuracy, sensitivity, and specificity of rapid tests. This article will guide lab technicians through these critical parameters and highlight techniques to minimize errors during testing, as well as important sample handling and preparation considerations.
 
-![](/img/3883639.jpg)
+![](/img/blogs/rapid-test-kit.jpg)
 
 ### Understanding Accuracy, Sensitivity, and Specificity
 
