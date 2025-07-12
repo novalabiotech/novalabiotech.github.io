@@ -1,16 +1,11 @@
 ---
 title: Strep A Rapid Test Kit
 featured: false
-synopsis: >-
-  The Strep A Rapid Test  is a fast, reliable diagnostic tool for detecting
-  Group A streptococcal antigen from throat swabs, delivering results within 15
-  minutes. Designed for professional use, this easy-to-administer test provides
-  critical insights for diagnosing infections like strep throat and preventing
-  complications.
+synopsis: The Strep A Rapid Test  is a fast, reliable diagnostic tool for detecting Group A streptococcal antigen from throat swabs, delivering results within 15 minutes. Designed for professional use, this easy-to-administer test provides critical insights for diagnosing infections like strep throat and preventing complications.
 icon: fa-bacteria
 banner: /img/products/streptococcus-habitat-morphology-and-culture.jpg
+order: 10
 ---
-
 **INTENDED USE**
 
 The Strep A Rapid Test Cassette is a rapid immunoassay designed for the qualitative detection of Group A Streptococcal antigen from throat swab specimens.
@@ -27,11 +22,11 @@ The Strep A Rapid Test is a membrane-based immunoassay that detects Group A Stre
 
 **WARNINGS AND PRECAUTIONS**
 
-* For professional in vitro diagnostic use only.
-* Do not use after the expiration date.
-* Handle all specimens as potentially infectious.
-* Wear protective clothing and follow biosafety guidelines.
-* Humidity and temperature may affect the results.
+- For professional in vitro diagnostic use only.
+- Do not use after the expiration date.
+- Handle all specimens as potentially infectious.
+- Wear protective clothing and follow biosafety guidelines.
+- Humidity and temperature may affect the results.
 
 **COMPOSITION**
 
@@ -39,15 +34,15 @@ The test contains a membrane strip coated with anti-Strep A antibodies and a con
 
 **MATERIALS PROVIDED**
 
-* Test cassette
-* Extraction reagents A and B
-* Sterile swab
-* Extraction tube and dropper tip
-* Package insert
+- Test cassette
+- Extraction reagents A and B
+- Sterile swab
+- Extraction tube and dropper tip
+- Package insert
 
 **MATERIALS REQUIRED BUT NOT PROVIDED**
 
-* Specimen collection container
+- Specimen collection container
 
 **STORAGE AND STABILITY**
 
@@ -68,9 +63,9 @@ Collect throat swabs using standard clinical methods. Avoid using swabs with cot
 
 **INTERPRETATION OF RESULTS**
 
-* Positive: Two lines (test and control) indicate the presence of Strep A antigen.
-* Negative: Only the control line appears, indicating no antigen detected.
-* Invalid: If no control line appears, the test is invalid and should be repeated.
+- Positive: Two lines (test and control) indicate the presence of Strep A antigen.
+- Negative: Only the control line appears, indicating no antigen detected.
+- Invalid: If no control line appears, the test is invalid and should be repeated.
 
 **QUALITY CONTROL**
 
@@ -78,9 +73,9 @@ The appearance of the control line confirms proper procedure and sufficient spec
 
 **LIMITATIONS**
 
-* For in vitro diagnostic use only.
-* The test detects the presence of Strep A antigen, not the quantity.
-* Negative results do not rule out infection; further testing may be necessary.
+- For in vitro diagnostic use only.
+- The test detects the presence of Strep A antigen, not the quantity.
+- Negative results do not rule out infection; further testing may be necessary.
 
 **PERFORMANCE CHARACTERISTICS**
 

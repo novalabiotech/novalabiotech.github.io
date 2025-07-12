@@ -2,17 +2,33 @@
 backend:
   name: github
   repo: novalabiotech/novalabiotech.github.io
-  branch: sveltia
+  branch: main
   base_url: https://sveltia-cms-auth.novala-biotech.workers.dev
 
 media_folder: "static/img" # Folder where user uploaded files should go
 public_folder: "/img"
+media_libraries:
+  default:
+    config:
+      transformations:
+        raster_image: # original format
+          format: webp # new format, only webp is supported
+          quality: 85 # default: 85
+          width: 2048 # default: original size
+          height: 2048 # default: original size
+        svg:
+          optimize: true
+          
 
 collections:
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Blogs" # Used in the UI, ie.: "New Post"
     folder: "content/blog" # The path to the folder where the documents are stored
-    sort: "date:desc" # Default is title:asc
+    sortable_fields:
+      fields: [date, title]
+      default:
+        field: date
+        direction: descending
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     media_folder: /static/img/blogs
@@ -39,7 +55,11 @@ collections:
   - name: "product"
     label: "Products"
     folder: "content/products" 
-    sort: "title:asc"
+    sortable_fields:
+      fields: [order, title]
+      default:
+        field: order
+        direction: ascending
     create: true
     slug: "{{slug}}"
     media_folder: /static/img/products
@@ -48,7 +68,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured", name: "featured", widget: "boolean"}
       - {label: "Synopsis (text to appear on home page)", name: "synopsis", widget: "string"}
-      - {label: "Icon(if featured). Chhose from https://fontawesome.com/v5/search", name: "icon", widget: "string"}
+      - {label: "Icon(if featured). Choose from https://fontawesome.com/v5/search", name: "icon", widget: "string"}
       - {label: "Banner", name: "banner", widget: "image"}
       - {label: "Order (Lower comes first)", name: "order", widget: "number", value_type: "int"}
       - label: "Tags"
@@ -64,8 +84,12 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "testimonial"
     label: "Testimonials" 
-    folder: "data/testimonials" 
-    sort: "order:asc"
+    folder: "data/testimonials"
+    sortable_fields:
+      fields: [order, name]
+      default:
+        field: order
+        direction: ascending
     identifier_field: name
     create: true
     extension: yaml
@@ -97,8 +121,12 @@ collections:
       - {label: "Caption", name: "caption", widget: "text"}
   - name: "team"
     label: "Team" 
-    folder: "data/team" 
-    sort: "order:asc"
+    folder: "data/team"
+    sortable_fields:
+      fields: [order, name]
+      default:
+        field: order
+        direction: ascending
     identifier_field: name
     create: true
     extension: yaml
@@ -113,8 +141,12 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "advisor"
     label: "Advisors" 
-    folder: "data/advisor" 
-    sort: "order:asc"
+    folder: "data/advisor"
+    sortable_fields:
+      fields: [order, name]
+      default:
+        field: order
+        direction: ascending
     identifier_field: name
     create: true
     extension: yaml
@@ -135,19 +167,19 @@ collections:
         file: "content/about/us.md"
         fields:
         - {label: "Title", name: "title", widget: "string"}
-        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Image", name: "image", widget: "image", required: false }
         - {label: "Body", name: "body", widget: "markdown"}
       - label: "Our Quality Policy"
         name: "quality-policy"
         file: "content/about/quality-policy.md"
         fields:
         - {label: "Title", name: "title", widget: "string"}
-        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Image", name: "image", widget: "image", required: false }
         - {label: "Body", name: "body", widget: "markdown"}
       - label: "Our Vision"
         name: "Vision"
         file: "content/about/vision.md"
         fields:
         - {label: "Title", name: "title", widget: "string"}
-        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Image", name: "image", widget: "image", required: false }
         - {label: "Body", name: "body", widget: "markdown"}     
