@@ -1,12 +1,12 @@
 ---
 title: 'Hepatitis E: Symptoms and the Importance of Rapid IgG/IgM Testing'
-banner: /img/HepatitisB_share.jpg
+banner: /img/blogs/hepatitis-b.webp
 date: 2024-10-22T18:15:00.000Z
 ---
 
 Hepatitis E is a liver infection caused by the hepatitis E virus (HEV). Unlike other hepatitis viruses, HEV is primarily transmitted through contaminated water and poor sanitation conditions, making it more prevalent in developing countries, including Nepal. In most cases, people recover fully from hepatitis E without long-term health issues. However, it can cause complications in certain populations, highlighting the importance of early detection.
 
-![](/img/HepatitisB_share.jpg)
+![](/img/blogs/hepatitis-b.webp)
 
 ### Understanding Hepatitis E
 

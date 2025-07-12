@@ -1,16 +1,16 @@
 ---
-title: 'How Accurate Are Ovulation Test Kits? '
+title: How Accurate Are Ovulation Test Kits?
 synopsis: >-
   Curious about ovulation kit accuracy in Nepal? Learn how reliable LH surge
   detection is and how Novala’s Ovasure can help in pregnancy planning.
-banner: /img/fast and reliable.png
+banner: /img/blogs/ovasure-reliable.webp
 date: 2025-05-04T18:15:00.000Z
 tags:
-  - 'Ovasure '
+  - Ovasure
   - Home Ovulation Testing
   - Pregnancy Planning
   - LH Surge Detection
-  - 'Ovulation Kit Accuracy '
+  - Ovulation Kit Accuracy
 categories:
   - Fertility
 ---

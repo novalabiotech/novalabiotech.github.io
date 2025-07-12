@@ -6,7 +6,7 @@ synopsis: >-
   nasal or nasopharyngeal swabs, delivering results in 15–20 minutes. It is
   ideal for rapid screening in clinical and non-lab settings, supporting timely
   diagnosis and outbreak control.
-icon: <i class="fa-solid fa-viruses"></i>
+icon: fa-solid fa-viruses
 banner: /img/products/covid-19-antigen.webp
 order: 6
 tags:
@@ -19,6 +19,9 @@ keywords:
   - COVID antigen rapid test kits
   - SARS covid-19 rapid test kits
   - Covid test kits
+aliases: 
+  - /_/covid19-antigen
+  - /products/covid-19-antigen-rapid-test-kits
 ---
 
 ## Intended Use

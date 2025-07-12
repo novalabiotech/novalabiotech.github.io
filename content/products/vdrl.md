@@ -14,6 +14,8 @@ tags:
 keywords:
   - Syphilis
   - rapidkit
+aliases: 
+  - /_/vdrl
 ---
 
 **Introduction:**

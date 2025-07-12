@@ -22,7 +22,7 @@ Every year, over 390 million people are infected with the Dengue virus globally.
 
 Monthly trend of dengue shows the dengue cases keeps rising from July and reaches its pear during august and September. In 2024 alone more than thirty-four thousands of cases were reported with 13 verified deaths due to dengue, but epidemiologist suggest it is way beyond the actual data. Bagmati and Gandaki province were hit hard with almost 80% of cases in those two provinces.
 
-![](</img/bg/Screenshot 2025-05-06 092422.jpg>)
+![Dengue case trends 2023 2024](</img/blogs/dengue-cases-23-24.jpg>)
 
 # 🦟 What is Dengue Fever?
 

@@ -443,16 +443,13 @@ ul.list-style-none {
 .navbar .yamm-fw .dropdown-menu {
   padding: 0;
 }
-.navbar .navbar-buttons {
-  float: right;
-}
 .navbar .navbar-buttons button,
 .navbar .navbar-buttons a.btn,
 .navbar .navbar-buttons .btn-default.navbar-toggle {
   margin-top: 11px;
   margin-bottom: 11px;
   margin-left: 0;
-  margin-right: 5px;
+  margin-right: 8px;
 }
 .navbar .btn-default,
 .navbar .btn-default.navbar-toggle {
@@ -2988,7 +2985,6 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .navbar-toggle {
   position: relative;
-  float: right;
   margin-right: 15px;
   padding: 9px 10px;
   margin-top: 14px;

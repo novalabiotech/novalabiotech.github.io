@@ -9,7 +9,7 @@ synopsis: >-
   very first day of fever — even before antibodies appear. In outbreak
   situations, rapid diagnosis with NS1 kits ensures faster treatment, timely
   monitoring, and ultimately saves lives.
-banner: /img/3883639.jpg
+banner: /img/blogs/rapid-test-kit.jpg
 date: 2025-04-29T18:15:00.000Z
 tags:
   - Dengue Test Kit Nepal

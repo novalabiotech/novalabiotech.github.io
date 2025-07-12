@@ -1,5 +1,5 @@
 ---
-id: contact
+layout: contact
 title: Contact
 ---
 

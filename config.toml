@@ -1,11 +1,8 @@
-baseurl = "https://novala.com.np" 
+baseurl = "https://www.novala.com.np" 
 title = "Novala Biotech"
-# theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
-# Enable comments by entering your Disqus shortname
-# disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "G-57TNE44HM2"
 
@@ -26,12 +23,6 @@ pagerSize = 6
     identifier = "menu.home"
     url        = "/"
     weight     = 1
-
-# [[menu.main]]
-#     name       = "Option 1: Default Page"
-#     url        = "/"
-#     weight     = 1
-#     parent     = "menu.home"
 
 [[menu.main]]
     name       = "About"
@@ -86,84 +77,6 @@ pagerSize = 6
     url        = "/products"
     weight     = 3
 
-# [[menu.main]]
-#     name       = "Test kits"
-#     identifier = "section.testkits"
-#     url        = ""
-#     weight     = 1
-#     parent     = "menu.products"
-#     post       = 1
-
-# [[menu.main]]
-#     name       = "Novasure"
-#     url        = "/products/novasure/"
-#     weight     = 1
-#     parent     = "section.testkits"
-
-# [[menu.main]]
-#     name       = "HIV Rapid Kit"
-#     url        = "/products/hiv/"
-#     weight     = 2
-#     parent     = "section.testkits"
-
-# [[menu.main]]
-#     name       = "HBsAg Rapid Kit"
-#     url        = "/products/hbsag/"
-#     weight     = 3
-#     parent     = "section.testkits"
-
-# [[menu.main]]
-#     name       = "VDRL Rapid Kit"
-#     url        = "/products/vdrl/"
-#     weight     = 4
-#     parent     = "section.testkits"
-
-# [[menu.main]]
-#     name       = "HCV Rapid Kit"
-#     url        = "/products/hcv/"
-#     weight     = 5
-#     parent     = "section.testkits"    
-
-# [[menu.main]]
-#     name       = "H. pylori Antigen Rapid Kit"
-#     url        = "/products/h-pylori/"
-#     weight     = 6
-#     parent     = "section.testkits"
-
-# [[menu.main]]
-#     name       = "Vaccines"
-#     identifier = "section.prod_cat2"
-#     url        = ""
-#     weight     = 2
-#     parent     = "menu.products"
-#     post       = 2
-
-# [[menu.main]]
-#     name       = "V1"
-#     url        = ""
-#     weight     = 1
-#     parent     = "section.prod_cat2"
-
-# [[menu.main]]
-#     name       = "V2"
-#     url        = ""
-#     weight     = 2
-#     parent     = "section.prod_cat2"
-
-# [[menu.main]]
-#     name       = "Marketing"
-#     identifier = "section.marketing"
-#     url        = ""
-#     weight     = 3
-#     parent     = "menu.products"
-#     post       = 2
-
-# [[menu.main]]
-#     name       = "Packages"
-#     url        = ""
-#     weight     = 1
-#     parent     = "section.marketing"
-
 [[menu.main]]
     name       = "Blog"
     identifier = "menu.blog"
@@ -185,16 +98,10 @@ pagerSize = 6
 
 # Top bar social links menu
 
-# [[menu.topbar]]
-#     weight = 1
-#     name = "Phone"
-#     url = "tel:+977 34 567 89 01"
-#     pre = "<i class='fas fa-2x fa-phone'></i>"
-
 [[menu.topbar]]
     weight = 3
     name = "Facebook"
-    url = "http://facebook.com/novala-biotech"
+    url = "https://www.facebook.com/novalabiotech"
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
@@ -206,14 +113,14 @@ pagerSize = 6
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:hello@novala.com.np"
+    url = "mailto:info@novala.com.np"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
     # author = "Novala"
     defaultKeywords = ["novala", "biotech", "rapidkits", "ivd" ]
-    mainSections = ["blog"]
+    mainSections = ["products", "blog"]
     defaultDescription = "Official site for Novala Biotech"
 
     #icons
@@ -221,8 +128,8 @@ pagerSize = 6
     apple_touch_icon = "img/logo/novala-logo-small.svg"
 
     # Social media
-    facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
-    twitter_site = "Novala" # the Twitter handle of your site (without the '@')
+    facebook_site = "novalabiotech" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
+    twitter_site = "novalabio" # the Twitter handle of your site (without the '@')
     default_sharing_image = "img/logo/novala-share.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
@@ -292,11 +199,11 @@ pagerSize = 6
       """
 
 [permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:month/:day/:contentbasename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     # text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
     #   <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
     #   <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
@@ -369,6 +276,37 @@ pagerSize = 6
 [params.footer.recent_posts]
     enable = true
 
+[params.search]
+    enable = true
+    primary_color = "#016fc1"
+    include_sections = ["products", "blog"] # if `include_sections` empty, then sections will come from the `mainSections`
+    include_all_sections = false # if `include_all_sections` is true, then comment out the `include_sections`
+    include_list_pages = false
+    show_image = true
+    show_description = true
+    show_tags = true
+    show_categories = true
+
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+[module]
+
+[[module.imports]]
+    path = "github.com/gethugothemes/hugo-modules/search"
+
+[[module.imports]]
+    path = "github.com/gethugothemes/hugo-modules/pwa"
+
+############################# Outputs ##############################
+[outputs]
+    home = ["HTML", "RSS", "WebAppManifest", "SearchIndex"] 
+
+############################ Output Format ###########################
+[outputFormats]
+[outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "searchindex"
+    isPlainText = true
+    notAlternative = true
