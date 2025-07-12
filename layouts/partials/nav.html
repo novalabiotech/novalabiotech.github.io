@@ -16,6 +16,9 @@
                       <span class="sr-only">{{ i18n "navToggle" }}</span>
                         <i class="fas fa-align-justify"></i>
                     </button>
+                    <button type="button" class="navbar-toggle btn-template-main" aria-label="search" data-target="search-modal">
+                        <i class="fas fa-search"></i>
+                      </a>
                 </div>
             </div>
             <!--/.navbar-header -->
@@ -139,23 +142,19 @@
                   </li>
                   {{ end }}
                   {{ end }}
+                  {{- if .Site.Params.search.enable -}}
+                    <li>
+                      <a href="#" aria-label="search" data-target="search-modal">
+                        <i class="fas fa-search"></i>
+                      </a>
+                    </li>
+                  {{- end -}}
                 </ul>
-            </div>
-            <!--/.nav-collapse -->
-
-            <div class="collapse clearfix" id="search">
-                <form class="navbar-form" role="search">
-                    <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Search">
-                        <span class="input-group-btn">
-                    <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
-                </span>
-                    </div>
-                </form>
             </div>
             <!--/.nav-collapse -->
         </div>
     </div>
 </header>
-
 <!-- *** NAVBAR END ***-->
+
+{{- partial "search-modal.html" (dict "Context" . ) -}}

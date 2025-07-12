@@ -6,14 +6,23 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
-{{ if and .Site.Params.enableGoogleMaps .Site.Params.googleMapsApiKey }}
-<script src="//maps.googleapis.com/maps/api/js?key={{.Site.Params.googleMapsApiKey}}&v=3.exp"></script>
-<script src="{{ "js/hpneo.gmaps.js" | relURL }}"></script>
-<script src="{{ "js/gmaps.init.js" | relURL }}"></script>
-{{ end }}
+
 {{ if and .Site.Params.enableRecaptchaInContactForm .Site.Params.googleRecaptchaKey }}
 <script src="//www.google.com/recaptcha/api.js" async defer></script>
 {{ end }}
-<script src="{{ "js/front.js" | relURL }}"></script>
 
+{{- $scripts := slice (resources.Get "js/front.js") -}}
+{{ if .Site.Params.search.enable }}
+    {{ partial "search-index.html" . }}
+    {{ $scripts = $scripts | append (resources.Get "js/search.js") }}
+{{ end }}
+
+{{ $scripts = $scripts | resources.Concat "js/script.js" }}
+
+{{- if hugo.IsProduction -}}
+  {{- $scripts = $scripts | minify | fingerprint -}}
+{{- end -}}
+
+<script src="{{- $scripts.RelPermalink -}}" 
+  integrity="{{- $scripts.Data.Integrity -}}"></script>
 
