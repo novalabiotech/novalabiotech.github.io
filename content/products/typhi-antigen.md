@@ -6,6 +6,7 @@ synopsis: >-
   designed for the qualitative detection of Salmonella Typhi antigens in human
   feces, aiding in the diagnosis of typhoid fever.
 icon: fa-bacterium
+banner: /img/products/typhi-antigen.webp
 order: 6
 tags:
   - Salmonella typhi
@@ -15,19 +16,19 @@ keywords:
   - Salmonella Typhi
 ---
 
-Intended Use
+## Intended Use
 
 The S. Typhi Antigen Rapid Test Cassette is designed for the qualitative detection of Salmonella Typhi (S. Typhi) antigen in human fecal specimens, aiding in the diagnosis of typhoid fever.
 
  
 
-Summary
+## Summary
 
 Typhoid fever, caused by the bacterium Salmonella typhi, is a life-threatening illness often observed in developing countries like Nepal, affecting approximately 12.5 million people annually all over the world. Infection typically occurs through ingestion, leading to the bacteria's attachment to intestinal epithelial cells, followed by multiplication in the lymph nodes and bloodstream, resulting in severe clinical symptoms.
 
  
 
-Principle
+## Principle
 
 The S. Typhi Antigen Rapid Test employs a qualitative membrane strip immunoassay. These kits contains key components which include:
 
@@ -37,7 +38,7 @@ b. Nitrocellulose Membrane: Contains a test band (T band) coated with anti-typho
 
 When a specimen is applied, if S. Typhi antigen is present, it binds to the antibodies and forms a colored T band, indicating a positive result. A control line will always appear to verify that the test was performed correctly.
 
- Warnings and Precautions
+###  Warnings and Precautions
 
 * For in vitro diagnostic use only.
 * Intended for healthcare professionals and point-of-care sites.
@@ -47,18 +48,18 @@ When a specimen is applied, if S. Typhi antigen is present, it binds to the anti
 
  
 
-Materials Provided:
+## Materials Provided:
 
 * Test cassette
 * Buffer
 
-Materials Required But Not Provided:
+### Materials Required But Not Provided:
 
 * Specimen collection container
 
  
 
-Storage and Stability
+## Storage and Stability
 
 * Store in a sealed pouch at 4-30°C (40-86°F).
 * Use before the expiration date indicated on the packaging.
@@ -67,7 +68,7 @@ Storage and Stability
 
  
 
-Specimen Collection
+## Specimen Collection
 
 * Use fecal samples (1-2 mL or 1-2 g) in a clean, dry container for optimal antigen detection.
 * Best results obtained if assays are performed within 6 hours of collection. Specimens can be stored at 2-8°C for 3 days or below -20°C for long-term storage.
@@ -75,7 +76,7 @@ Specimen Collection
 
  
 
-Test Procedure
+## Test Procedure
 
 1. Allow the test device and specimens to reach room temperature (15-30°C or 59-86°F).
 2. Remove the test cassette from the sealed pouch.
@@ -84,7 +85,7 @@ Test Procedure
 
  
 
-Interpretation of Results
+## Interpretation of Results
 
 * Positive: Two colored lines (C and T) indicate the presence of S. Typhi antigen.
 * Negative: One colored line (C) indicates the absence of detectable S. Typhi antigen.
@@ -92,20 +93,20 @@ Interpretation of Results
 
  
 
-Quality Control
+## Quality Control
 
 The control line (C) serves as an internal procedural control, confirming sufficient specimen volume and proper technique. It is good practice to test known positive and negative controls periodically to ensure proper test performance.
 
  
 
-Limitations
+## Limitations
 
 * This test is qualitative; it cannot provide quantitative values or determine antigen concentration.
 * All results should be interpreted in conjunction with clinical information.
 
  
 
-Performance Characteristics
+## Performance Characteristics
 
 * Agreement with Commercial Tests:
   * 97.30% for positive specimens, 99.21% for negative specimens.
@@ -117,7 +118,7 @@ No cross-reactivity observed with specimens from patients with various other inf
 
  
 
-Bibliography
+## Bibliography
 
 1. Ivanoff BN et al. "Vaccination against typhoid fever: present status." Bulletin of the World Health Organization 1994; 72: 957-71.
 2. Gotuzzo E et al. "Association between AIDS and infection with Salmonella typhi in an endemic area." Archives of Internal Medicine 1991; 151: 381-389.
