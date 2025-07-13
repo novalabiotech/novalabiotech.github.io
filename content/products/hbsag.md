@@ -14,6 +14,8 @@ tags:
 keywords:
   - HBsAg
   - rapidkit
+aliases: 
+  - /_/hbsag
 ---
 
 **Introduction:** The HBsAg Rapid Test Kit is a qualitative immunoassay designed for the detection of Hepatitis B surface antigen (HBsAg) in human serum or plasma. It provides a rapid and reliable method for the diagnosis of Hepatitis B infection.

@@ -13,6 +13,8 @@ tags:
 keywords:
   - h-pylori
   - rapidkit
+aliases: 
+  - /_/h-pylori
 ---
 
 The H. pylori Antigen Rapid Test Kit is a qualitative immunoassay designed to detect the presence of Helicobacter pylori (H. pylori) antigens in human stool samples. This test kit offers a convenient and reliable method for diagnosing H. pylori infection.

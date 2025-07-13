@@ -8,6 +8,8 @@ synopsis: >-
   just 15 minutes, aiding in the timely diagnosis and management of Dengue
   infections. 
 banner: /img/products/rapidkit.png
+aliases: 
+  - /_/dengue-iggigm
 ---
 
 

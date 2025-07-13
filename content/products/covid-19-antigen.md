@@ -20,7 +20,7 @@ keywords:
   - SARS covid-19 rapid test kits
   - Covid test kits
 aliases: 
-  - /_/covid19-antigen
+  - /_/covid-19-antigen
   - /products/covid-19-antigen-rapid-test-kits
 ---
 

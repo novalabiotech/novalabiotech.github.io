@@ -15,6 +15,8 @@ tags:
 keywords:
   - HIV
   - rapid kit
+aliases: 
+  - /_/hiv
 ---
 
 **INTRODUCTION**:

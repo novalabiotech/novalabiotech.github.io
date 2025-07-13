@@ -14,6 +14,8 @@ tags:
 keywords:
   - HCV
   - rapidkit
+aliases: 
+  - /_/hcv
 ---
 
 **Introduction:**
