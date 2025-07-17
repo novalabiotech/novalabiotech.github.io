@@ -14,6 +14,8 @@ tags:
 keywords:
   - typhoid fever
   - Salmonella Typhi
+aliases: 
+  - /_/typhi
 ---
 
 ## Intended Use

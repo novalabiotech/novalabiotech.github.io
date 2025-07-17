@@ -15,18 +15,18 @@ keywords:
   - Syphilis
   - rapidkit
 aliases: 
-  - /_/vdrl
+  - /_/syphilis
 ---
 
 **Introduction:**
-The Syphilis  Rapid Test Kit is a qualitative immunoassay designed for the detection of antibodies to Treponema pallidum, the causative agent of syphilis, in human serum or plasma. It provides a rapid and reliable method for the diagnosis of syphilis infection.
-Intended Use: The Syphilis  Rapid Test Kit is intended for healthcare professionals and laboratory use as an aid in the diagnosis of syphilis. It is not intended for self-testing at home.
+The Syphilis Rapid Test Kit is a qualitative immunoassay designed for the detection of antibodies to Treponema pallidum, the causative agent of syphilis, in human serum or plasma. It provides a rapid and reliable method for the diagnosis of syphilis infection.
+Intended Use: The Syphilis Rapid Test Kit is intended for healthcare professionals and laboratory use as an aid in the diagnosis of syphilis. It is not intended for self-testing at home.
 
 **Principle:**
-The Syphilis  Rapid Test Kit is based on the principle of lateral flow immunoassay. The test utilizes specific antigens to selectively detect antibodies to Treponema pallidum in the test sample. The test cassette contains a membrane strip pre-coated with T. pallidum antigens and coloured particles conjugated with anti-human IgG antibodies. When the test sample is added, if antibodies to T. pallidum are present, they bind to the conjugate, forming a coloured line in the test region. The control line serves as a procedural control to validate the test results.
+The Syphilis Rapid Test Kit is based on the principle of lateral flow immunoassay. The test utilizes specific antigens to selectively detect antibodies to Treponema pallidum in the test sample. The test cassette contains a membrane strip pre-coated with T. pallidum antigens and coloured particles conjugated with anti-human IgG antibodies. When the test sample is added, if antibodies to T. pallidum are present, they bind to the conjugate, forming a coloured line in the test region. The control line serves as a procedural control to validate the test results.
 
 **Storage and Stability:**
-The Syphilis  Rapid Test Kit should be stored at room temperature (2-30ºC).
+The Syphilis Rapid Test Kit should be stored at room temperature (2-30ºC).
 The kit components are stable through the expiration date printed on the sealed pouch.
 The test cassette must remain in the sealed pouch until use.
 Do not freeze the test kit.
@@ -54,6 +54,6 @@ Reactive Result: Only the control line appears. This indicates a reactive result
 Invalid Result: If no lines appear, or if only the test line appears without the control line, the result is invalid. Repeat the test with a new kit.
 
 **Limitations:**
-The Syphilis  Rapid Test Kit is a screening test and should be confirmed by additional testing methods if the results are positive or inconsistent with clinical evidence.
+The Syphilis Rapid Test Kit is a screening test and should be confirmed by additional testing methods if the results are positive or inconsistent with clinical evidence.
 False-negative or false-positive results may occur due to various factors, including improper sample collection, storage, or handling.
 Results should be interpreted in conjunction with clinical information and other diagnostic findings.
