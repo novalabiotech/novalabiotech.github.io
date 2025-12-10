@@ -2,7 +2,7 @@
 title: 'H. pylori Infection in Nepal: Symptoms, Diagnosis, and Effective Treatment Options'
 featured: false
 synopsis: A comprehensive look at H. pylori infection in Nepal—common symptoms, transmission, diagnostic methods, and treatment strategies
-banner: /img/blogs/1080__1920__type2_d5023a80_solar_re_12_half_9_16_foreground_only_template_2_horizontal.webp
+banner: /img/blogs/pylori-bacteria.jpg
 date: 2025-12-10T22:46:00
 tags:
   - H. pylori Nepal, gastric infection test, H. pylori rapid test, stomach ulcer diagnosis
