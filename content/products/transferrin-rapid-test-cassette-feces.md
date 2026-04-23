@@ -1,15 +1,16 @@
 ---
 title: Transferrin Rapid Test Cassette (Feces)
-featured: false
+featured: true
 synopsis: The Transferrin Rapid Test Cassette (Feces) by Novala Biotech is a quick and reliable in vitro diagnostic kit for the qualitative detection of transferrin in human feces. Designed for professional use in hospitals and clinics, it aids in the early detection of gastrointestinal bleeding and colorectal cancer. Using immunochromatography technology, the test delivers accurate results in just 5 minutes. Its high sensitivity and specificity make it an essential tool for routine screenings and clinical monitoring.
 icon: <i class="fa-solid fa-disease"></i>
 banner: /img/products/hand-with-protective-gloves-making-covid-test.webp
-order: 15
+order: 1
 tags:
   - Colorectal Cancer Detection, FIT test, Gastrointestinal Bleeding, GI Bleeding Test, Colon Cancer Screening, Early Cancer Detection, Rapid Test Cassette, Feces Test Kit, High Accuracy Diagnostic,  Easy-to-Use Medical Test, Quick Results Test
 categories:
   - Products
 ---
+
 ## **Quick Overview**
 
 The **Transferrin Rapid Test Cassette** is a fast, reliable, lateral flow immunoassay designed for the **qualitative detection of transferrin in human feces**. It supports early detection of **gastrointestinal bleeding**, including **colorectal cancer**, delivering results in just **5 minutes**.
