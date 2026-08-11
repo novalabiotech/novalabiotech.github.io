@@ -12,6 +12,8 @@ categories:
   - vet
   - cow
   - buffalo
+aliases: 
+  - /_/bovine-p
 ---
 
 ## Current Practices for Detecting Bovine Pregnancy
