@@ -1,7 +1,7 @@
 ---
-title: 'Pink Walk 2026: Walk for Awareness. Screen for Prevention.'
+title: 'PinkWalk 2026: Walk for Awareness. Screen for Prevention.'
 featured: false
-synopsis: Join Pink Walk 2026 on 3 October in Kathmandu & Lalitpur and take an extra step toward prevention. Novala Biotech is offering free FIT-based stool screening for colorectal cancer to 50 selected participants. The non-invasive test helps detect hidden gastrointestinal bleeding using FIT-Hb and FIT-Tf markers, supporting early evaluation before symptoms become serious.
+synopsis: Join PinkWalk 2026 on 3 October in Kathmandu & Lalitpur and take an extra step toward prevention. Novala Biotech in collaboration with CAMS is offering free FIT-based stool screening for colorectal cancer to 50 selected participants. The non-invasive test helps detect hidden gastrointestinal bleeding using FIT-Hb and FIT-Tf markers, supporting early evaluation before symptoms become serious.
 banner: /img/blogs/ChatGPT Image Sep 30, 2026, 10_31_20 AM.webp
 date: 2026-09-30T10:28:00.000+05:45
 tags:
@@ -11,6 +11,8 @@ tags:
 categories:
   - FIT test
   - Colon Cancer
+aliases: 
+  - /_/pinkwalk-fit
 ---
 
 ## 🎁 Special Pink Walk Screening Offer
@@ -28,8 +30,6 @@ That is where stool-based screening can help.
 As part of the Pink Walk cancer-awareness initiative, **50 selected participants** will receive a **FREE FIT-based stool screening test**.
 
 A simple stool sample can help detect hidden gastrointestinal bleeding and identify people who may benefit from further medical evaluation.
-
-**Only 50 free tests are available.**
 
 ***
 
