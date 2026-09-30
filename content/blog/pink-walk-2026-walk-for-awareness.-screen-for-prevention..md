@@ -223,4 +223,4 @@ Take another simple step toward your own preventive health.
 
 **An awareness and preventive-screening initiative supported by Novala Biotech Pvt. Ltd.**
 
-_Stool-based occult blood tests are screening tools and are not intended to independently diagnose or exclude colorectal cancer. Positive results require appropriate clinical evaluation and follow-up._
+_Stool-based blood tests are screening tools and are not intended to independently diagnose or exclude colorectal cancer. Positive results require appropriate clinical evaluation and follow-up._
