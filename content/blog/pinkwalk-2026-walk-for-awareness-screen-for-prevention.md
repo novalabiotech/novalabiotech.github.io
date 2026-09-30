@@ -21,9 +21,9 @@ categories:
 
 ## FREE stool-based colorectal screening for 50 participants
 
-This PinkWalk is more than a walk — it is a reminder that **early detection can change outcomes**.
+This [PinkWalk](https://pinkwalk.github.io/) is more than a walk — it is a reminder that **early detection can change outcomes**.
 
-As participants come together on **3 October 2026** to raise awareness about cancer, Novala Biotech in and [Center for American Medical Specialist (CAMS)](https://camsnepal.com/) are extending the message of prevention beyond breast cancer awareness to another major but often silent health concern: **colorectal cancer**.
+As participants come together on **3 October 2026** to raise awareness about cancer, Novala Biotech and [Center for American Medical Specialist (CAMS)](https://camsnepal.com/) are extending the message of prevention beyond breast cancer awareness to another major but often silent health concern: **colorectal cancer**.
 
 Many colorectal cancers develop gradually from precancerous polyps. In the early stages, there may be **no obvious symptoms**, but very small amounts of blood can sometimes be present in the stool before they are visible to the eye.
 
@@ -41,11 +41,11 @@ A simple stool sample can help detect hidden gastrointestinal bleeding and ident
 
 Tiny amounts of blood may be released from colorectal polyps, cancers or other gastrointestinal conditions even when the stool looks completely normal.
 
-FIT-Hb is widely used internationally as a **non-invasive colorectal cancer screening test**.
+FIT-Hb is widely used internationally as a non-invasive colorectal cancer screening test.
 
 It is - 
 
-- **Non-invasive**
+- Non-invasive
 - Simple stool-based testing
 - Low-cost
 - No bowel preparation
@@ -58,7 +58,7 @@ It is -
 
 **FIT-Tf detects human transferrin**, another blood-associated protein that can be present when gastrointestinal bleeding occurs.
 
-Transferrin can remain comparatively stable in stool and can provide **additional information about occult gastrointestinal bleeding**, particularly where hemoglobin from upper GI region may undergo degradation.
+Transferrin can remain comparatively stable in stool and can provide additional information about occult gastrointestinal bleeding, particularly where hemoglobin from upper GI region may undergo degradation.
 
 It has the same benefits as FIT-Hb and can complement hemoglobin-based stool testing in selected screening and clinical settings.
 
@@ -88,7 +88,7 @@ Screening may also be considered earlier if you have:
 - Long-standing inflammatory bowel disease
 - Other hereditary or clinical risk factors
 
-People with increased risk should discuss the **appropriate screening method and starting age with their doctor**.
+People with increased risk should discuss the appropriate screening method and starting age with their doctor.
 
 # Who should NOT rely on this Screening test alone?
 
@@ -114,10 +114,9 @@ For women, stool collection should preferably be **avoided during active menstru
 
 ### A positive result is NOT a cancer diagnosis.
 
-Blood in stool can occur for several reasons, including:
+Blood in stool can occur for several other reasons, including:
 
 - Colorectal polyps
-- Colorectal cancer
 - Hemorrhoids
 - Gastrointestinal inflammation
 - Ulcers
@@ -153,7 +152,7 @@ The progression can occur over several years:
 
 **Normal colon → Polyp → Precancerous lesion → Colorectal cancer**
 
-Screening creates an opportunity to identify abnormalities **before serious disease becomes clinically obvious**.
+Screening creates an opportunity to identify abnormalities before serious disease becomes clinically obvious.
 
 That is the real value of preventive screening.
 
@@ -168,6 +167,8 @@ You are already walking for cancer awareness. Take another simple step toward yo
 **3 October 2026**
 **Kathmandu Durbar Square to Patan Durbar Square**
 
+[**Register**](https://pinkwalk.github.io/register) **•** [**Invite**](https://pinkwalk.github.io/invite) **•** [**Share**](https://pinkwalk.github.io/join)
+
 ### 🧪 FREE FIT Stool Screening
 
 **Available for 50 selected PinkWalk participants**
@@ -180,6 +181,6 @@ Screen for Prevention.
 
 Act Early.
 
-**An awareness and preventive-screening initiative supported by Novala Biotech Pvt. Ltd. in collaboration with [Center for American Medical Specialist (CAMS)](https://camsnepal.com/)**
+**An awareness and preventive-screening initiative supported by Novala Biotech Pvt. Ltd. in collaboration with** [**Center for American Medical Specialist (CAMS)**](https://camsnepal.com/)
 
 _Stool-based blood tests are screening tools and are not intended to independently diagnose or exclude colorectal cancer. Positive results require appropriate clinical evaluation and follow-up._
