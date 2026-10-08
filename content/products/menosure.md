@@ -4,7 +4,7 @@ featured: true
 synopsis: Detects elevated FSH levels associated with menopause
 icon: fa-female
 banner: /img/products/Top FLAP.webp
-order: 1
+order: 2
 tags:
   - menopause
   - menosure
