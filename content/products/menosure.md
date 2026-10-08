@@ -1,7 +1,7 @@
 ---
 title: MenoSure
 featured: true
-synopsis: Detects elevated FSH levels associated with menopause
+synopsis: One step urine test to detect elevated FSH levels associated with menopause
 icon: fa-female
 banner: /img/products/Top FLAP.webp
 order: 2
@@ -40,6 +40,8 @@ This test can be used anytime except during the midcycle (8-15 days after menstr
 - **Positive:** Two color bands are visible, and the test line (T) is equal to or darker than the control line (C). This means your FSH level is at or above 25 mIU/mL, suggesting you may be transitioning into menopause. Please repeat the FSH test for three consecutive months. If positive results during three consecutive months or inconsistent results, consult with a physician.
 - **Negative:** Only the control line (C) appears, or the test line (T) is visible but lighter than the control line. This indicates your FSH concentration is below the 25 mIU/mL threshold.
 - **Invalid:** No line appears in the control region (C). This means the test failed, please repeat with another test kit. 
+
+![](/img/products/MenoSure%20-%20Menopause%20Test%20Kit%20Packaging%20Wave.webp)
 
 #### **Limitations of the Test Kits**
 
