@@ -33,7 +33,7 @@ This test can be used anytime except during the midcycle (8-15 days after menstr
 - Collect your urine in a clean, dry plastic or glass container. Avoid using your first morning urine; for best results, collect the sample between 10:00 A.M. and 8:00 P.M.
 - Allow the test cassette and the urine sample to reach room temperature (20-30°C) prior to testing.
 - Remove the test cassette from its sealed foil pouch. Hold the dropper vertically and squeeze 3 full drops (approximately 100 µL) of urine into the specimen well.
-- Wait for the colored lines to appear. Interpret the results at 3-5 minutes, and strictly do not read the results after 10 minutes.
+- Wait for the colored lines to appear. Interpret the results at 3-5 minutes and strictly do not read the results after 10 minutes.
 
 #### **How to Interpret the Results**
 
