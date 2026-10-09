@@ -3,13 +3,15 @@ title: MenoSure
 featured: true
 synopsis: One step urine test to detect elevated FSH levels associated with menopause
 icon: fa-female
-banner: /img/products/Top FLAP.webp
+banner: /img/products/menosure.webp
 order: 2
 tags:
   - menopause
   - menosure
 categories:
   - women's health
+aliases: 
+  - /_/menosure
 ---
 
 #### **Menopause** 
@@ -41,7 +43,7 @@ This test can be used anytime except during the midcycle (8-15 days after menstr
 - **Negative:** Only the control line (C) appears, or the test line (T) is visible but lighter than the control line. This indicates your FSH concentration is below the 25 mIU/mL threshold.
 - **Invalid:** No line appears in the control region (C). This means the test failed, please repeat with another test kit. 
 
-![](/img/products/MenoSure%20-%20Menopause%20Test%20Kit%20Packaging%20Wave.webp)
+![](/img/products/menosure-interpretation-guide.webp)
 
 #### **Limitations of the Test Kits**
 
