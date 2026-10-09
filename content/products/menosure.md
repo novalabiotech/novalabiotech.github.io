@@ -22,7 +22,7 @@ Menopause is clinically defined as having gone 12 consecutive months without a m
 
 **MenoSure** contains 3 individually packed test kits to be used in three consecutive months. Since FSH secretion is pulsatile and varies throughout the day, a single measurement can be misleading; elevated levels must be confirmed by more than one test.
 
-**Intended Users:** Women experiencing irregular periods, hot flashes, night sweats, mood changes, sleep disturbances, brain fog etc. If you suspect you are going through perimenopause, you can use MenoSure.
+**Intended Users:** Women experiencing irregular periods, hot flashes, night sweats, mood changes, sleep disturbances, brain fog etc. If you suspect you are going through perimenopause, you can use MenoSure. Note that, clinical diagnosis of menopause in women over 45 does not require FSH testing, and that the test cannot be interpreted in women using hormonal contraception or hormone therapy
 
 #### **How to Use the Test Kit**
 
