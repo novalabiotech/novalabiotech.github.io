@@ -53,8 +53,11 @@ This test can be used anytime except during the midcycle (8-15 days after menstr
 #### **Where to find MenoSure**
 
 - **Online Platforms:** Available in **epharmacy.com**
-- **Local Pharmacies:** You can find rapid diagnostic kits at Tesla pharmacies location below:
-    - Bhaisepati located besides Sanima Bank
-    - Galkopakha, Thamel, 100meter towards from ASCOL campus towards Samakhusi
-    - Baluwatar, Near PM quarter, in between russian embassy and Himalayan Java
-- **Clinics:** Center for American Medical Specialists (CAMS), New Baneshwar
+- **Local Pharmacies:** You can find rapid diagnostic kits at local pharmacies 
+   Tesla pharmacies:
+    - [Bhaisepati](https://maps.app.goo.gl/b8AEyT2R38uNQ5Ft7) located besides Sanima Bank
+    - [Galkopakha](https://maps.app.goo.gl/qNG4eAJA5nnxdcao7), Thamel, 100meter towards from ASCOL campus towards Samakhusi
+    - [Baluwatar](https://maps.app.goo.gl/RFhA2NmR4ittCbtc9), Near PM quarter, in between Russian Embassy and Himalayan Java and 
+    - [Chain Pharmacy](https://maps.app.goo.gl/ZAQeucCcPk7CbXgh6), Basundhara
+
+- **Clinics:** Center for American Medical Specialists (CAMS), [New Baneshwar](https://maps.app.goo.gl/M1mpR4tXkq4jzU7W9)
